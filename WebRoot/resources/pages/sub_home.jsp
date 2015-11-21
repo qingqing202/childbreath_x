@@ -1,0 +1,128 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: QQQ
+  Date: 15/8/23
+  Time: 上午10:23
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+         pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="no-js" lang="en">
+<html>
+<head>
+  <%@ include file="include/html_head.jsp" %>
+  <link href="http://v3.bootcss.com/assets/css/docs.min.css" rel="stylesheet">
+  <style type="text/css">
+    h1.background_img1 {
+      background-image: url(<%=basePath%>/resources/img/footer_small2.jpg);
+      background-repeat:no-repeat;
+      background-position:center;
+      background-size:cover;
+      max-width:100%;
+      display:block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .table th, .table td {
+        text-align: center;
+    }
+
+  </style>
+  <style type="text/css">
+    div.footer{background-image: url(<%=basePath%>/resources/img/foot.jpg);  padding: 20px;}
+  </style>
+
+  <% String param = request.getParameter("sub");
+    String CONTENT_FILE = getClass().getResource("/").getPath() + "resources/pages/content/" + param + ".xml";
+    HashMap<String, Object> hash_for_all= new HashMap<>();
+    XmlReader xmlReader = new XmlReader();
+    xmlReader.main(CONTENT_FILE, hash_for_all);
+    HashMap<String, String> hash_for_title = (HashMap)hash_for_all.get("title");
+    HashMap<String, Object> hash_for_content_all= (HashMap)hash_for_all.get("content");
+  %>
+  <title><%=hash_for_title.get("name")%></title>
+</head>
+<body>
+<%@page import="utility.XmlReader" language="java" %>
+<%@page import="java.util.*"%>
+
+
+<div class="container bs-docs-container">
+  <div class="row">
+    <div class="col-md-12" role="main">
+      <div class="bs-docs-section">
+        <h1 class="background_img1">上海市儿童医学中心<br/><small>呼吸科</small><br/><br/><br/></h1>
+        <hr />
+        <h1><%=hash_for_title.get("name")%></h1>
+        <h1><small><%=hash_for_title.get("content")%></small></h1>
+
+        <%
+        int content_size = hash_for_content_all.size();
+        for (int i = 0; i<content_size; i++ ) {
+            HashMap<String, String> hash_for_content= (HashMap)hash_for_content_all.get(String.valueOf(i));
+            %>
+          <%if(hash_for_content.get("type").equals("panel")){
+              if(hash_for_content.containsKey("url")) {%>
+            <a href="<%=hash_for_content.get("url")%>">
+                <% }
+              if (i%5 == 0) {%>
+              <div class="panel panel-warning">
+              <%} else if (i%5 == 1) {%>
+                  <div class="panel panel-danger">
+              <%} else if (i%5 == 2) {%>
+                  <div class="panel panel-success">
+                          <%} else if (i%5 == 3) {%>
+                      <div class="panel panel-info">
+              <%} else {%>
+              <div class="panel panel-default">
+              <%}%>
+                <div class="panel-heading"><h3 class="panel-title"><span class="glyphicon glyphicon-bookmark" aria-hidden="true">
+                    <strong><%=hash_for_content.get("name")%></strong></span></h3></div>
+                  <% if (hash_for_content.containsKey("intro")) {%>
+                  <div class="panel-body">
+                  <%=hash_for_content.get("intro")%>
+                </div>
+                  <%}%>
+            </div>
+                      <%if(hash_for_content.containsKey("url")) {%>
+                      </a>
+        <%}
+          } else if (hash_for_content.get("type").equals("media")) {
+              if(i%3==0) {
+            %>
+            <div class="bs-callout bs-callout-danger">
+            <% } else if (i%3==1) { %>
+              <div class="bs-callout bs-callout-info">
+                <% } else if (i%3==2) { %>
+                <div class="bs-callout bs-callout-warning">
+                  <%}%>
+            <div class="media">
+            <div class="media-left">
+            <a href="<%=hash_for_content.get("url")%>">
+            <img class="media-object" src="<%=basePath+hash_for_content.get("src")%>" alt="<%=hash_for_content.get("alt")%>">
+            </a>
+            </div>
+            <div class="media-body">
+                <a href="<%=hash_for_content.get("url")%>">
+            <h4 class="media-heading"><%=hash_for_content.get("name")%></h4>
+                <%=hash_for_content.get("intro")%>
+                </a>
+            </div>
+            </div>
+            </div>
+          <%
+            }
+        }
+        %>
+
+    </div>
+      </div></div></div></div>
+<tb>
+  <tr>
+    <img class="img-responsive" class="center-block" width=100% src="<%=basePath%>/resources/img/footer_small3.jpg">
+  </tr>
+</tb>
+</body>
+</html>

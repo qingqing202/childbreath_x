@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+        食品与药物的相互作用
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>
+          <![CDATA[ 食品与药物的相互作用<br/>（呼吸）
+          ]]>
+        </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+                <table class="table" class="table-bordered">
+      <tbody>
+
+        <tr class="active">
+          <td>
+          <p><strong class="text-danger">阿莫西林
+          </strong></p>
+          <p>
+          食物不影响吸收，空腹或饭后均可服用。可与果汁、饮料、牛奶同服
+          </p>
+          </td>
+        </tr>
+
+        <tr class="success">
+          <td>
+          <p><strong class="text-danger">
+          阿莫西林/克拉维酸
+          </strong></p>
+          <p>避免与高脂肪饮食同服，以免减少克拉维酸的吸收。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="info">
+          <td>
+          <p><strong class="text-danger">头孢拉定
+          </strong></p>
+          <p>可餐时或餐前服用，餐前餐后均可。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="warning">
+          <td>
+          <p><strong class="text-danger">头孢羟氨苄
+          </strong></p>
+          <p>与食物、牛奶、配方奶同服对吸收无明显影响，餐前餐后均可，可与食物同服减少胃肠道刺激。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="danger">
+          <td>
+          <p><strong class="text-danger">头孢呋辛酯
+          </strong></p>
+          <p>食物和牛奶可提高生物利用度和峰浓度，与食物同服可减少胃肠道不适。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="active">
+          <td>
+          <p><strong class="text-danger">头孢克洛
+          </strong></p>
+          <p>食物或牛奶刻延迟和降低峰浓度，饭前1小时或饭后2小时服用。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="success">
+          <td>
+          <p><strong class="text-danger">头孢丙烯
+          </strong></p>
+          <p>食物不影响药物的吸收，可餐时或餐前服用，胃部不适时可与食物同服。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="info">
+          <td>
+          <p><strong class="text-danger">头孢地尼
+          </strong></p>
+          <p>食物不影响药物的总吸收率，可餐时或餐前服用，与抗酸药、铁剂间隔两小时服用，胃部不适时可与食物同服。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="warning">
+          <td>
+          <p><strong class="text-danger">头孢克肟
+          </strong></p>
+          <p>食物延长达峰时间，可餐时或餐前服用，可与食物同服以减少胃肠道反应。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="danger">
+          <td>
+          <p><strong class="text-danger">
+          </strong></p>阿奇诶素
+          <p>与含铝、镁的制酸药间隔两小时服用，进食可影响吸收，故需在饭前一小时或饭后两小时口服
+          </p>
+          </td>
+        </tr>
+
+        <tr class="active">
+          <td>
+          <p><strong class="text-danger">红霉素
+          </strong></p>
+          <p>与酸性饮料和牛奶间隔一小时服用，与食物同服可避免胃肠道不适。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="success">
+          <td>
+          <p><strong class="text-danger">克拉霉素
+          </strong></p>
+          <p>可餐时或餐前服用。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="info">
+          <td>
+          <p><strong class="text-danger">克林霉素
+          </strong></p>
+          <p>进食与否不影响服用
+          </p>
+          </td>
+        </tr>
+
+        <tr class="warning">
+          <td>
+          <p><strong class="text-danger">SMZco
+          </strong></p>
+          <p>可空腹用水送服
+          </p>
+          </td>
+        </tr>
+
+        <tr class="danger">
+          <td>
+          <p><strong class="text-danger">甲硝唑
+          </strong></p>
+          <p>与食物同服可降低和延迟峰浓度，空腹服用，如有胃部不适可与食物同服。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="active">
+          <td>
+          <p><strong class="text-danger">利福平
+          </strong></p>
+          <p>饭前一小时或饭后两小时空腹服用，可与食物同服以减少胃肠道刺激，胶囊打开与果冻或果酱混合后服用。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="success">
+          <td>
+          <p><strong class="text-danger">异烟肼
+          </strong></p>
+          <p>与食物同服降低吸收速度和吸收率，饭前一小时或饭后两小时用水送服；避免服用富含组胺和酪胺的食物（奶酪、蚕豆、黄豆、酒等），增加饮食中叶酸、烟酸、镁的摄入，补充维生素B6.
+          </p>
+          </td>
+        </tr>
+
+        <tr class="info">
+          <td>
+          <p><strong class="text-danger">伏立康唑
+          </strong></p>
+          <p>高脂饮食减少24%的吸收量，饭前一小时或饭后一小时服用；避免服用西柚汁，降低血浆浓度。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="warning">
+          <td>
+          <p><strong class="text-danger">氟康唑
+          </strong></p>
+          <p>食物降低吸收速度不影响吸收率，餐前餐后均可服用。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="danger">
+          <td>
+          <p><strong class="text-danger">阿昔洛韦
+          </strong></p>
+          <p>食物不影响吸收，可与食物同服。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="active">
+          <td>
+          <p><strong class="text-danger">地高辛
+          </strong></p>
+          <p>富含果胶和纤维的食物能减少地高辛的吸收，在服用地高辛前1小时和后2小时应避免服用；与进餐保持相同的时间间隔服用；饮食中保持足够的钾，低钾可能增加地高辛毒性。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="success">
+          <td>
+          <p><strong class="text-danger">卡托普利
+          </strong></p>
+          <p>食物减少其吸收，在餐前1小时或餐后2小时服用；长期服用可引起锌缺乏导致味觉下降，注意补锌；限制盐的摄入和高钾饮食。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="info">
+          <td>
+          <p><strong class="text-danger">依那普利
+          </strong></p>
+          <p>食物不影响吸收，进食与否不影响服用；限制盐的摄入和高钾饮食
+          </p>
+          </td>
+        </tr>
+
+        <tr class="warning">
+          <td>
+          <p><strong class="text-danger">波生坦
+          </strong></p>
+          <p>食物不影响生物利用度，进食与否不影响服用。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="danger">
+          <td>
+          <p><strong class="text-danger">奥美拉唑
+          </strong></p>
+          <p>餐前服用，不可咀嚼或压碎，可将其分散于水或微酸液体中（如：果汁），分散液必须在30分钟内服用。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="active">
+          <td>
+          <p><strong class="text-danger">法莫替丁
+          </strong></p>
+          <p>限制使用黄嘌呤类食物与饮料，可与食物和抗酸药同服。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="success">
+          <td>
+          <p><strong class="text-danger">雷尼替丁
+          </strong></p>
+          <p>餐时服用或睡前服用
+          </p>
+          </td>
+        </tr>
+
+        <tr class="info">
+          <td>
+          <p><strong class="text-danger">硫糖铝
+          </strong></p>
+          <p>干扰维生素A、D、E、K的吸收，餐前一小时空腹和睡前服用，服用后三十分钟内避免服用抗酸药。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="warning">
+          <td>
+          <p><strong class="text-danger">西米替丁
+          </strong></p>
+          <p>限制使用黄嘌呤类食物与饮料，与食物同服，避免与抗酸药同服
+          </p>
+          </td>
+        </tr>
+
+        <tr class="danger">
+          <td>
+          <p><strong class="text-danger">乳果糖
+          </strong></p>
+          <p>禁用于限制半乳糖类的患者：可与果汁、牛奶、水同服。
+          </p>
+          </td>
+        </tr>
+
+
+                <tr class="active">
+          <td>
+          <p><strong class="text-danger">孟鲁司特
+          </strong></p>
+          <p>晚上服用，不受进餐影响；颗粒剂在打开包装15分钟内服用，可直接服用或与冷的或室温的软性食物（苹果泥、胡萝卜泥、米饭、冰淇淋）混合后服用或溶解于配方奶或母乳中服用，但不能溶与其他液体中服用。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="success">
+          <td>
+          <p><strong class="text-danger">阿司匹林
+          </strong></p>
+          <p>阿士匹林能增加维生素C的肾脏排泄和降低血清中叶酸水平，建议增加饮食饮食中叶酸和维生素C的含量；与水、食物或牛奶同服减轻胃肠道不适。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="info">
+          <td>
+          <p><strong class="text-danger">布洛芬
+          </strong></p>
+          <p>与食物、牛奶同服可减轻胃肠道不适，混悬液服前充分摇匀；食物降低吸收速度但不影响吸收量。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="warning">
+          <td>
+          <p><strong class="text-danger">对乙酰氨基酚
+          </strong></p>
+          <p>与食物同服减轻胃肠道不适，混悬液服前充分摇匀；富含碳水化合物的食物同时可减少吸收量。
+          </p>
+          </td>
+        </tr>
+
+
+
+
+                <tr class="active">
+          <td>
+          <p><strong class="text-danger">水合氯醛
+          </strong></p>
+          <p>可与水、配方奶、果汁混合服用以改善口味，减轻胃部刺激。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="success">
+          <td>
+          <p><strong class="text-danger">甲泼尼龙
+          </strong></p>
+          <p>全身用药饮食中应增加钾、维生素A、B6、C、D、叶酸、钙、锌、磷的摄入，减少钠的摄入；西柚汁能显著增加口服的生物利用度，不要与西柚汁合用；饭后服用或与牛奶和食物同服。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="info">
+          <td>
+          <p><strong class="text-danger">泼尼松/泼尼阿松龙
+          </strong></p>
+          <p>全身用药饮食中应增加钾、维生素A、B6、C、D、叶酸、钙、锌、磷的摄入，减少钠的摄入;饭后服用或与牛奶和食物同服以减少胃肠道不适。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="warning">
+          <td>
+          <p><strong class="text-danger">录雷他定
+          </strong></p>
+          <p>与食物同服能使生物利用度增加40%，空腹或餐前服用。
+          </p>
+          </td>
+        </tr>
+
+
+                <tr class="active">
+          <td>
+          <p><strong class="text-danger">西替利嗪
+          </strong></p>
+          <p>进食与否不影响服用
+          </p>
+          </td>
+        </tr>
+
+        <tr class="success">
+          <td>
+          <p><strong class="text-danger">呋塞米
+          </strong></p>
+          <p>不能与酸性饮料混合服用，为减轻胃肠道不适可与牛奶与食物同时服用。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="info">
+          <td>
+          <p><strong class="text-danger">螺内酯
+          </strong></p>
+          <p>避免高钾饮食，与食物同服。
+          </p>
+          </td>
+        </tr>
+
+        <tr class="warning">
+          <td>
+          <p><strong class="text-danger">氢氯噻嗪
+          </strong></p>
+          <p>增加饮食中钾、锌、镁和碳酸氢根离子的摄入，减少钠、钙的摄入；可与食物、牛奶同服。
+          </p>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

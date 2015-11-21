@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>常见儿童呼吸系统疾病</name>
+        <content>儿童呼吸系统很重要呀，balabala</content>
+    </title>
+    <content>
+        <id>0</id>
+        <name>哮喘</name>
+        <intro>哮喘疾病介绍</intro>
+        <img>imgpath</img>
+        <url>resources/pages/detail_content.jsp?name=asthma</url>
+    </content>
+    <content>
+        <id>1</id>
+        <name>肺炎</name>
+        <intro>肺炎疾病介绍</intro>
+        <img>imgpath</img>
+        <url>resources/pages/detail_content.jsp?name=pneumonia</url>
+    </content>
+    <content>
+        <id>2</id>
+        <name>哮喘2</name>
+        <intro>哮喘疾病介绍</intro>
+        <img>imgpath</img>
+        <url>resources/pages/detail_content.jsp?name=asthma</url>
+    </content>
+</content_home>

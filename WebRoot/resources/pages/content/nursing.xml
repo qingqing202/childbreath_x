@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>护理知识</name>
+        <content>学习如何正确的护理患儿，让您的孩子早日远离疾病困扰。</content>
+    </title>
+    <content>
+        <type>panel</type>
+        <name>病房护理</name>
+        <intro>
+            <![CDATA[
+            <a href="../../resources/pages/detail_content.jsp?name=wuhua">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            儿童储雾罐的应用
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=paitan">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            如何拍背排痰
+            </a>
+            <br/>
+            ]]>
+        </intro>
+    </content>
+    <content>
+        <type>panel</type>
+    <name>居家护理</name>
+    <intro>
+        <![CDATA[
+            <a href="../../resources/pages/detail_content.jsp?name=fever">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            孩子发烧了怎么办？
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=jujiawuhua">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            家用雾化吸入机的使用
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=xiyang">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            家用吸氧器的使用
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=bisi">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            如何在家进行鼻饲
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=xitan">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            如何在家吸痰
+            </a>
+            <br/>
+            <li>药品使用：</li>
+            <ul>
+            <a href="../../resources/pages/detail_content.jsp?name=shipin">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            食品与药物的相互作用（呼吸）
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=digaoxin">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+           地高辛药物出院宣教
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=sunerning">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+           顺尔宁药物出院宣教
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=dubao">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            都保使用方法（儿童）
+            </a>
+            <br/>
+            <a href="../../resources/pages/detail_content.jsp?name=suli">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            舒利迭准纳器的使用方法
+            </a>
+            </ul>
+            <br/>
+            ]]>
+    </intro>
+    </content>
+</content_home>

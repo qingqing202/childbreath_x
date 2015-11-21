@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            地高辛药物出院宣教
+        </name>
+    </title>
+    <content>
+        <type>img</type>
+        <src>/resources/img/digaoxin/digaoxin.png</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+
+    <content>
+        <type>panel_red</type>
+        <title>地高辛作用：</title>
+        <body>
+            <![CDATA[
+            <li>加强心肌收缩力</li>
+            <li>减慢心率</li>
+            <li>利尿左右</li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>规格：</title>
+        <body>
+            地高辛酏剂：0.1ml = 5ug
+                </body>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>不良反应：</title>
+        <body>
+            <![CDATA[
+            <li>循环系统反应：室性早搏，房室传导阻滞、阵发性心动过速。</li>
+            <li>神经系统反应：乏力、头痛、眩晕、精神抑郁或错乱、视力模糊或“色视”。</li>
+            <li>胃肠道反应  ：恶心、呕吐、腹泻、下腹痛、食欲不振。</li>
+             ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_gray</type>
+        <title>服用指南：</title>
+        <body>
+            <![CDATA[
+            <li>出院时如有带药需要按照医嘱定时服用，不得擅自停服或加服。
+            </li>
+            <li>时间：每日两次，每次间隔12时，一般早上7时，晚上7时（如有其他药可同一时间服）。
+            </li>
+            <li>剂量：</li>
+            <ul>
+            <li>
+            剂量严格按照医嘱服用，不能随便停药。
+            </li>
+            <li>严格计算药物的剂量，用OT针筒抽取。
+            </li>
+            </ul>
+
+            <li>方法 :每次吃前听心率，有异常可暂停一次，但下次吃前再次测心率。小儿各年龄心率如下：
+            <ul><li> <1岁 小于100次/分
+             ]]>
+        </body>
+    </content>
+
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <hr /> ]]>
+</detail>
+</content>
+<content>
+<type>img</type>
+<src>resources/img/qcode.jpg</src>
+</content>
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+</content_home>

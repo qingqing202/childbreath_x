@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            发热患儿的居家照护
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>发热患儿的居家照护</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>dot_box</type>
+        <detail>
+            作为家长,您遇到的最多和最棘手的问题可能是-------孩子发烧了!
+            <![CDATA[ <br /> ]]>
+            <![CDATA[ <br /> ]]>
+            发热是儿童的常见病。婴幼儿发烧，应立即退烧，烧得太久，可能会烧坏脑子或者会留下后遗症。
+            <![CDATA[ <br /> ]]>
+            <![CDATA[ <br /> ]]>
+            快来学习正确的照顾发热患儿，让您的孩子早日康复。
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>发热的定义</title>
+        <body>
+            <![CDATA[
+            <ul>
+            <li>正常人的体温受体温调节中枢调控，使产热和散热过程呈动态平衡，保持体温在相对恒定的范围内。</li>
+             <br />
+            <li>当机体在致热源的作用下或各种原因引起体温调节中枢的功能障碍时，体温升高超过正常范围,
+            是指体温(通常采用肛门测温法)升高超出肛门测温≥38℃,称为发热（俗称发烧）。</li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_red</type>
+        <title>高热的损害</title>
+        <img_body>
+      resources/img/fever/高热的损害.png
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>感染原因</title>
+        <img_body>
+            resources/img/fever/感染原因.png
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_yellow</type>
+        <title>非感染原因</title>
+        <img_body>
+            resources/img/fever/非感染原因.png
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_gray</type>
+        <title>儿童常见发热原因排行榜</title>
+        <img_body>
+            resources/img/fever/发热原因.png
+        </img_body>
+    </content>
+    <content>
+        <type>panel_blue</type>
+        <title>儿童常见发热原因排行榜</title>
+        <img_body>
+            resources/img/fever/发热原因2.png
+        </img_body>
+    </content>
+    <content>
+        <type>panel_red</type>
+        <title>重新认识发热</title>
+        <img_body>
+            resources/img/fever/重新认识.png
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>错误的测量体温</title>
+        <body>
+            当妈妈看见宝宝有些不对劲时，常常用手摸摸孩子的额头和小手来判断孩子是否发热，如果宝宝的皮肤发烫，妈妈就认为是发热了。
+            这是错误的，因为妈妈的手不是体温表，不能准确测量体温。
+        </body>
+    </content>
+    <content>
+        <type>panel_yellow</type>
+        <title>测量工具</title>
+        <img_body>
+            resources/img/fever/测量工具.png
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_gray</type>
+        <title>水银体温计--口表</title>
+        <img_body>resources/img/fever/口表.png</img_body>
+        <body>
+            <![CDATA[
+            <ul>
+            <li>刚吃或喝完热的食物后不要测温，要等待３０分钟后再测量</li>
+            <li>测量时需紧闭口唇</li>
+            <li>6岁以下儿童不推荐使用</li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>水银体温计--腋表</title>
+        <img_body>resources/img/fever/腋表.png</img_body>
+        <body>
+            <![CDATA[
+            <ul>
+            <li>不要在孩子刚洗浴完进行体温测量</li>
+            <li>下有汗要擦干后再测</li>
+            <li>体型消瘦的宝宝不推荐使用</li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>水银体温计--肛表</title>
+        <img_body>resources/img/fever/肛表.png</img_body>
+        <body>
+            <![CDATA[
+            <ul>
+            <li>腹泻，肛周破损，肛周手术、烦操不安不易使用</li>
+            <li>热水坐浴，许等待30min后测量</li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_green</type>
+        <title>水银体温计的缺点</title>
+        <img_body>resources/img/fever/水银温度计.png</img_body>
+        <body>
+            <![CDATA[
+            <ul>
+            <li>玻璃体温计容易破碎，造成水银污染的可能</li>
+            <li>读数比较困难</li>
+            <li>测量时间长，儿童难配合</li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_yellow</type>
+        <title>电子体温计</title>
+        <img_body>resources/img/fever/电子体温计.png</img_body>
+        <body>
+            <![CDATA[
+            <ul>
+              <li>刚吃或喝完热的食物后不要测温，要等待３０分钟后再测量 </li>
+              <li>测量时需紧闭口唇 </li>
+              <li>擦干汗液 </li>
+              <li>不要在孩子刚洗浴完进行体温测量 </li>
+              <li>不能用于测量肛温 </li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_gray</type>
+        <title>耳温计</title>
+        <img_body>resources/img/fever/耳温计.png</img_body>
+        <body>
+            <![CDATA[
+            <ul>
+            <li>耳内阻塞、耳垢堆积及中耳炎宝宝禁用</li>
+            <li>左耳和右耳的读数可能不同，请在同一侧耳 朵测量</li>
+            <li>侧卧时，一侧耳温可能偏高，睡醒后10-15分钟再测</li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>如何识别发热</title>
+        <body>
+            <![CDATA[
+            <ul>
+            <li>口表≥37.5℃</li>
+            <li>腋表≥37℃  </li>
+            <li>肛表≥38 ℃ </li>
+            <li>耳温≥38 ℃ </li>
+            </ul>
+
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_red</type>
+        <title>正确的居家照护：基本照护</title>
+        <body>
+            <![CDATA[
+            <ul>
+<li>观察体温的变化。                                      </li>
+<li>卧床休息，室内环境安静，温度适中，通风良好。</li>
+<li>衣被不可过厚。婴儿不要包裹太紧，以利散热。要保持皮肤清洁、避免汗腺阻塞，要勤擦浴，勤换衣服。</li>
+<li>保证充足水分摄入。</li>
+<li>饮食选择清淡、易消化的富含维生素的流质或半流质。</li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>观察体温变化</title>
+        <body>
+            <![CDATA[
+            <ul>
+<li>一般每4—6小时测量体温，观察体温的波动，并记录，就医时为医生提供准确的信息。</li>
+<li>如果使用退烧药物后，30分钟到1小时复测体温，观察降温效果。         </li>
+<li>发现患儿面色通红或额头发烫，及时测量体温。                  </li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_yellow</type>
+        <title>环境与休息</title>
+        <body>
+            <![CDATA[
+            <ul>
+<li>室温要适宜，夏季要注意通风，应保持居室内空气新鲜，室温保持在25度左右。</li>
+<li>清洁、安静，尽量减少亲友探视，防止交叉感染，同时也有利于患儿的休息。  </li>
+<li>高热的孩子最好卧床休息，这样可减少能量消耗，减少肌肉活动和热量的产生。 </li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_gray</type>
+        <title>发热的三个阶段</title>
+        <body>
+            <![CDATA[
+            宝宝发热三阶段大不同：
+            <ul>
+            <li>发冷期：全身发抖、手脚冰凉 -->保暖</li>
+            <li>发热期：手脚发热、脸色红润 -->散热</li>
+            <li>退热期：流汗、血管扩张    -->补水</li>
+            </ul>
+            ]]>
+        </body>
+    </content>
+
+
+    <content>
+        <type>panel_blue</type>
+        <title>退热期注意事项</title>
+        <body>
+            如果宝宝服用退热药后出汗多，每次出汗后应及时将湿衣服换下，以免再次着凉，加重病情。
+        </body>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>认识婴儿捂热综合症</title>
+        <body>
+            <![CDATA[
+            <li>多发生于：1周岁以下的婴儿，特别是刚降生不久的新生儿。</li>
+            <li>新生儿的生理活动已开始，但呼吸、体温调节中枢还
+            不健全，对外界环境适应力差，若衣被过暖或蒙被睡
+            觉，就会因温度过高而出大汗、面色苍白、高热、抽搐、昏迷。</li>
+            <li>一旦发生“婴儿捂热综合症”，应立即松解衣
+                扣，擦干汗水，减少包裹，体温高者可用温水洗
+                澡，切忌用退热药退烧，以免出汗过多引起脱水
+                。严重者应送医院，要防止口鼻捂盖而窒息。</li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>宝宝究竟应穿多少适宜?</title>
+        <body>
+            <![CDATA[
+            有一个简单的方法：就是让宝宝自由活动10分钟:
+                <li>如果宝宝面色红润，贴身衣服是温热的，说明衣服正好；</li>
+                <li>如果宝宝面色红润，贴身衣服有些湿，说明衣服多了，应逐渐减少；</li>
+                <li>如果面色不红润，贴身衣服是干凉的，则说明衣服太少，应适当增加。</li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_yellow</type>
+        <title>多饮水、勤通风</title>
+        <body>
+            <![CDATA[
+            <li>发热时呼吸快，蒸发的水分多，因此要及时补
+            充水分。多喝水还可促使多排尿，通过排尿有
+            利于降温和毒素的排泄。最好饮用温开水，有
+            于发汗。</li>
+            <li>
+            居室空气要流通，在夏天最好使室温降低一
+            些，这样有助于体热经传导辐射散热，有利于
+            降温。
+            </li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_gray</type>
+        <title>饮食</title>
+        <body>
+            <![CDATA[
+            <li>半岁以内的婴儿，如果原来采用母乳喂养，应该继续。母乳易于消化，能保证营养需求，而且其中含水量达87%，可以补充水分。</li>
+            <li>人工喂养的婴儿，可喂稀释的脱脂奶，即2份或3份奶加1份水(2：1或3：1)，摄入量可与平时相等。
+            此时，虽然婴儿实际吃下去的奶量有所减少，但补充了水分，更利于消化、吸收。</li>
+            <li>发烧时以饮白开水为好，也可以适当兑些鲜水果汁，以补充人体需要的维生素C。</li>
+            <li>学龄前和学龄期儿童发烧时的饮食以流质、半流质为
+   主。常用的流质有牛奶、米汤、绿豆汤、少油的荤汤
+   及各种鲜果汁等。</li>
+<li>夏季喝些绿豆汤(加少量糖)，既清凉解暑又有利于补
+   充水分。</li>
+<li>热伴有腹泻、呕吐，但症状较轻的，可以让其少量多次服用自制口服糖盐水。配制比例为500毫升水或米汤中加一平匙糖和半啤酒瓶盖食盐。
+1岁左右小儿，4小时内可服500毫升。</li>
+<li>适当进食一些补充电解质的食物，比如柑橘、香蕉等水果(含钾、钠较多)，奶类与豆浆等(含钙丰富)，米汤或面食(含镁较多)。</li>
+<li>发热伴有腹泻、呕吐，但症状重，及时就医。</li>
+<li>不要勉强喂食</li>
+<li>尽量补充水分</li>
+<li>不要任意给宝宝增加以前没有吃过的食物</li>
+    <li><strong>退热期食欲会增加</strong></li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>正确的居家照护：物理降温</title>
+        <body>
+            通过扩张皮肤血管，加强蒸发、传导、对流
+等散热过程来降低体表温度，各种物理降温
+措施均未作用于体温调节中枢。
+        </body>
+        <img_body>resources/img/fever/物理降温.png</img_body>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>局部物理降温：冰袋、冰枕</title>
+        <body>
+            <![CDATA[
+            <li>部位：前额、颈部、腋窝、腹股沟及腘窝等血管丰富处</li>
+            <li>冰袋或冰枕外包毛巾</li>
+            <li>时间：不超过30分钟，以免局部冻伤</li>
+            <li><strong>
+            6个月以内的宝宝不宜冰枕降温。</strong>
+   宝宝的体温易受外在温度影响，对于许多小婴儿来说，发热时只要减少衣被就能使体温降低。
+   应用冰袋就可能出现过度降温，导致体温不升等问题。
+   如减少衣被体温仍未退，可用温水擦浴。 </li>
+<li><strong>孩子体温处于上升阶段不宜使用冰枕降温。</strong>
+   体温处于上升阶段时，皮肤血管处于收缩状态，皮肤表面的温度是降低的，表现为皮肤苍白、四肢未梢厥冷，可有寒颤出现，此时要注意肢体的保暖，喂些开水 。</li>
+<li>冰枕降温时不能用冰枕直接接触皮肤。</li>
+<li>冰枕降温时，在皮肤和冰袋或冰枕之间要用毛巾或手绢隔开，以免患儿不舒服或局部组织冻伤。</li>
+<li>冰枕或冰袋不可放在胸部和腹部，以防止心率减慢或腹泻。</li>
+
+            ]]>
+        </body>
+        <img_body>resources/img/fever/冰袋.png</img_body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>局部物理降温：冷毛巾</title>
+        <body>
+            <![CDATA[
+            <li>将小毛巾放入盛有凉水的面盆内，浸湿透后，略拧干，以不滴水为宜。</li>
+            <li>部位：前额或大血管走行处。</li>
+            <li>时间：每10～15分钟更换一次。</li>
+            <li><strong>注意事项：注意避免冷水将患儿的衣被弄湿。</strong></li>
+            ]]>
+        </body>
+        <img_body>resources/img/fever/湿毛巾.png</img_body>
+    </content>
+
+    <content>
+        <type>panel_yellow</type>
+        <title>局部物理降温：兵兵贴、退热贴</title>
+        <body>
+            <![CDATA[
+            <li>在额头或其他大血管走行部位贴一张，即可达到物理降温的效果，成为家中常备的降温品。</li>
+            <li>退热贴的退热功能主要是物理降温，跟敷冰毛巾、枕冰袋等方法类似，但其使用起来更方便</li>
+            ]]>
+        </body>
+        <img_body>resources/img/fever/退热贴.png</img_body>
+    </content>
+
+    <content>
+        <type>panel_gray</type>
+        <title>局部物理降温：友情提示</title>
+        <body>
+            <![CDATA[
+            <li>不要以为给孩子贴上退热贴就安全了，它只是起暂时的降温作用。
+            但退热贴不是药，也不能治病，它的主要作用是降低脑部局部温度，使脑部代谢速度减慢，进而起到保护脑细胞的作用。</li>
+            <li>用退热贴后，如果体温仍然在38.5℃以上持续不降，应及时到医院就诊。</li>
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_blue</type>
+        <title>全身物理降温：温水擦浴</title>
+        <body>
+            <![CDATA[
+            <p>
+               将门窗关好，不可有对流风或直吹风，室温在
+   24--26 ℃之间，水量以没至躯干为宜。 用
+   35--37℃温水全身或局部擦浴，促进蒸发散
+   热。
+            </p>
+            <p>
+            将宝宝衣物解开，用温水（37℃左右）洗
+            澡，如此可使宝宝皮肤的血管扩张，带走热
+            量，另外水气由体表蒸发时，也会吸收体热。
+            每次泡澡约10～15分钟，约4～6小时一次。
+            适用于温暖和炎热季节。
+            </p>
+            ]]>
+        </body>
+        <img_body>resources/img/fever/温水擦浴.png</img_body>
+    </content>
+
+
+    <content>
+        <type>panel_red</type>
+        <title>重要提醒</title>
+        <body>
+            <![CDATA[
+            酒精擦身降温的方法比较危险，现在基本不建
+议使用这种方法，因为用酒精擦身可引起血管
+扩张，血容量下降，家长掌握不好很容易令患儿
+休克，少数患儿还会出现过敏反应。
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>药物降温</title>
+        <body>
+            <![CDATA[
+   <p>3个月以上儿童体温≥38.5°C和(或)出现明显不适时，可采用退热剂；最常用的退热剂为对乙酰氨基酚和布洛芬。</p>
+<p>单次应用常规剂量的布洛芬，其退热作用比对乙酰
+  氨基酚强且维持时间久，特别是用药后4--6 h，但口服对乙酰氨基酚后体温下降的速度在服药后O．5 h比布洛芬更明显。</p>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_yellow</type>
+        <title>正确的居家照护：症状观察</title>
+        <img_body>resources/img/fever/症状观察.png</img_body>
+    </content>
+    <content>
+        <type>panel_gray</type>
+        <title>哪些症状要引起重视</title>
+        <body>
+            <![CDATA[
+            <li><6个月婴儿：易激惹，出现前囟隆起，意识改变，合并抽筋</li>
+            <li>呼吸频率加快，皮肤发绀</li>
+            <li>腹泻、腹痛、呕吐</li>
+            <li>肢体或关节肿胀、肢体运动受限</li>
+            <li>发热超过5天并伴有以下至少4项：双眼球结膜充血、黏膜改变、指(趾)端改变、多形性皮疹和颈部淋巴结肿大</li>
+            ]]>
+            </body>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>友情提示</title>
+        <body>
+            <![CDATA[
+            <strong>3个月～4岁的孩子由于高烧,体温>39℃可出现热性惊厥。所以对孩子发烧应引起重视。</strong>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>就诊攻略</title>
+        <body>
+            <![CDATA[
+            人吃五谷杂粮，生病在所难免，更何况对于外界病菌的抵抗力较弱的宝宝。建议妈妈除了以正常心面对宝宝生病外，也要明白一套完整的看病步骤。就医前针对发烧宝宝，建议妈妈可以先做点功课，以帮助诊断更有效率。
+<li>体温趋势记录。</li>
+<li>其他症状说明。</li>
+<li>若有肠胃不适，需观察便便状况。</li>
+<li>若起疹子，需观察它的发展趋势（例如从何处开始、颜色、大小等）。</li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>重视预防：</title>
+        <body>
+            <![CDATA[
+<li>逐渐增加宝宝到户外活动的时间，进出及时增减衣服。 </li>
+<li>外出时也可以戴口罩，让空气在口鼻部位的湿化时间延长，避免冷空气直接进入呼吸道，使宝宝不适应。 </li>
+<li>强调暖气房、空调室通风换气，室内空气清洁有利于保持身体健康。 </li>
+<li>简单消毒法，感冒流行时期可以用食醋熏蒸进行空气消毒。</li>
+<li>在感冒流行期间，尽量避免带宝宝到公共场所。 </li>
+<li>按时预防接种，增强宝宝的抵抗力。 </li>
+<li>家人感冒，请隔离。
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_yellow</type>
+        <title>常见问题</title>
+        <body>
+            <![CDATA[
+            <p class="text-danger">
+            问：儿科门诊病人中，发烧病人占很大比例，尤其是晚上来医院的病人更是如此，多数由于高烧不退，家长非常着急，有些孩子在去医院的途中或在医院就诊过程中出现高热惊厥，抽搐，那么孩子高烧是先去医院还是先做些退烧处理呢？
+            </p>
+            <p>
+            答：对于高烧的孩子，家长最好先对孩子做一些降温处理，等孩子体温有所下降后再去医院。到医院后把孩子在家中发烧情况及处理情况告知医生即可。有些家长怕降温后会影响医生对病情的判断，一般不会影响。把体温降至38.5℃以下对孩子才是安全的。
+            <p class="text-danger">
+            问：孩子发烧后孩子还去上学吗？可以上体育课吗？
+            </p>
+            <p>
+            答：建议最好不去上学，这样能保证孩子 的休息，也避免孩子间交叉感染。发烧的孩子也不建议上体育 课，避免孩子过度劳累，对身体恢复不利。
+            </p>
+            <p class="text-danger">
+            问：孩子感冒了，体温很高，家长可以给用抗生素吗？
+            </p>
+            <p>
+            答：抗生素只适用于那些因细菌等病原微生物感染所引起的发热。对病毒感染是无效的 ，何况90%的感冒是病毒引起的。因此，发热的病人应该去医院检查，查明病因，对症下药。
+对诊断不明的发热，滥用抗生素，非但无益，而且会带来一些毒副反应。
+            </p>
+            <p class="text-danger">
+            问：一个4 岁的孩子高烧，嗓子疼痛，到医院检查医生说孩子扁桃体化脓，而且医生做了血常规检查，白细胞增高，医生说需要输液，应用抗生素7～10天，听说抗生素都有副作用，需要用吗？
+            </p>
+            <p>
+            答:化脓性扁桃体炎多由溶血性链球菌感染引起，应该使用抗生素治疗，首选药物为青霉素，也可选用头孢菌素，对于青霉素过敏的孩子可选用红霉素或阿奇霉素等大环内酯类药物。
+            </p>
+            <p class="text-danger">
+            问：我的孩子以前出现过高烧抽风，因此孩子一发热，我就很恐慌，我想去输液治疗，这样效果会快点，不知是否可以？
+</p>
+<p>
+答：任何疾病治疗的原则都是：
+<li>能口服的不肌注，能肌注的不输液。</li>
+<li>医生会结合孩子的病情决定是否输液治疗，因为输液的风险较大，输液可能会发生输液反应。</li>
+<li>原发病的治疗。</li>
+</p>
+            ]]>
+        </body>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

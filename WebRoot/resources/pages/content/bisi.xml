@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            如何进行居家鼻饲
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>如何进行居家鼻饲</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            <p>
+            鼻饲，即鼻饲法（nasogastric gavage），就是把胃管通过鼻腔送到患者胃中，通过胃管往患者胃中打食物，通常用于昏迷或者不能自己进食的患者。
+            病人因昏迷、口腔疾患或口腔手术而不能用嘴饮食时，用橡皮或塑料导管从病人的鼻腔插入胃内，灌注流质饮食或药液。
+            </p>
+            <p>一起来学习正确的鼻饲方法，帮助您的孩子早日康复。</p>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>鼻饲所需用物单</head>
+        <detail>
+            <![CDATA[
+            <ul>
+<li>20ml的针筒
+</li>
+<li>干毛巾
+</li>
+<li>温开水
+</li>
+<li>鼻饲液（奶/药）：38~40℃，手腕内侧，测温
+</li>
+<li>听诊器
+</li>
+<li>贴膜
+</li>
+<li>卷尺
+</li>
+            <ul>
+             ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>如何确认胃管在胃内</head>
+        <detail>
+            <![CDATA[
+<p>在每次鼻饲之前你都必须确认胃管的位置，确保它没有移位才能进行鼻饲 ，以防误吸的发生。</p>
+<p>观察你的孩子面色呼吸是否正常? 如果孩子出现面色青紫，刺激性咳嗽或不能说话，不要鼻饲并及时拔除胃管。
+</p>
+<p>确保胃管上的标记在它原来的位置，用卷尺测量余长（在鼻腔以外的胃管长度），检查余长与原先记录的长度是否一致。
+</p>
+<p>用针筒抽取胃液。有回抽到胃液，说明在胃内，同时剩余的胃液不要丢弃，将它们重新打回胃内。
+</p>
+            <p>在回抽胃液的过程中，如果感觉有阻力，请<span class="text-danger">不要</span>强行回抽，
+            强行回抽有可能导致胃粘膜的损伤，回抽到咖啡色样液体。请换用下面的方法确认胃管位置:</p>
+            <ul>
+                <li>用空针筒抽取 5ml 的空气，快速从胃管注入胃内，用听诊器在腹部听取“气过水声”，你能听到“pu~”的声音，那就说明胃管在胃内。然后再把空气回抽出来，防止胃胀气。</li>
+                <li>此方法不是首选的确认方法，你可以将测量余长或回抽胃液共同联合作为判断依据。</li>
+                </ul>
+<p><span class="text-danger">在确认胃管是否在胃里时要非常谨慎，如果有任何疑问，请及时就诊，切不可强行鼻饲。</span></p>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>注意事项</head>
+        <detail>
+            <![CDATA[
+<p>1.鼻饲前后都要清洗双手，注意手卫生，防止“病从口入”。
+</p>
+<p>2.鼻饲液现配，现用，温度适宜，每次都要用手腕内侧皮肤测试鼻饲液的温度，以不烫为宜。
+</p>
+<p>3.每次鼻饲前都要确认胃管是否在胃内，如果不在胃内，及时到医院寻求专业人士帮助。
+</p>
+<p>4.每次鼻饲前要确认胃内是否有潴留，如潴留量超过鼻饲液的1/4时，推迟鼻饲时间。
+</p>
+<p>5.如回抽时发现咖啡色样的物质的话，应停止鼻饲，立即到医院，寻求专业人士的帮助。
+</p>
+<p>6.鼻饲时，防止过多空气入胃，以免引起胀气。
+</p>
+<p>7.鼻饲前后都应用温开水冲管，药物和饮食要分开注入，不可混合注入。
+</p>
+<p>8.胃管留置期间防止滑脱。
+</p>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>h1</type>
+        <detail>鼻饲步骤</detail>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            洗手
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image008.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            根据需要冲配奶粉及准备温开水
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image009.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            用手腕内侧测量鼻饲液的温度
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image012.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            围兜围于下颌
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image013.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            孩子采取半卧位
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image016.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            确认胃管在胃中
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image017.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image020.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            一手夹住胃管
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image022.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            另一手抽少量温开水冲管，再抽吸鼻饲液，并排空空气
+            </li> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image024.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image025.jpg</src>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            将针筒和胃管连接，缓慢匀速灌入
+            </li> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image028.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image029.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            鼻饲完，再注入少量温开水冲净胃管内剩余鼻饲液
+            </li> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image032.jpg</src>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            关闭胃管末端开口处并用纱布包裹末端
+            </li> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image034.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image035.jpg</src>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> <li>
+            婴儿：将其竖着抱，帮助其
+打嗝后取 侧卧位 放置在床上，
+同时保持头和上身抬高。
+</li>
+<li>
+年长儿：让其站着或坐着玩耍
+            </li> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/bisi/image038.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <hr/>
+            ]]>
+
+        </detail>
+    </content>
+
+
+    <content>
+        <type>panel_red</type>
+        <title>常见问题</title>
+        <body>
+            <![CDATA[
+            <span class="text-danger"><strong><li>
+            孩子留有鼻饲时我能帮他洗澡吗？
+            </li></strong></span>
+            <ul><li>
+            能，只是要在洗澡时注意保持鼻饲管固定处敷贴干燥且防止胃管滑脱即可。
+            </li></ul>
+
+            <span class="text-danger"><strong><li>
+            如何护理孩子的口腔？
+            </li></strong></span>
+            <ul>
+<li>鼻饲1小时以后或鼻饲前是进行口腔护理的最佳时间，每天进行两次。
+</li>
+<li>清洁口腔时，确保你的孩子处在一个安全和舒适位置（坐在你的腿上或婴儿座椅上）
+</li>
+<li>新生儿：清洁纱布蘸以温水，适当绞干，在手指上包以清洁纱布，清洁新生儿的口腔
+</li>
+<li>年长儿：选用幼儿专用的软毛小头牙刷，儿童牙膏。采用水平式的横向刷法刷牙
+</li>
+<li>口腔护理完在嘴唇上涂上凡士林，防止嘴唇干裂。
+            </li></ul>
+
+
+            <span class="text-danger"><strong><li>
+            如何预防孩子打嗝或吐奶？
+            </li></strong></span>
+            <ul><li>
+确认胃管是否在胃内，如不在，及时拔出。
+</li>
+<li>鼻饲前先确认胃内潴留情况，如果潴留量＞鼻饲量的1/4，（例如：鼻饲量为60ml, 潴留量>15ml）就推迟鼻饲时间30分钟，如潴留量＜鼻饲量的1/4，鼻饲时减去潴留量。
+</li>
+<li>鼻饲时防止空气进入胃内。
+</li>
+<li>鼻饲后对于婴儿，最好先协助其打嗝后，再让其躺下，躺下时，保持头和胸部抬高。
+            </li></ul>
+
+            <span class="text-danger"><strong><li>
+            当我的孩子打嗝或吐奶时我该怎么办?
+            </li></strong></span>
+            <ul>
+<li>确认胃管是否在胃内，位置是否移动过。
+</li>
+<li>如在鼻饲时发生打嗝或吐奶的话，暂停鼻饲一段时间，处理完呕吐物，等安静下来了再鼻饲，同时鼻饲的速度要缓慢，匀速。
+</li>
+<li>如呕吐发生在鼻饲后，对于婴儿，将其竖着抱起，拍背，协助他打嗝。
+</li>
+<li>如频繁呕吐，就及时就医。
+            </li></ul>
+
+            <span class="text-danger"><strong><li>
+            如何预防腹泻的发生？
+            </li></strong></span>
+            <ul><li>
+鼻饲前后勤洗手，注意手卫生
+</li>
+<li>鼻饲用物按要求清洗
+</li>
+<li>按要求准备鼻饲液，鼻饲液现配现用，温度适宜38℃~40℃
+</li>
+<li>鼻饲时速度要缓慢
+</li>
+<li>按要求添加辅食，1种/次
+            </li></ul>
+
+            <span class="text-danger"><strong><li>
+            如果孩子腹泻了该怎么办？
+            </li></strong></span>
+            <ul><li>
+确认胃管是否在胃内，如不在，及时拔出
+</li>
+<li>停止添加辅食
+</li>
+<li>按照要求准备鼻饲液（避免过凉，注意清洁）
+</li>
+<li>保持肛周皮肤清洁，每次排便后用清水清洗肛周
+</li>
+<li>观察你家孩子大便的色、质、量，以及其精神情况
+</li>
+<li>勤洗手
+</li>
+<li>如果你的孩子小于6个月或出现生病的现象（如，发烧、嗜睡，精神萎靡等），及时入院治疗。
+
+            </li></ul>
+
+
+
+            <span class="text-danger"><strong><li>
+            如何预防胃管堵塞？
+            </li></strong></span>
+            <ul><li>
+避免折叠胃管
+</li>
+<li>每次鼻饲后都要用温开水冲管
+</li>
+<li>如果要鼻饲固体或粉剂药物的话，事先要用水溶解再鼻饲
+</li>
+<li>奶中不要混合其他物质，奶和药要分开灌入
+            </li></ul>
+
+
+            <span class="text-danger"><strong><li>
+            如果胃管堵塞的话，我该怎么办？
+            </li></strong></span>
+            <ul><li>
+尝试将胃管通开
+<ol>
+<li>20ml的针筒和胃管连接
+</li>
+<li>轻轻回抽针塞
+</li>
+<li>如果仍不通，用针筒抽吸5ml的温开水轻轻地将水注入胃管，（注意：勿用力强行灌入），等5分钟后再尝试轻轻回抽针塞，看胃管是否通畅。
+</li></ol>
+<li>如果无法通开，及时入院寻求医生帮助。
+            </li></ul>
+
+
+
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_red</type>
+        <title>何时要入院寻求医生的帮助？</title>
+        <body>
+            <![CDATA[
+<li>出现任何原因的要重新置管的情况，如胃管到期、移位、堵管等。
+</li>
+<li>出现任何不适情况，如恶心、呕吐、腹泻、便秘、咳嗽、发烧等。
+</li>
+<li>在喂养时有任何无法解决的疑问。
+</li>
+<li>电话：38625700    时间：10:00—14:00
+</li>
+            ]]>
+        </body>
+
+    </content>
+
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <hr/>
+            ]]>
+
+        </detail>
+    </content>
+
+    <content>
+        <type>h1</type>
+        <detail>观看视频，更详细的学习如何进行鼻饲。</detail>
+    </content>
+
+    <content>
+        <type>video</type>
+        <detail>http://player.youku.com/embed/XMTI5NjA2ODQxMg==</detail>
+    </content>
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <hr /> ]]>
+</detail>
+</content>
+
+<content>
+<type>img</type>
+<src>resources/img/qcode.jpg</src>
+</content>
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+
+        </content_home>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            氧气吸入健康宣教
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>氧气吸入健康宣教</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>dot_box</type>
+        <detail>
+            有些即将出院的宝宝由于病情需要，需要吸氧一段时间，在此，我们将为您出院后的吸氧进行宣教。
+            </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>吸氧目的</head>
+        <detail>使肺泡氧分压升高，进而提高血液氧饱和度，纠正缺氧。</detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>所用工具</head>
+        <detail>制氧机、输氧管、鼻吸式吸氧器（购买时已包括），棉签，胶带，免洗手消毒液。</detail>
+    </content>
+
+    <content>
+        <type>h1</type>
+        <detail>操作步骤</detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            <li>
+            洗手
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image005.jpg</src>
+    </content>
+
+    <content> <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            <li>
+            准备好所需工具
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image007.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image009.jpg</src>
+    </content>
+
+    <content> <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            <li>
+            打开电源
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image013.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image015.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image017.jpg</src>
+    </content>
+
+    <content> <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            <li>
+            取出湿化杯
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image013.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image015.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image017.jpg</src>
+    </content>
+
+    <content> <type>html</type> <detail>
+            <![CDATA[
+            <br/>
+            <li>
+加矿泉水至蓝色刻度线之间
+            </li> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image019.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image021.jpg</src>
+    </content>
+    <content> <type>html</type> <detail>
+        <![CDATA[
+            <br/>
+            <li>
+            将水杯装回原位         </li> ]]>
+    </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image023.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image025.jpg</src>
+    </content>
+    <content> <type>html</type> <detail>
+        <![CDATA[
+            <br/>
+            <li>
+            安装氧气管
+            </li> ]]>
+    </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image027.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image029.jpg</src>
+    </content>
+    <content> <type>html</type> <detail>
+        <![CDATA[
+            <br/>
+            <li>
+            打开开关
+            </li> ]]>
+    </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image031.jpg</src>
+    </content>
+    <content> <type>html</type> <detail>
+        <![CDATA[
+            <br/>
+            <li>
+            调节氧流量至2L/分
+            </li> ]]>
+    </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image033.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image035.jpg</src>
+    </content>
+
+
+    <content> <type>html</type> <detail>
+        <![CDATA[
+            <br/>
+            <li>
+            在耳后感受氧流量是否合适
+            </li> ]]>
+    </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image037.jpg</src>
+    </content>
+    <content> <type>html</type> <detail>
+        <![CDATA[
+            <br/>
+            <li>
+            佩戴鼻吸式吸氧器，并调节松紧度
+            </li> ]]>
+    </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image039.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image041.jpg</src>
+    </content>
+    <content> <type>html</type> <detail>
+        <![CDATA[ <br/>
+            <li>
+            正常工作中的制氧机
+            </li> ]]>
+    </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xiyang/image043.jpg</src>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>注意事项</head>
+        <detail>
+            <![CDATA[
+            <ul>
+            <li>在整个操作过程中，观察神志，意识，面色及口唇有无发绀、心率、呼吸频率、咳嗽反射等。
+            </li>
+            <li>吸氧前清除鼻腔分泌物2次/日，分泌物多者应及时清除，防止导管堵塞。
+            </li>
+            <li>确保装置牢固各连接紧密。
+            </li>
+            <li>四防：防火、放油、放热、防震，避免漏气及污染，禁止在室内点燃明火。
+            </li>
+            <li>固定导管不宜太紧，以避免伤到患儿皮肤。
+            </li>
+            <li>给患儿吸氧时，先调节氧流量，再给予患儿吸氧，关闭时，先去除鼻导管，再关闭氧流量。
+            </li>
+            <li>每日更换氧气湿化瓶水，如湿化瓶水不足及时添加。
+            </li>
+            <span class="text-danger"><li><strong>若有发现患儿呼吸困难，口唇青紫及时就诊</strong>
+            </li></span>
+            </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>h1</type>
+        <detail>
+            观看视频，更详细的学习制氧机的使用。
+            </detail>
+    </content>
+
+    <content>
+        <type>video</type>
+        <detail>http://player.youku.com/embed/XMTI5NzEyNzE0OA==</detail>
+
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

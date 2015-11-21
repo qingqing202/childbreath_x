@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+        小儿肺炎的健康宣教
+        </name>
+    </title>
+    <content>
+        <id>0</id>
+        <type>h1</type>
+        <detail>小儿肺炎的健康宣教</detail>
+    </content>
+    <content>
+        <id>1</id>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content>
+        <id>2</id>
+        <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <id>3</id>
+        <type>grave_box</type>
+        <detail>testttt</detail>
+        <url>grave_box_testttt</url>
+    </content>
+    <content>
+        <id>4</id>
+        <type>table</type>
+        <detail>testttt</detail>
+        <url>testttt</url>
+    </content>
+    <content>
+        <id>5</id>
+        <type>half_box_red</type>
+        <head>head</head>
+        <detail>testttt</detail>
+        <url>testttt</url>
+    </content>
+    <content>
+        <id>6</id>
+        <type>half_box_brown</type>
+        <detail>testttt</detail>
+    </content>
+    <content>
+        <id>7</id>
+        <type>half_box_green</type>
+        <detail>testttt</detail>
+    </content>
+    <content>
+        <id>9</id>
+        <type>img</type>
+        <src>/resources/img/foot.jpg</src>
+        <url>test_img</url>
+    </content>
+    <content>
+        <id>10</id>
+        <type>video</type>
+        <detail>http://player.youku.com/embed/XMTMyNjI0NjI1Mg==</detail>
+    </content>
+    <content>
+        <id>8</id>
+        <type>blockquote</type>
+        <head>quote head</head>
+        <detail>blockquote detail</detail>
+    </content>
+</content_home>

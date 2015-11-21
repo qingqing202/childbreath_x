@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            如何在家吸痰
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>如何在家吸痰</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            有些宝宝因为病情原因，出院后还需要在家进行吸痰。这里为大家介绍在家吸痰的操作步骤及注意事项。希望能给家长有所帮助。
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>half_box_red</type>
+        <head>吸痰目的</head>
+        <detail>
+        利用负压原理将宝宝呼吸道内分泌物或误吸异物吸出，从而清理呼吸道，改善通气功能。
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>吸痰工具</head>
+        <detail>
+            <![CDATA[
+            <li>电动吸引器、吸引皮条。</li>
+            <li>一次性吸痰管、生理盐水、听诊器。</li>
+            <li>纸巾、免洗手消毒液。</li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image007.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image009.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br/> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+            <strong><div class="text-center">操作步骤</div></strong>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <ol>
+            <li>洗手</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+            <src>resources/img/xitan/image012.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>备齐用物；将吸痰器接通电源，打开开关。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image014.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image016.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>撕开外包装并保留，正确连接吸痰管。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image019.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>取出一次性手套（吸痰管内附手套）。右手戴手套</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image022.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image024.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>右手握住吸痰管，去除外包装，注意无菌。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image026.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>测量鼻尖与耳垂的距离，以确定吸痰管插入的长度。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image028.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>生理盐水润滑吸痰管前端。将吸痰管插入鼻孔，注意插入的时候无负压。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image030.jpg</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image032.jpg</src>
+    </content>
+
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>左手拇指压住吸痰管孔，右手边旋转边回抽吸。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image034.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>一侧鼻孔吸引干净后，另一侧鼻孔重复同样的步骤。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image036.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>最后吸引口腔。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image038.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>脱去手套并包裹吸痰管。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image040.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>脱下的手套和吸痰管丢弃。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image042.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>用生理盐水冲洗吸引皮条直至清洁。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image044.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li>包好吸引皮条末端呈备用状态。</li>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/xitan/image048.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            </ol>
+            <br/>
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+            <strong><div class="text-center">注意事项</div></strong>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+	<li>进食1小时，避免吸痰，防止呕吐误吸。</li>
+	<li>操作前检查导管是否老化、有裂缝，各连接部位是否牢固。</li>
+	<li>检查负压情况。      </li>
+	<li>吸痰管应一用一换。    </li>
+	<li>必要时吸痰前后给予高流量氧气吸入。</li>
+	<li>型号及负压参考值：接入F6吸痰管时，负压值应在0.06MPa以下；接入F8，负压值在0.04MPa以下；接入F12，负压值在0.03MPa以下。（仅限图片中的吸引器，不同吸引器根据产品说明书调试）</li>
+	<li>避免戴手套的手接触其他物品，保持手套无菌。</li>
+	<li>确保插入过程无负压。   </li>
+	<li>吸痰过程中应鼓励宝宝咳嗽。</li>
+	<li>严格执行无菌操作。先吸鼻腔，再吸口腔。</li>
+	<li>吸痰时应旋转，而不是上下活动。</li>
+	<li>每次吸引只能5~15秒，婴儿5秒，年长儿15秒，先心的宝宝5秒。</li>
+	<li>在每次吸引过程中至少要停顿30秒，以便宝宝重新吸入氧气和恢复，不要反复无间断地抽吸。</li>
+	<li>吸痰同时要观察宝宝的通气功能是否改善，吸出物的性状、量及颜色。若宝宝呼吸增快、面色、唇色由红润变为青紫，立即停止，并予氧气吸入。</li>
+	<li>痰液粘稠者，可在吸痰前进行雾化、拍背。 </li>
+	<li>每次吸痰后，应用生理盐水冲洗吸痰管。</li>
+	<li>吸痰管每次更换，吸引皮条和吸痰瓶，清洗、消毒、晾干、备用。</li>
+<br/>
+
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+            <strong><div class="text-center">常见问题</div></strong>
+            ]]>
+        </detail>
+    </content>
+    <content>
+    <type>html</type>
+    <detail>
+        <![CDATA[
+
+        <p class="text-danger">
+    1、什么时候需要吸痰？</p>
+    <p>宝宝咳嗽加剧，有痰咳不出，喉部痰鸣音明显。</p>
+        <p class="text-danger">
+    2、一天要吸几次为宜？</p>
+    <p>根据宝宝痰量情况，逐渐减少吸痰次数。</p>
+        <p class="text-danger">
+    3、吸出血性痰液怎么办？</p>
+    <p>吸痰时由于宝宝的不配合会损伤鼻腔粘膜导致少量出血或者鼻腔粘膜干燥也容易少量出血，并无大碍。吸痰时尽量轻柔不可大力。大量出血及时就医。若有发现患儿呼吸困难，口唇青紫及时就诊</p>
+        <p class="text-danger">
+    4、家庭吸痰器哪里有买？</p>
+    <p>各大医院药房或者医疗器械店均可获得。</p>
+            ]]>
+    </detail>
+    </content>
+
+
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <hr /> ]]>
+</detail>
+</content>
+<content>
+<type>img</type>
+<src>resources/img/qcode.jpg</src>
+</content>
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+        </content_home>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>常见儿童呼吸系统疾病</name>
+        <content>在儿科门诊当中，80%到90%以上都是呼吸系统的疾病。一起来了解儿童呼吸疾病,让您的孩子远离呼吸疾病的困扰。</content>
+    </title>
+    <content>
+        <type>media</type>
+        <name>哮喘</name>
+        <intro>一种严重影响小儿身心健康的最常见呼吸道疾病，我国有1000多万哮喘病患儿。</intro>
+        <src>resources/img/blogo1.jpg</src>
+        <url>../../resources/pages/detail_content.jsp?name=asthma</url>
+    </content>
+    <content>
+        <type>media</type>
+        <name>肺炎</name>
+        <intro>小儿肺炎是婴幼儿时期的常见病，以冬春季多见。</intro>
+        <src>resources/img/blogo1.jpg</src>
+        <url>../../resources/pages/detail_content.jsp?name=pneumonia</url>
+    </content>
+    <content>
+        <type>media</type>
+        <name>胸部理疗</name>
+        <intro>胸部物理治疗是指一系列辅助治疗肺炎的物理方法。</intro>
+        <src>resources/img/blogo1.jpg</src>
+        <url>../../resources/pages/detail_content.jsp?name=CPT</url>
+    </content>
+</content_home>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            舒利迭准纳器的使用方法
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>舒利迭准纳器的使用方法</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            舒利迭准纳器简介
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>video</type>
+        <detail>http://player.youku.com/embed/XMTI5NjA4NzQ1Ng==</detail>
+    </content>
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <hr /> ]]>
+</detail>
+</content>
+<content>
+<type>img</type>
+<src>resources/img/qcode.jpg</src>
+</content>
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+        </content_home>

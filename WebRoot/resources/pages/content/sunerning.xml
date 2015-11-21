@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            顺尔宁药物出院宣教
+        </name>
+    </title>
+    <content>
+        <type>img</type>
+        <src>/resources/img/sunerning/sunerning.png</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+
+    <content>
+        <type>panel_red</type>
+        <title>作用：</title>
+        <body>适用于儿童哮喘的预防和长期治疗以及过敏性鼻炎的治疗。</body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>规格：</title>
+        <body>
+            <![CDATA[
+            <li>孟鲁司特钠咀嚼片： 5mg，4mg</li>
+            <li>孟鲁司特钠颗粒：   4mg</li>
+             ]]>
+                </body>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>不良反应：</title>
+        <body>
+            <![CDATA[
+            <li>皮肤和皮下组织紊乱：过敏反应、血管性水肿、皮疹、瘙痒、荨麻疹。</li>
+            <li>精神系统：嗜睡、兴奋、激惹、翻找不安。</li>
+            <li>胃肠系统：恶心、呕吐、消化不良、腹泻</li>
+             ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_gray</type>
+        <title>服用指南：</title>
+        <body>
+            <![CDATA[
+            <li>出院时如有带药需要按照医嘱定时服用，不得擅自停服或加服。
+            </li>
+            <li>推荐晚上服用，不收进餐影响。
+            </li>
+            <li>颗粒剂在打开包装15分钟内服用，可直接服用或与冷的或室温的软性食物（苹果泥、胡萝卜泥、米饭、冰淇淋）混合后服用或溶解于配方奶或母乳中服用。但不能溶解于其他液体中服用。
+            </li>
+            <li>咀嚼片应该在口中咀嚼后吞下。
+            </li>
+             ]]>
+        </body>
+    </content>
+
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <hr /> ]]>
+</detail>
+</content>
+<content>
+<type>img</type>
+<src>resources/img/qcode.jpg</src>
+</content>
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+</content_home>

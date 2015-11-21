@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            家用雾化吸入机的使用教程（视频）
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>家用雾化吸入机的使用教程（视频）</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>dot_box</type>
+        <detail>
+            雾化吸入器是用于治疗上呼吸道疾病的一种设备。
+            雾化吸入器主要用于治疗各种上下呼吸系统疾病，如咳嗽、哮喘等支气管、肺泡、胸腔内所发生的疾病。
+            雾化吸入治疗是呼吸系统疾病治疗方法中一种重要和有效的治疗方法。
+            采用雾化吸入器将药液雾化成微小颗粒，药物通过呼吸吸入的方式进入呼吸道和肺部沉积，从而达到无痛、迅速有效治疗的目的。
+            </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>video</type>
+        <detail>http://player.youku.com/embed/XMTI5NjA3MTg3Mg==</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

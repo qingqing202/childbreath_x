@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            如何拍背排痰
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>如何进行拍背排痰</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>panel_green</type>
+        <title>目的</title>
+        <body>
+            拍背排痰是通过胸壁震动气道，使附着在肺、毛细支气管内的分泌物脱落，通过体位引流，
+            使分泌物到达支气管、气管，最后通过患儿咳嗽排出体外。适用于无力咳嗽，痰液过多不易咳出的患儿。
+        </body>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>设备</title>
+        <body>
+            <![CDATA[
+             <li>手掌：手掌弓起如杯状，手腕保持放松，做上下叩击动作。</li>
+             <li>拍痰杯</li>
+             ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/paitan/手掌.png</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/paitan/排痰杯.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>拍背排痰步骤：</title>
+        <body>
+            <![CDATA[
+    <li>协助患儿侧躺，拍背时患儿的皮肤需一薄层的衣服即可。 </li>
+    <li>拍背排痰时机：患儿饭前或饭后1小时后执行，以防呕吐（雾化吸入后效果最佳）。</li>
+    <li>拍背排痰时间：一天2到3次，每次10分钟左右，可视情况增加次数。拍背频率为40-60次/分。</li>
+    <li>在肺区移动性地叩击。                </li>
+             ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/paitan/拍背.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>注意事项：</title>
+        <body>
+            <![CDATA[
+    <li>勿拍打在骨凸处，如：脊柱、胸骨、肩胛骨以及腹部、后腰肾脏处。</li>
+    <li>拍背时患儿的皮肤不宜盖厚质料的衣物如毛毯、毛巾、毛衣，会吸收振动，减弱拍背排痰的效果。</li>
+    <li>如有下列情节时勿叩击：肺部外伤、脊柱骨折、肺出血、肺血栓症、肋骨有转移性病灶、哮喘发作、肺脓肿、异物、颅内压增高等。</li>
+             ]]>
+        </body>
+    </content>
+
+
+    <content>
+    <type>panel_yellow</type>
+    <title>教导有效咳痰的方法：</title>
+    <body>
+        <![CDATA[
+    拍背后鼓励患儿以鼻子慢慢深吸气，吸饱气后屏住气，几秒后接连2-3次咳嗽动作将痰液咳出（如患儿太虚弱，则于拍背后请护理人员吸痰）。
+         <br/>
+         <br/>
+    <strong>太粘稠的痰液，很难只靠排痰排出，应请医生加以评估决定辅助方式。</strong>
+    ]]>
+    </body>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>
