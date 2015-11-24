@@ -29,9 +29,9 @@
 <link href="http://v3.bootcss.com/assets/css/docs.min.css" rel="stylesheet">
 <link href="//basePath%>/resources/css/dialogbox.css" rel="stylesheet">
 -->
-
 <head>
   <%@ include file="include/html_head.jsp" %>
+    <link href="<%=basePath%>/resources/css/docs.min.css" rel="stylesheet">
   <title><%=hash_for_title.get("name")%></title>
 </head>
 
