@@ -24,6 +24,14 @@
             如何拍背排痰
             </a>
             <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=ganran">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            如何预防住院期间交叉感染
+            </a>
+            <br/>
             ]]>
         </intro>
     </content>

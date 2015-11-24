@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            如何预防住院交叉感染
+        </name>
+    </title>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            您宝宝住院的病房主要是以感染性疾病为主。
+            大部分均有发热、咳嗽和喘息症状。
+            儿童免疫屏障功能处于生理性低下期，在住院期间很容易有再次感染或交叉感染的可能。
+            如何减少再次感染或交叉感染，避免二次伤害，危及生命？请各位家长从自身做起，请遵守医院的以下规章制度。
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+        <![CDATA[
+<br/>
+        ]]>
+        </detail>
+    </content>
+    <content>
+
+    <type>title_red</type>
+    <detail>【一】住院期间请保持病房环境整洁</detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li><strong>
+            为了孩子的健康，请保持病室环境整洁！
+            </strong></li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/1.png</src>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/2.png</src>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/3.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li><strong>
+            为了孩子的健康，请保持病室环境整洁！
+            请合理安排您的床头柜：可放置奶瓶、水杯、免洗夜等。
+            </strong></li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/5.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li><strong>
+                  毛巾请挂于床头柜侧面的挂钩上
+            </strong></li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/4.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li><strong>
+            请保持窗台整洁
+            </strong></li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/6.png</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/7.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+    <type>title_red</type>
+    <detail>【二】勤洗手</detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li><strong>
+             用流动水洗手时，请使用具有消毒作用的洗手液。每次洗手至少15秒。
+            </strong></li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/10.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>【三】接触宝宝时请戴上口罩</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li><strong>
+             接触宝宝前一定要洗手，应急时可用免洗夜。
+            </strong></li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/8.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li><strong>
+             戴口罩时一定要罩住口鼻。
+            </strong></li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/9.png</src>
+    </content>
+
+
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>【四】限制陪客人数，减少探视</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <li><strong>
+            每位患儿陪护一人，陪护人员加强洗手，接触患儿前请洗手，并自觉戴口罩做好防护措施。
+            </strong></li>
+            <li><strong class="text-danger">
+            8:30-11:00为查房时间，谢绝家长进入病房探视（如需病情咨询，建议下午询问床位医生或主治医生。）
+            </strong></li>
+            <li><strong>
+             您在走廊的墙壁上也可以看到陪护、探视注意事项。为了您宝宝的健康，减少交叉感染，谢谢配合。探视时注意文明用语，避免打扰他人休息。
+            </strong></li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/ganran/11.png</src>
+    </content>
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <hr /> ]]>
+</detail>
+</content>
+<content>
+<type>img</type>
+<src>resources/img/qcode.jpg</src>
+</content>
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+</content_home>
