@@ -32,6 +32,14 @@
             如何预防住院期间交叉感染
             </a>
             <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=biaoxian">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            住院患儿的表现及应对措施
+            </a>
+            <br/>
             ]]>
         </intro>
     </content>

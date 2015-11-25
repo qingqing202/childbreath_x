@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            住院患儿的表现及应对措施
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>住院患儿的表现及应对措施</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>婴儿期（0-6月）</title>
+        <body>
+            <![CDATA[
+            表现
+            <li>婴儿较哭吵</li>
+            应对措施
+            <li>满足其生理需要（如定时喂哺，及时更换尿布等）</li>
+            <li>给患儿舒适的接触（拥抱，抚摸）</li>
+            <li>适当的环境刺激（颜色、声音）</li>
+            ]]>
+        </body>
+    </content>
+
+
+    <content>
+        <type>panel_green</type>
+        <title>婴儿期（6-12月）</title>
+        <body>
+            <![CDATA[
+            表现
+            <li>轻度分离性焦虑：婴儿哭吵，寻找母亲，避开和拒绝陌生人</li>
+            <li>重度分离性焦虑：不活泼，抑郁，退缩，对周围的事情不感兴趣</li>
+            应对措施
+            <li>带患儿喜欢的玩具和物品到医院来</li>
+            <li>母亲陪伴在患儿身边</li>
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_green</type>
+        <title>幼儿期（1-3岁）</title>
+        <body>
+            <![CDATA[
+            表现
+            <li>对母亲的依恋强烈，认为住院是惩罚，害怕被抛弃</li>
+            <li>对医院环境陌生，生活不习惯，缺乏安全感</li>
+            <li>对于因语言上的不完善而致被误解或忽视而苦恼</li>
+            <li>羞怯、疑虑、孤独、反抗（2岁左右）</li>
+            <li>害怕打针、手术及影响身体的完整性</li>
+            <li>分离性焦虑：哭吵，寻找母亲，拒绝护理，不活泼，抑郁</li>
+            <li>退化行为（尿床，吮吸拇指及奶嘴，过度依赖）</li>
+            应对措施
+            <li>尽量固定母亲为陪客者，增加其安全感</li>
+            <li>满足幼儿住院前的爱好和生活习惯（带喜欢带的玩具，安慰奶嘴，毛毯等）</li>
+            <li>家长情绪不稳定时勿训斥患儿</li>
+            <li>有机会让患儿适当的表现其自主性，如自己吃饭，穿衣等，勿过分限制其活动</li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>学龄前期（4-6岁）</title>
+        <body>
+            <![CDATA[
+            表现
+            <li>分离性焦虑，希望得到父母的照顾和安慰。父母不在身边，感到孤独，失望和不安全。</li>
+            <li>害怕陌生的环境，产生恐惧心理</li>
+            <li>害怕被惩罚遗弃，感到内疚和恐惧</li>
+            <li>害怕身体的完整性及器官功能被破坏</li>
+            应对措施
+            <li>固定相应的陪客，增加其安全感</li>
+            <li>用简单易懂的语言向患儿说明住院原因</li>
+            <li>做各种操作时向患儿解释，以减少疑虑，确保住院不是惩罚</li>
+            <li>空余时间适当的绘画，看电视，听故事，以减轻恐惧</li>
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_gray</type>
+        <title>学龄期（6-13岁）</title>
+        <body>
+            <![CDATA[
+            表现
+            <li>担心失去新近掌握的各种知识、本领，会落后于别人</li>
+            <li>与学校及同学分离，感到孤独</li>
+            <li>忧虑自己会变成残疾或死亡</li>
+            <li>怕羞，对体格检查不能很好配合，不愿意回答个人卫生方面的问题</li>
+            <li>疑虑会受到惩罚，不愿向医护人员寻求帮助，以示自己成熟，有可能隐瞒自己的症状</li>
+            <li>怕生疏环境、怕医生、怕治疗</li>
+            应对措施
+            <li>进行体格检查及各种操作时，需照顾到患儿的自尊心</li>
+            <li>请医护人员对患儿简要讲解疾病的知识，治疗的必要性及方法</li>
+            <li>住院期间患儿可适当的看书、做作业、绘画，把患儿的思想和情感引导到正确的方向</li>
+            <li>鼓励患儿适当的从事自我护理和个人卫生</li>
+            <li>家长应了解患儿对疾病和住院的反应，以给患儿提供感情上的支持</li>
+            <li>鼓励患儿与同伴、同学的联络，允许他们来探视，交流学习进展，根据病情帮助患儿继续学习</li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>
