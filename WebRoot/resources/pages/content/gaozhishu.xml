@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            呼吸科病房陪护和探视注意事项告知书
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>呼吸科病房陪护和探视注意事项告知书</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            各位亲爱的家长：
+            <br/>
+            <br/>
+
+            您宝宝住院的病房主要是以感染性疾病为主，大部分均有发热、咳嗽和喘息症状。
+            儿童免疫屏障功能处于生理性低下期，在住院期间很容易有再次感染或交叉感染的可能。
+            如何减少再次感染或交叉感染，避免二次伤害，危及生命？请各位家长从自身做起，请遵守医院的规章制度：一人陪客制。
+
+            <br/>
+            <br/>
+
+            <span class="text-danger">
+            1. 为了降低宝宝再次感染的机会，请爷爷奶奶、外公外婆、爸爸妈妈暂时忍痛，
+            为了宝宝，只陪一人，加强洗手，保持病区环境整洁，避免乱窜病房，并自觉戴口罩做好防护措施。
+            </span>
+
+            <br/>
+            <br/>
+
+            案例：患儿，男，10月，肺炎，先心，千里迢迢从安徽赶来上海看病。
+            住院期间每天都有三人陪护，病区环境脏乱，家长洗手依从性差，医务人员每天劝阻，家长始终不离开病房。
+            住院第五天，宝宝再次发热、呕吐，病情加重，转重症监护室治疗。
+
+            <br/>
+            <strong>*陪护的人越多，宝宝再次感染的机会越大，不要让“爱”变成“害”。</strong>
+
+            <br/>
+            <br/>
+
+            <span class="text-danger">2. 住院期间，请配合我们一起维护儿童的安全，避免意外跌落的发生，
+            跌落常常会造成不同程度的伤害，轻者头部淤青，肿着骨折、脑震荡、颅内出血，甚至死亡。</span>
+
+            <br/>
+            <br/>
+
+            案例一：患儿，女，5岁，在走廊内奔跑，家长未予制止，患儿在走廊内滑倒，，造成口腔粘膜破损，导致伤口缝合3针。
+            <br/>
+            案例二：患儿，男，3岁，家长见患儿安静躺于床上看动画片，便未拉床栏就去洗手间，等家长回到床边，发现患儿意外跌落，前额淤青，家长未予重视，十分钟后患儿出现呕吐不适，精神萎靡，脑外科医生会诊后行脑外科手术。
+            <br/>
+            <br/>
+
+            <span class="text-danger">3. 14:00---20:00为探视时间，请遵守探视制度，原则上尽量减少亲朋好友的探视，有感冒、咳嗽、发热、腹泻等感染症状者谢绝探视。</span>
+
+            <br/>
+            <br/>
+
+            <strong class="text-danger">3岁以下的婴幼儿是院内感染的高危人群。为了孩子能早日康复，请家长一人陪护、多洗手、戴口罩.</strong>
+            ]]>
+        </detail>
+    </content>
+
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <hr /> ]]>
+</detail>
+</content>
+<content>
+<type>img</type>
+<src>resources/img/qcode.jpg</src>
+</content>
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+</content_home>

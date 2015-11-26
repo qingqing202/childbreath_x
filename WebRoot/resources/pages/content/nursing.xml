@@ -9,6 +9,16 @@
         <name>病房护理</name>
         <intro>
             <![CDATA[
+
+
+            <a href="../../resources/pages/detail_content.jsp?name=gaozhishu">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            呼吸科病房陪护和探视注意事项告知书
+            </a>
+            <br/>
+
             <a href="../../resources/pages/detail_content.jsp?name=wuhua">
             <button type="button" class="btn btn-default">
   <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>

@@ -6,6 +6,10 @@
         </name>
     </title>
     <content>
+        <type>h1</type>
+        <detail>如何预防住院交叉感染</detail>
+    </content>
+    <content>
         <type>html</type>
         <detail>
             <![CDATA[ <hr /> ]]>
