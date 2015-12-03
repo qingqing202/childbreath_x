@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            住院安全宣教
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>住院安全宣教</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <p><strong class="text-danger">为了维护孩子的安全，请各位陪伴照顾者仔细阅读下列各项：</strong></p>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>防止孩子跌落</head>
+        <detail>
+            <![CDATA[
+            <li>拉上床栏时须检查是否扣住以免床栏滑落</li>
+            <li>当孩子在床上玩耍时需要持续有人照看或将床栏拉起</li>
+            <li>请提醒孩子不要玩床栏也不要试图翻越床栏，以免床栏滑落摔下</li>
+            <li>陪伴者或照顾者离开孩子取东西时请及时将床栏拉起，及时孩子熟睡也不可掉以轻心</li>
+            <li>当离开孩子留孩子一个人时，请嘱托别人代以看管，陪护家长换人时也请交班</li>
+            <li>如果孩子过去曾有跌落，请特别留意拉好床栏</li>
+            <li>请不要和孩子同睡在儿童床上，以免孩子早醒越过家长跌落</li>
+            <li>照顾者很疲劳打瞌睡时请不要抱孩子，请把孩子放在床上并拉上两边床栏</li>
+            <li>孩子坐在婴儿床内请系好安全带</li>
+            <li>给孩子穿大小合适，防滑的鞋子以防止滑倒</li>
+            <li>请告诫孩子不要再病室或走廊内奔跑，以免滑倒；孩子在病室或走廊行走请家长陪伴</li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>其他安全事项</head>
+        <detail>
+            <![CDATA[
+            <li>请不要携带尖锐物品比如刀、剪、玻璃等其它易碎物品，以免孩子不小心碰伤</li>
+            <li>请不要将孩子独自留在浴室、病房；以免发生意外</li>
+            <li>请不要带孩子进病区厨房，以免烫伤</li>
+            <li>请不要自带热水瓶；病区厨房间有热水供应。盛倒开水时注意安全，让孩子远离，以免孩子不小心抓到烫伤</li>
+            <li>请不要携带电炉，燃烟蚊香</li>
+            <li>请不要再医院内插座上充电或使用电器，以免影响医疗仪器的正常使用</li>
+               ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

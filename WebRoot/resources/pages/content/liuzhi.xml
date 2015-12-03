@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+           静脉留置针的相关知识和护理
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>静脉留置针的相关知识和护理</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            <p>各位家长：</p>
+            <p>&nbsp;&nbsp;在您宝宝住院期间，因每天都有静脉补液，我们会对宝宝进行静脉留置。相应的知识和护理要点要对您进行告知，以便我们共同努力，
+            维护好静脉留置针，减轻宝宝因穿刺而造成的痛苦。</p>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <detail>
+            <![CDATA[
+            <li>静脉留置针的套管比较柔软，不易损伤血管，在妥善固定的情况下可做轻微活动。</li>
+            <li>小婴儿一般可保留3天左右，年长儿约5天，从而避免每天进行静脉穿刺而造成的痛苦。</li>
+            <li>静脉留置针如果留置于头部，出汗多时应轻轻擦干，睡觉时防止滑落；留置在足部则不可站立和走动。</li>
+            <li>穿刺的部位用力不要过猛，以免引起局部疼痛，影响第二天的输液。</li>
+            <li>正常情况下套管内会有少量回血情况，这不影响健康和第二天的输液。</li>
+            <li>患儿要注意保持穿刺部位的清洁和干燥，补液结束后可用小毛巾包裹。</li>
+            <li>如有滑脱、出血、皮肤发红请及时告知当班护理人员，我们也会每天进行观察，共同维护好留置针。</li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

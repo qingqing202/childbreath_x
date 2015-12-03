@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            婴幼儿住院期间的皮肤护理
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>婴幼儿住院期间的皮肤护理</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+
+
+    <content>
+        <type>panel_red</type>
+        <title>如何预防宝宝红臀和尿布疹</title>
+        <body>
+            <![CDATA[
+            <li>选用尿布要柔软、清洁、干燥、吸水性强，住院期间因不便洗晒，建议您使用一次性尿布。</li>
+            <li>勤换尿布，以保持婴儿皮肤清洁干燥。</li>
+            <li>每次大小便后用温水帮宝宝清洁会阴部及肛周。待完全干燥后，在肛周涂没有刺激性的油脂以隔绝大小便的刺激，预防红臀。如您的宝宝是男婴可另在
+            阴囊褶皱处涂爽身粉。（无刺激性的油脂有：强生护臀膏、鞣酸软膏、消毒后的石蜡油或植物油等。）</li>
+            <li>宝宝穿衣盖被不宜过多，以免过热、躁动和摩擦皮肤过多而引起尿布皮疹。</li>
+            ]]>
+        </body>
+    </content>
+
+
+    <content>
+        <type>panel_green</type>
+        <title>如何正确清洗宝宝的小屁屁</title>
+        <body>
+            <![CDATA[
+            <li>女婴宝宝：大小便后用纱布或软毛巾蘸温水右前向后将会阴及臀部轻轻擦洗干净，避免由后向前以免肛周细菌带入会阴而引起感染。</li>
+            <li>男婴宝宝：（同前），注意确保所有褶皱处都清洗干净。
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>panel_green</type>
+        <title>宝宝身上有了皮疹怎么办？</title>
+        <body>
+            <![CDATA[
+            <li>在医护人员指导下，正确涂抹针对性的药膏或擦剂，涂抹用的棉签避免反复使用，确保用清洁的棉签去蘸取药液。</li>
+            <li>保持宝宝的皮肤清洁干燥，有出汗时及时更换棉质的内衣裤，衣着宽松柔软。</li>
+            <li>以温水沐浴最佳，使用性质温和的沐浴用品</li>
+            <li>剪短宝宝的指甲，或给他带小手套，以免痒了以后搔抓引起皮肤破损。</li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

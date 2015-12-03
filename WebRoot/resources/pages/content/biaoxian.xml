@@ -37,6 +37,21 @@
     </content>
 
     <content>
+        <type>dot_box</type>
+        <detail>各位家长，儿童在住院时，由于年龄、病种、病情、住院时间长短及个人的特点不同，因而对住院有条不同的反应。为减轻疾病的痛苦，
+        消除情绪上的焦虑，使你的宝宝身心得到全面的照顾，我们罗列出不同年龄段患儿对住院的心理和情绪翻译如下，并希望通过我们的共同努力，使你的孩子顺利度过
+        这段特殊时期。</detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+
+    <content>
         <type>panel_red</type>
         <title>婴儿期（0-6月）</title>
         <body>

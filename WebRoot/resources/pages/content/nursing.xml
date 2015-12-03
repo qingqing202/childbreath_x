@@ -50,6 +50,23 @@
             住院患儿的表现及应对措施
             </a>
             <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=liuzhi">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            静脉留置针的相关知识和护理
+            </a>
+            <br/>
+            <hr>
+
+            <a href="../../resources/pages/detail_content.jsp?name=anquan">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            住院安全宣教
+            </a>
+            <br/>
             ]]>
         </intro>
     </content>
@@ -87,6 +104,22 @@
   <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
 </button>
             如何在家进行鼻饲
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=pifu">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            婴幼儿皮肤护理
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=fushi">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            如何添加辅食
             </a>
             <br/>
 
