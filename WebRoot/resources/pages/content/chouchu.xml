@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            如何应对婴幼儿抽搐
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>如何应对婴幼儿抽搐</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+
+
+    <content>
+        <type>dot_box</type>
+        <detail>简单的说，抽搐是肢体迅速而不自主的抖动。很多疾病都会引起抽搐。我们在下面列出了抽搐的相关知识和应对措施，希望能帮助您照顾好抽搐患儿。
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>为什么会发生抽搐</title>
+        <body>
+            很多疾病都会导致抽搐，包括癫痫、高热（尤其是儿童）、脑膜炎、脑肿瘤、脑部受伤、中毒和低血糖等。
+        </body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>抽搐发作时父母应该怎么办？</title>
+        <body>
+            <![CDATA[
+            第一步：最重要是防止受伤，如患儿正在住院，可将小儿置于床上同时立即呼叫医护人员，同时移开危险物品如锐利的器具。
+            <br/>
+            第二步：松开衣领。
+            <br/>
+            第三步：口腔有分泌物时，让患儿侧卧，防止窒息。
+            <br/>
+            如果抽搐伴有高热，很可能是高热惊厥，此时要注意降温，可用冷毛巾敷额，温水擦身。
+            <br/>
+            如果你能保持足够的镇静，请观察孩子抽搐时的表现，观察其意识是否清楚；眼睛是否凝视；口唇是否发紫；哪个肢体在抽动；
+            抽搐持续多少时间等，为医生进一步诊断和治疗提供详细的病史资料。
+            <br/>
+            抽搐停止后孩子会很疲劳，请安置舒适安静的环境让其休息。
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>怎么样才是抽搐发作？</title>
+        <body>
+            <![CDATA[
+            抽搐先兆：眨眼，忽然生气或大笑，恶心等。
+            <br/>
+            抽搐表现：意识丧失，突然跌倒，双眼凝视，口吐白沫，唇周青紫，牙关紧闭，呼吸暂停，四肢抖动，大小便失禁等。</p>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>NO NO NO！</title>
+        <body>
+            <![CDATA[
+            不要再抽搐的时候移动孩子。
+            <br/>
+            不要强行按压孩子的身体，抽搐是无意识的行动。
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_gray</type>
+        <title>抽搐会有后遗症吗？</title>
+        <body>
+            <![CDATA[
+            高热引起的抽搐、持续时间在30秒到2分钟，基本上不会影响智力。
+            <br>
+            抽搐时间延长，两次抽搐之间孩子不能清醒，癫痫等会对孩子的生长和智力发育产生影响。
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

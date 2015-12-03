@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            孩子为什么要验血?
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>孩子为什么要验血？</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+
+
+    <content>
+        <type>dot_box</type>
+        <detail>您的孩子如果患病需要入院治疗，医务人员可能会为他抽血做血液的化验，这是很普遍的。尤其是孩子患的是急症，
+        例如发高热、腹泻或者是病情较为严重的疾病。血液的化验可以帮助医生诊断及了解孩子的病况，从而提供最恰当的治疗。
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>常见的四类血液化验</title>
+        <body>
+            <![CDATA[
+            <strong class="text-danger">血球数量分析:</strong>
+            血球数量分析可以得知孩子的血色素是否足够，白血球和血小板的数量是否正常等。这些资料可以帮助医生分析
+            孩子所感染的疾病和其他血液问题。
+            <hr/>
+
+            <strong class="text-danger">血液生化分析:</strong>
+            血液生化分析可以得知血液中的电解质（即矿物质）的成分，肝脏和肾脏的功能等。
+
+            <hr/>
+            <strong class="text-danger">细菌的培养:</strong>
+            患急症入院的儿童，很多时候都有发热或其他发炎的症状。严重的感染一般由细菌造成，很可能侵入血液。泽泻细菌可以
+            通过血液的培养被发现，医生还可以从化验分析中，选取最适当的抗生素来为患儿进行治疗。
+            <hr/>
+
+            <strong class="text-danger">特殊检查，帮组诊断:</strong>
+            血液检验还可以让医生得知某些药物在体内的份量、病毒感染等。此外还有很多其他的化验可以帮助医生做准确的诊断。
+
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>抽血的程序</title>
+        <body>
+            <![CDATA[
+            抽血一般会在病房内的治疗室进行，由护士或化验室工作人员为孩子抽血。通常父母可以陪伴幼儿。护士会尽量选用
+            最小的留置针为患儿进行静脉穿刺，同时留取患儿须化验的血液，以减少孩子的痛楚。
+
+            <hr/>
+            一般检查需要大约数毫升的血液，
+            这份量对孩子的健康不会造成不良影响。（例如一个重10kg的孩子，他体内的血液便有750毫升，数毫升的血液对他
+            来说其实是极小的份量。）
+            <hr/>
+
+            抽血后只要用干棉球按压抽血处三至五分钟，伤口便会停止出血。除非有特殊情况，否则孩子可以即日沐浴。
+            ]]>
+        </body>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

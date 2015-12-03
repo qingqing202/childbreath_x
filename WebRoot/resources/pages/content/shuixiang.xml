@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+           自动水箱使用注意事项
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>自动水箱使用注意事项</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            各位家长：
+            <br/>
+            <br/>
+            在您孩子住院期间，为方便您取用饮用水，我们提供自动水箱为您24小时提供开水和净化水，但希望您在使用期间，做到以下几点：
+            <br/>
+            <br/>
+
+            <ol>
+            <li>使用完毕，将水龙头正确关闭（开关向右90度放置）</li>
+            <li>为了您和他人的安全，请自觉保持地面的干燥，勿直接在水龙头下洗烫奶瓶，以免造成地面湿滑引起摔跤。</li>
+            <li>为保持饮用水清洁，禁止在水箱上晾晒衣服。</li>
+            <li>请勿带热水瓶进病房，以免孩子烫伤。</li>
+            </ol>
+            以上注意事项请各位家长自觉遵守。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

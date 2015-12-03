@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            微波炉注意事项
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>微波炉注意事项</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            各位家长：
+            <br/>
+            <br/>
+            在您孩子住院期间，为方便您加热食物，我们为您提供微波炉，但希望您在使用期间做到以下几点：
+            <br/>
+            <br/>
+
+            <ol>
+            <li>开启微波炉后，人应远离微波炉或人距离微波炉至少一米以外。</li>
+            <li>只能用于加热，请勿用于烹制生的食物。</li>
+            <li>加热时应使用耐热玻璃、耐热陶瓷等专用器皿或微波炉专用盒。禁止将金属器皿放入炉内，不能使用金属或
+            带有金属配件的容器，也不能使用木质或竹制器具。</li>
+            <li>袋装和瓶装食物要在开启后放入微波炉专用容器内在放进炉内加热，以免爆裂。</li>
+            <li>鸡蛋必须打碎并搅拌均匀后再放进炉内，否者可能引起爆炸事故。</li>
+            <li>严禁让孩子自行加热食物。</li>
+            <li>加热时，请勿超过三分钟，请在旁照看，以免烧焦。</li>
+            <li>加热后的食物拿取时谨防烫伤。</li>
+            <li>公共财物，请您爱惜，如有损坏，照价赔偿。</li>
+            </ol>
+            以上注意事项请各位家长自觉遵守。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

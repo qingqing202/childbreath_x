@@ -60,6 +60,29 @@
             <br/>
             <hr>
 
+            <a href="../../resources/pages/detail_content.jsp?name=shuixiang">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            自动水箱使用注意事项
+            </a>
+            <br/>
+            <a href="../../resources/pages/detail_content.jsp?name=mwoven">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            微波炉注意事项
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=chufang">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            厨房安全告示
+            </a>
+            <br/>
+
             <a href="../../resources/pages/detail_content.jsp?name=anquan">
             <button type="button" class="btn btn-default">
   <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
@@ -75,6 +98,14 @@
     <name>居家护理</name>
     <intro>
         <![CDATA[
+            <a href="../../resources/pages/detail_content.jsp?name=chuyuanhou">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            患儿出院后应该注意些什么?
+            </a>
+            <br/>
+
             <a href="../../resources/pages/detail_content.jsp?name=fever">
             <button type="button" class="btn btn-default">
   <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
@@ -120,6 +151,14 @@
   <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
 </button>
             如何添加辅食
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=chouchu">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            如何应对婴幼儿抽搐。
             </a>
             <br/>
 

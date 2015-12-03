@@ -27,6 +27,13 @@
     </content>
     <content>
         <type>media</type>
+        <name>孩子为什么要验血？</name>
+        <intro>孩子为什么要验血？</intro>
+        <src>resources/img/blogo1.jpg</src>
+        <url>../../resources/pages/detail_content.jsp?name=yanxue</url>
+    </content>
+    <content>
+        <type>media</type>
         <name>先心肺炎</name>
         <intro>由于心脏结构的缺失导致肺循环血量过多，先心患儿更容易肺部感染。</intro>
         <src>resources/img/blogo1.jpg</src>
