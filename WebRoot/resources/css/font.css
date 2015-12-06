@@ -1,1 +1,14 @@
-* {  font-size:large  }
+*{font-size:large}
+li{
+    text-indent:0em;
+    padding:0 0.5em;
+    font-size:large
+}
+a{
+    font-size:large
+}
+
+p{
+    font-size:large
+}
+

@@ -32,9 +32,8 @@
 <link href="//basePath%>/resources/css/dialogbox.css" rel="stylesheet">
 -->
 <head>
-  <%@ include file="include/html_head.jsp" %>
-    <link href="<%=basePath%>/resources/css/docs.min.css" rel="stylesheet">
-  <title><%=hash_for_title.get("name")%></title>
+<%@ include file="include/html_head.jsp" %>
+<title><%=hash_for_title.get("name")%></title>
 </head>
 
 <body>
@@ -194,7 +193,7 @@
         } else if ( hash_for_content.get("type").equals("dot_box")) {
         %>
                 <section class="tn-Powered-by-XIUMI" style="white-space: normal; border: 0px; max-width: 100%; margin: 0.5em 0px 0px; padding: 0px 0.5em 0.5em 0px; box-sizing: border-box;">
-                    <section class="tn-Powered-by-XIUMI" style="border: 2px dotted white; padding: 10px; border-top-left-radius: 8px 64px; border-top-right-radius: 48px 8px; border-bottom-right-radius: 8px 16px; border-bottom-left-radius: 0px 48px; box-shadow: rgb(225, 225, 225) 8px 8px 3px; line-height: 1.4; font-size: 1em; font-family: inherit; text-decoration: inherit; color: rgb(255, 255, 255); background-color: rgb(71, 193, 168); box-sizing: border-box; word-wrap: break-word !important;">
+                    <section class="tn-Powered-by-XIUMI" style="border: 2px dotted white; padding: 10px; border-top-left-radius: 8px 64px; border-top-right-radius: 48px 8px; border-bottom-right-radius: 8px 16px; border-bottom-left-radius: 0px 48px; box-shadow: rgb(225, 225, 225) 8px 8px 3px; line-height: 1.4; font-size: 1em; font-family: inherit; text-decoration: inherit; color: rgb(255, 255, 255); background-color: rgb(72, 189, 193); box-sizing: border-box; word-wrap: break-word !important;">
                         <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
                             <%=hash_for_content.get("detail")%>
                     </section>

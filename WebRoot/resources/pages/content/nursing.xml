@@ -9,7 +9,13 @@
         <name>病房护理</name>
         <intro>
             <![CDATA[
-
+            <a href="../../resources/pages/detail_content.jsp?name=zhuyuanxuanjiao">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            呼吸科住院宣教
+            </a>
+            <br/>
 
             <a href="../../resources/pages/detail_content.jsp?name=gaozhishu">
             <button type="button" class="btn btn-default">
@@ -90,6 +96,52 @@
             住院安全宣教
             </a>
             <br/>
+
+            <hr/>
+
+            <p>以家庭为中心的合作性照顾<p>
+
+            <a href="../../resources/pages/detail_content.jsp?name=anquanpian">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            安全篇
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=zhiliaopian">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            治疗篇
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=yingyangpian">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            营养篇
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=weishengpian">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            卫生篇
+            </a>
+            <br/>
+
+            <a href="../../resources/pages/detail_content.jsp?name=huodongpian">
+            <button type="button" class="btn btn-default">
+  <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+</button>
+            活动篇
+            </a>
+            <br/>
+
+
             ]]>
         </intro>
     </content>

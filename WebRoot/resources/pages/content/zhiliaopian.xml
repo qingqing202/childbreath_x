@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            以家庭为中心的合作性照顾：治疗篇
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>
+            <![CDATA[
+            以家庭为中心的合作性照顾：治疗篇<a href="top"> </a>
+            ]]>
+            </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            尊敬的家长:
+            <br/>
+            <br/>
+            患儿患病期间需要您的细心照料。您需要知道如何正确的给孩子喂药、如何护理静脉留置、如何测量体温等知识。下面让我们为您
+            一一介绍这些知识，帮助您的孩子早日康复。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>这里将向您介绍以下方面</title>
+        <body>
+            <![CDATA[
+            <table class="table">
+            <tr>
+            <td>
+            <a href="#1">
+            正确的喂药技巧
+            </a>
+            </td>
+            <td><a href="#1"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#2">
+            喂药的常见误区
+            </a>
+            </td>
+            <td><a href="#2"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#3">静脉留置期间的注意事项</a>
+            </td>
+            <td><a href="#3"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#4">测量体温</a>
+            </td>
+            <td><a href="#4"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#5">雾化给药配合事项</a>
+            </td>
+            <td><a href="#5"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            </table>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           一、<a name="1"></a>正确的喂药技巧
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            给孩子喂药是家长普遍感到头疼的事情，不过这又是每一位家长必须要学会的事情。
+            我们总结了一些小儿喂药的技巧，希望您在护理人员的指导下，掌握小儿喂药的基本要点，
+            顺利完成给您的孩子喂药的任务。
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>喂药的器具：吸管、滴管、量杯</head>
+        <detail>
+            <![CDATA[
+            一般来说，家长喂药时多习惯用勺，不但容易把药液洒出来，而且药量也不准确。
+            目前的药盒里多配有带刻度的滴管或量杯，很好地避免了上述不便。
+            尤其是吸管，待吸满所需剂量的药液后，将管口放在婴儿口腔颊粘膜和牙床之间，
+            按照他的吞咽速度慢慢滴入。
+            <br/>
+            <br/>
+            如果用勺子，可将测量好剂量的药液倒在勺中，送入孩子口中，压住舌头，待药液咽下后再拿出小勺。
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhiliaopian/image062.jpg</src>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>喂药的姿势：半卧、侧身</head>
+        <detail>
+            <![CDATA[
+            孩子吃药多少都会有抗拒行为，所以，如果平躺着吃药容易呛着，
+            或可以把头侧向一面。
+            若孩子病情允许，建议将孩子抱在怀里或采取半卧位，
+            保持上半身稍高位，适当固定手脚，用小勺或药杯紧贴着嘴角喂。
+            <br/>
+            <br/>
+            由于体位的关系，药液会慢慢从舌边流入，
+            待孩子吞咽后再把小勺或者药杯从嘴边取走。
+            如果孩子不愿意咽下，可用拇指和食指捏他的两颊，使其吞下。
+            年幼孩子喂药时不要急着大口喂，一次一小口，
+            待孩子吞咽下去后再喂余下的。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_brown</type>
+        <head>给药的时间：建议根据医生嘱咐或药物说明书</head>
+        <detail>
+            <![CDATA[
+            给药时间一般分为饭前服用，饭时服用，饭后服用，睡前服用。
+            大多数药物都是饭后服用，药物的服用时间建议根据医嘱或说明书
+            上建议的为佳，更能发挥药物作用。
+            如果是小婴儿，可在喂奶前或两次喂奶中间服药。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>药物的剂型：液体、粉末、片剂、胶囊</head>
+        <detail>
+            <![CDATA[
+            目前婴幼儿的药物多是液体的，方便直接服用，
+            而且多为水果口味，不会太苦。
+            若很苦，可以加些白糖遮盖苦味。
+            如果是粉剂和片剂，可以用少量温开水把药溶化后喂服。
+            喂完后，需给孩子喂少量温开水，既可以冲淡口中的药味，
+            也便于药物在胃中充分溶解，利于吸收。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="2"></a>二、喂药的常见误区
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>误区一：夸大喂药的事</head>
+        <detail>
+            <![CDATA[
+            给孩子喂药时，往往是两三位家长齐上阵，摁住孩子，制造了很紧张的气氛，吓得宝宝极力反抗，喂药自然难以完成。家长要将给孩子喂药当做平常事来做。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>误区二：捏鼻子灌药</head>
+        <detail>
+            为了让孩子吃药，有些家长会捏住孩子鼻子，让他张开嘴灌入药物。但往往事与愿违，药即使灌进去了，也会因为孩子哭闹，过一会又吐出来了。捏着鼻子强灌，还可能呛到气管里，引起严重后果。
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_brown</type>
+        <head>误区三：打骂、恐吓孩子吃药</head>
+        <detail>
+            不要把不吃药跟惩罚联系在一起，否则孩子会更加抗拒吃药。
+        </detail>
+    </content>
+    <content>
+        <type>half_box_red</type>
+        <head>误区四：把药混在奶里喂</head>
+        <detail>
+            两者混合在一起，可能会出现凝结现象，降低药物的疗效。还会因为味道改变，影响孩子的食欲。而且，如果孩子一次吃不完，会导致药量不够。所以，药物最好单独吃。
+        </detail>
+    </content>
+    <content>
+        <type>half_box_green</type>
+        <head>误区五：欺骗孩子</head>
+        <detail>
+            有些家长为了哄孩子吃药，告诉孩子药是甜的，被孩子识别出味道后，下次就拒绝吃了。所以，要给孩子讲清道理，告诉他真实的味道——有一点点苦，这样孩子就有了心理准备。还有些家长告诉孩子这是“糖”，贪吃的孩子会自己偷偷拿药吃，造成危险。
+        </detail>
+    </content>
+    <content>
+        <type>half_box_brown</type>
+        <head>误区六：给“可以不吃”的选择</head>
+        <detail>
+            即使是能够吃药的孩子，也不会愿意吃药，所以，家长在跟孩子讨论吃药的问题时，不能说“你现在吃药好吗？”估计所有的孩子都会回答“不好”。应该问“你是跟糖一起吃药，还是跟水一起吃药”，孩子会选择他喜欢的一种方式，但都是把药吃下去。
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="3"></a>三、静脉留置期间的注意事项
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/zhiliaopian/image074.jpg</src>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            在您的孩子住院期间，如果有静脉补液治疗，我们会对孩子进行静脉留置针的置入，这是为了配合用药和减轻孩子反复穿刺而造成的痛苦。为了使静脉留置针维持较好的功能，希望家长一起参与配合，共同维护好静脉留置针。
+           <hr/>
+          静脉留置针的特点：静脉留置针的套管比较柔软，在妥善固定的情况下可做轻微活动。
+          <hr/>
+留置时间：小婴儿的静脉留置一般可保留3天左右，但留置时间也因孩子年龄大小、血管情况、用药、以及维护等情况有所不同。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>静脉留置针的保护：</head>
+        <detail>
+            <![CDATA[
+            <ul>
+
+<li>静脉留置针如留置于头部，出汗多时应轻轻擦干，睡觉时防止滑脱及被孩子拉掉；静脉留置针如在足部，则避免该侧站立和走动。
+</li>
+<li>有静脉留置侧的手或脚不要用力过猛和扭转，以免引起留置针滑脱，影响第二天的输液。
+</li>
+<li>注意保持穿刺部位的清洁和干燥，洗澡时<code>不可</code>浸于水中。
+</li>
+<li>补液结束后手脚部位的留置针可用小毛巾包裹，防止留置针被碰撞和被拉出。
+</li>
+<li>输液过程中请<code>不要</code>自行调节滴速，以免太快造成心脏负荷，或太慢造成血液凝固堵住管子。
+</li>
+<li>液过程中，如下床活动，输液袋至注射部位距离应与床上输液时距离相当，以免影响滴速。请不要倒转输液袋，以免点滴不畅或进入空气。
+</li>
+<li>输注血液、化疗药物等时，请尽量避免活动，以防针头滑出引起静脉外渗。
+</li>
+              </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>若发现以下情况时，请告知护理人员：</head>
+        <detail>
+            <![CDATA[
+<li>注射部位有红、肿、热、痛时
+</li>
+<li>针头固定部位渗血或漏水
+</li>
+<li>点滴不滴，或流速变快或变慢时
+</li>
+<li>点滴药液要滴空时
+</li>
+<li>针头滑脱时
+</li>
+<li>呼吸困难，心跳加快等不适情形。
+</li>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="4"></a>四、测量体温
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            测量生命体征前30分钟避免进食、冷热饮、冷热敷、洗澡、运动、灌肠、坐浴等影响生命体征的相关因素。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>口温测量（水银体温计）：</head>
+        <detail>
+            <![CDATA[
+            <ul>
+<li>不宜测量口温的情况：精神异常、昏迷、口腔疾病、不合作、年龄小于5岁。
+</li>
+<li>准备体温计，检查水银体温计有无破损，甩至35℃以下。
+</li>
+<li>让孩子张口，舌顶上腭。将体温计测量端斜放于舌下热窝闭口。
+</li>
+<li>叮嘱孩子注意紧闭口唇而不可咬。
+</li>
+<li>水银体温计测量3min；电子体温计测量至读数跳至稳定。
+</li>
+<li>将体温表取出，读数。
+</li>
+<li>消毒体温计。
+</li>
+              </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>肛温测量：</head>
+        <detail>
+            <![CDATA[
+            <ul>
+<li>不宜测量肛温的情况：新生儿，肛门手术、反复腹泻者（热水坐浴，灌肠后等30min再测温）。
+</li>
+<li>准备体温计，检查水银体温计有无破损，甩至35℃以下。
+</li>
+<li>协助孩子屈膝侧卧。
+</li>
+<li>露出肛门，将浸有润换液（液状石蜡）的测量端，轻轻旋转插入肛门3～4cm扶托。
+</li>
+<li>婴幼儿、躁动的孩子测肛温时，须手扶体温表以免断裂，必要时请护士帮助。
+</li>
+<li>水银体温计测量3min；电子体温计测量至读数跳至稳定。
+</li>
+<li>将体温计取出，读数。
+</li>
+<li>处理污体温计或一次性体温薄膜套。
+</li>
+            </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_brown</type>
+        <head>腋温测量：</head>
+        <detail>
+            <![CDATA[
+            <ul>
+	<li>不宜测量腋温的情况：肢体活动障碍，体形过于消瘦者。
+	</li>
+	<li>准备体温计。检查水银体温计有无破损，甩至35℃以下。
+	</li>
+	<li>擦干腋窝，测量端放于腋窝深处，屈臂过胸，夹紧。
+	</li>
+	<li>水银体温计测量10min；电子体温计测量至读数跳至稳定。
+	</li>
+	<li>将体温计取出，读数。
+	</li>
+	<li>处理污体温计或一次性体温薄膜套。
+	</li>
+            </ul>
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="5"></a> 五、雾化给药配合事项
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            雾化给药的目的是利用高速气流把药液吹成雾状，吸入患儿呼吸道，达到治疗目的。由于孩子未接触过这种方式，可能会有抗拒，家长需要给患儿鼓励，让其配合治疗。
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>half_box_red</type>
+        <detail>
+            <![CDATA[
+            <ul>
+<li>雾化吸入时取坐位、半坐位或侧卧位，仰卧位时需将床头抬高30°。
+</li>
+<li>治疗时鼓励孩子做慢而深的吸气，吸气末梢停片刻，这样会使雾滴吸入更深。
+</li>
+<li>雾化器应竖直，防止药液外漏。
+</li>
+<li>若孩子年龄幼小难以配合，家长可用手扶住面罩。
+</li>
+<li>不要将雾化喷及眼部。
+</li>
+<li>治疗后1～2小时内注意拍击患者背部，并鼓励孩子咳嗽。
+</li>
+<li>雾化吸入期间要注意观察病情变化。如果出现咳嗽、气促等症状，应立即停止雾化吸入，拍背，待症状缓解再继续行雾化吸入治疗。若不能缓解，请联系护理人员。
+</li>
+            </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

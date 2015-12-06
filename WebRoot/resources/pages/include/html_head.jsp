@@ -10,6 +10,7 @@
 	<script type="text/javascript">
 		var rootPath = "${rootPath}";
 	</script>
+	<link rel="stylesheet" href="<%=basePath%>/resources/css/docs.min.css"/>
 	<link rel="stylesheet" href="<%=basePath%>/resources/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="<%=basePath%>/resources/css/style.css" />
     <link rel="stylesheet" href="<%=basePath%>/resources/css/font.css" />

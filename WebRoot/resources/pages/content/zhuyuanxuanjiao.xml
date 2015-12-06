@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            呼吸科住院宣教
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>
+            <![CDATA[
+            呼吸科住院宣教<a href="top"> </a>
+            ]]>
+            </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            各位亲爱的家长:
+            <br/>
+            <br/>
+            呼吸科医护团队精心为您准备了住院相关介绍和注意事项，希望您和宝宝能较快的适应病房生活，通过我们的治疗和精心护理，
+            宝宝可以尽早出院！
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>这里将向您介绍以下方面</title>
+        <body>
+            <![CDATA[
+            <table class="table">
+            <tr>
+            <td>
+            <a href="#1">
+            环境介绍
+            </a>
+            </td>
+            <td><a href="#1"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#2">饮食介绍</a>
+            </td>
+            <td><a href="#2"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#3">安全宣教</a>
+            </td>
+            <td><a href="#3"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#4">护理配合注意事项</a>
+            </td>
+            <td><a href="#4"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#5">检查指导</a>
+            </td>
+            <td><a href="#5"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#6">病情咨询</a>
+            </td>
+            <td><a href="#6"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#7">友情提示</a>
+            </td>
+            <td><a href="#7"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#8">便民服务</a>
+            </td>
+            <td><a href="#8"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            </table>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           一、环境介绍<a name="1">:</a>
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            您和宝宝入院后第一眼看到的就是我们的护士台，是护士和医生们平日工作的地方:
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/1.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            您孩子的病房中配有床、陪客椅、床头柜、洗手池和衣柜:
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/2.png</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/3.png</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/5.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            每件病房内都配有卫生间:
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/4.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            在护士台左侧3081室是治疗室，一般给宝宝们打针、抽血的操作都在里面进行:
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/6.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            在3081治疗室的隔壁是茶水间，24小时供应热水和温水。
+            为了宝宝的安全，请不要让您的孩子进入茶水间。住院期间<code>禁止</code>带入热水瓶，以免造成烫伤事故:
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/7.png</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/8.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            住院期间的生活垃圾请及时丢弃在走廊尽头右转的污物间：
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/9.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            罩有熟料罩的床单位，都已经消毒好成备用状态，请您保持床单位的整洁。粉红被套是提供给家属用的，白天请将陪客被放在衣橱
+            的上柜中：
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/10.png</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/11.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            陪客椅可如下图所示拉起：
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/12.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            如需呼叫护士，请按床边的呼叫器。我们会通过呼叫器立即与你联络并尽快赶到：
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/13.png</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/14.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            微波炉使用请按照操作流程，并保持微波炉的清洁。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/15.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           二、饮食介绍<a name="2">:</a>
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <ul>
+            <li>我们医院提供饮食类型有：普食、婴粥、白粥、配方奶。</li>
+             <li>预定以天为单位，如有需求，请告知医生，配餐员送餐上门。</li>
+             <li>如为母乳或配方奶喂养的宝宝，请注意奶具消毒及个人清洁卫生，喂奶前请务必洗手。</li>
+             <li>家长可以直接现金购买盒饭或每日清晨7:00左右找送餐阿姨订饭。盒饭购买地点：</li>
+            <ul>
+              <li>三楼食堂：早上7：00左右。</li>
+              <li>一楼食堂：中午11：00左右。</li>
+              <li>三楼食堂：晚上16：30左右。</li>
+              </ul>
+              </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           三、安全介绍<a name="3">:</a>
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            正确使用防坠床的床挡。床挡可以如下图拉起，朝上朝内两边扣住。
+            朝上朝外即可拉下床挡。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/17.png</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/18.png</src>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/19.png</src>
+    </content>
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            即使您陪伴在孩子身边，请您随时拉起双侧床挡，防止患儿坠床：
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/20.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li> 请<code>不要</code>让宝宝在床上蹦跳！ </li>
+            <li> 会走路的孩子以下床活动为主!</li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/21.png</src>
+    </content>
+
+    <content>
+        <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li> <code>任何盛有开水的容器</code>一律置于宝宝触不到的地方，
+            <code>切记！</code> </li>
+            <li><code>杜绝将开水带到病房！</code></li>
+            <li>防烫伤<code>自己的宝宝</code>，也要防烫伤
+            <code>其他住院患儿！</code></li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/22.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li> 若需要用开水消毒奶瓶，请在厨房间操作，防止意外发生。谢谢各位家长配合。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/23.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li> 为了宝宝的安全，请及时拔去充电插头，勿悬挂与床头。
+            </li>
+            <li> 尤其在宝宝吸氧或雾化期间，避免氧气与外露的电源接触，防止发生
+            意外事件。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/24.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>进食母乳或配方奶的宝宝请在饮奶后侧卧，并抬高床头，避免呛咳引起窒息。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/25.png</src>
+    </content>
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>床尾有摇起床头或床位的标识。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/26.png</src>
+    </content>
+
+    <content> <type>half_box_red</type>
+        <head>再次提醒！</head>
+        <detail>
+            <![CDATA[
+            <ul>
+            <li>为了减少伤害和不必要的纠纷，请您高度重视住院期间安全宣教，防止
+            发生坠床、烫伤、窒息等意外。从现在做起，养成良好习惯。
+            </li>
+            <li>家长是孩子的第一监护人，住院期间孩子的安全需要您细心呵护！
+            </li>
+            </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           四、护理配合注意事项<a name="4">:</a>
+           ]]>
+        </detail>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>静脉留置处避免沾水，尽量减少活动。可用小毛巾包裹穿刺处，减少摩擦。
+            静脉留置更换时间：3-5天。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/28.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            我们将为您的宝宝带上手圈或脚圈，以方便核对信息，确保治疗的正确性，请勿擅自摘下。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/29.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            当护士叫您把宝宝抱到治疗室打针抽血时，请带好一次性床垫、自粘性薄膜敷料和儿童静脉输液固定板。并将一次性床垫
+            铺于治疗床上。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/30.png</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/31.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            抽血或打针后请您保持按压出血点10分钟。
+            </li>
+            <li>
+            如果您的宝宝需要用青霉素治疗，我们会为您的宝宝做青霉素皮试，<code>20分钟</code>后需观看皮试结果。所以请勿
+            在这段时间内将宝宝带离病房，逾时需重新再做青霉素皮试。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/32.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+          五、检查指导<a name="5">:</a>
+           ]]>
+        </detail>
+    </content>
+
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            小便留取半管以上。禁止在补液时留取，晨起第一次小便最佳。
+            </li>
+            <li>
+            大便取黄豆大小。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/33.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            大小便留取后请送到护士台让护士扫描后置于运输盒。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/34.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           六、病情咨询<a name="6">:</a>
+           ]]>
+        </detail>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            如您对宝宝的病情、用药、检查等有疑问时，可以找您的床位医生解答病情。
+            </li>
+            <li>
+            您可以通过二维码扫描了解自己患儿的化验报告。二维码在每个病房都有。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/35.png</src>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           七、友情提示<a name="7">:</a>
+           ]]>
+        </detail>
+    </content>
+
+
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            自费医疗器械商店在一楼急救通道旁。您可以在商店购买到舒适膜。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/37.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            在一楼教育超市您可以买到洗手液、3M免洗液、一次性床垫和夹板。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/38.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            入院后请交100元押金并于护士站文员处领取陪客证一张。当您孩子出院时凭此证退还押金。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/39.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+            小孩住院期间不能外出，擅自离院一切责任自负。
+            </li>
+            <li>
+            如有特殊情况一定要离院，请找自己的床位医生填写"住院病人外出申请单"后方可外出。
+            </li>
+            <li>
+            有少儿住院基金的宝宝请假外出将影响报销，故请尽量避免外出。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/39.2.png</src>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+           医院是公共场所，请保管好自己的财物。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/40.png</src>
+    </content>
+    <content> <type>img_with_intro</type>
+        <detail>
+            <![CDATA[
+            <li>
+           本院为无烟医院，请勿在院内吸烟。
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/41.png</src>
+    </content>
+    <content> <type>img_with_intro</type> <detail>
+            <![CDATA[
+            <li>
+           我们在病房门口准备了免洗液，提供给医务人员接触
+宝宝前使用，以防止交叉感染，请家长们避免浪费
+            </li>
+            ]]>
+        </detail>
+        <src>resources/img/zhuyuanxuanjiao/42.png</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           八、便民服务<a name="8">:</a>
+           ]]>
+        </detail>
+    </content>
+
+    <content> <type>img_with_intro</type>
+        <detail>
+        <![CDATA[
+            <li>
+            我们为您提供针线包、电脑预约复诊(结账前)、 复印病历（出院后两周）等服务
+            </li>
+            ]]>
+    </detail>
+        <src>resources/img/zhuyuanxuanjiao/43.png</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/44.png</src>
+    </content>
+
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>half_box_red</type>
+        <detail>
+            <![CDATA[
+                <li>以上是我们为您精心准备的入院宣教，如有疑问我们随时可以为您解答！</li>
+                <li>感谢您的耐心观看！</li>
+                <li><strong class="text-danger">请在三张宣教单上签字！谢谢！</strong></li>
+             ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/45.png</src>
+    </content>
+    <content> <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/46.png</src>
+    </content>
+    <content> <type>img</type>
+        <src>resources/img/zhuyuanxuanjiao/47.png</src>
+    </content>
+
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>
