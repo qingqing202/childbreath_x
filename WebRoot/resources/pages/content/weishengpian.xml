@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            以家庭为中心的合作性照顾：卫生篇
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>
+            <![CDATA[
+            以家庭为中心的合作性照顾：卫生篇<a href="top"> </a>
+            ]]>
+            </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            尊敬的家长:
+            <br/>
+            <br/>
+            宝宝的免疫系统尚未发育完备，为宝宝保持良好的卫生状况对孩子的身心发展非常关键。下面我们将向您介绍如何正确的给孩子
+            维护个人卫生。希望能对您有所帮助。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>这里将向您介绍以下方面</title>
+        <body>
+            <![CDATA[
+            <table class="table">
+            <tr>
+            <td>
+            <a href="#1">
+            如何给孩子洗脸
+            </a>
+            </td>
+            <td><a href="#1"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#2">
+            如何协助孩子口腔清洁
+            </a>
+            </td>
+            <td><a href="#2"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#3">如何给生病的孩子擦身</a>
+            </td>
+            <td><a href="#3"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#4">如何帮生病的孩子更换衣服</a>
+            </td>
+            <td><a href="#4"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#5">婴儿沐浴注意事项</a>
+            </td>
+            <td><a href="#5"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#6">如何给婴儿更换尿布</a>
+            </td>
+            <td><a href="#6"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#7">会阴部的清洁</a>
+            </td>
+            <td><a href="#7"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            <tr>
+            <td>
+            <a href="#8">肛周清洁</a>
+            </td>
+            <td><a href="#8"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+
+            <tr>
+            <td>
+            <a href="#9">足部清洁</a>
+            </td>
+            <td><a href="#9"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
+            </tr>
+            </table>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           一、<a name="1"></a>如何给孩子洗脸
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <detail>
+            <![CDATA[
+
+<ul>
+<li>家长进行手部清洁
+</li>
+<li>准备温水，38-40℃，以手肘皮肤试温。准备柔软的清洁毛巾。
+</li>
+<li>如果孩子能坐起，请让孩子坐好。
+</li>
+<li>绞干毛巾
+</li>
+<li>给孩子洗脸。洗脸步骤：先洗眼内眦，眼外眦，前额、鼻、嘴、颊、颈
+</li>
+<li>再次冼手。
+</li>
+<li><strong>儿童洗脸毛巾专用，用完后挂在通风处晾干。</strong>
+</li>
+</ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="2"></a>二、如何协助孩子口腔清洁
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            不同年龄段的孩子要选用不同的方法进行口腔清洁。
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>half_box_red</type>
+        <head>新生儿：</head>
+        <detail>
+            <![CDATA[
+            口腔清洁一般在喂奶后1小时进行，将清洁纱布蘸以温水，适当绞干，在手指上包以清洁纱布，清洁新生儿的口腔。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>1-2岁的儿童：</head>
+        <detail>
+            <![CDATA[
+            在餐后喂少量水，以清除口腔内的事物残渣。
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>half_box_green</type>
+        <head>2岁以上的儿童：</head>
+        <detail>
+            <![CDATA[
+            <ol>
+<li>漱口：让孩子将温开水含在嘴中，然后鼓动双颊及唇部，用舌头在口腔内搅动，使漱口水高速反复地冲击口腔各个角落，将口腔内食物碎屑和部分软垢清除。家长最好先示范一遍漱口的方法，孩子的模仿力是很强的。
+</li>
+<li>刷牙：选用幼儿专用的软毛小头牙刷，儿童牙膏。采用水平式的横向刷法刷牙
+</li>
+<ul>
+<li>将刷毛对准牙齿与牙龈交接的地方，刷上颚牙齿时刷毛朝上，刷下颚牙齿时刷毛朝下。
+</li>
+<li>牙刷与牙齿应呈45-60度角，同时将刷毛向牙齿轻压，使刷毛略呈圆弧。
+</li>
+<li>牙刷定位后，开始作短距离水平运动，一次刷两颗牙齿，前后来回约刷十次。
+</li>
+<li>刷牙齿咬合面时，刷毛与咬合面垂直。
+</li>
+<li>注意刷牙时力量要适度，以免刷痛牙龈，使孩子产生厌烦情绪。
+</li>
+<li>每刷完一个区域后，就让宝宝漱漱口。
+</li>
+<li>每次刷牙至少3分钟，早晚各1次，且在晚上刷牙后不再进食。
+</li>
+</ul>
+
+<li>
+避免让孩子常吃糖分高、粘性强的食物，尤其在睡觉前。
+</li>
+</ol>
+
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/weishengpian/link.jpeg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="3"></a>三、如何给生病的孩子擦身
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>擦身前：</head>
+        <detail>
+            <![CDATA[
+            <ul>
+<li>准备用物：温水（水温40℃～42℃，热而不烫为宜）、面盆、大小毛巾、清洁衣裤、沐浴露、润肤露（必要时）
+</li>
+<li>关闭门窗，四周保持遮挡，室温在20℃～24℃以上为佳
+</li>
+<li>照护者注意洗手
+</li>
+              </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <head>擦身中：</head>
+        <detail>
+            <![CDATA[
+<ul>
+<li>将湿毛巾包在手上，洗脸及颈部，再用拧干的毛巾依次擦洗一遍。（注意耳后及颈部皮肤皱褶部位）。
+</li>
+<li>脱下衣服：先脱近侧，后脱对侧；如有如有外伤，先脱健侧，后脱患侧。
+</li>
+<li>在擦洗部位下面铺大毛巾，按顺序用热毛巾擦洗，擦洗腹面：两上肢、胸腹部；协助侧卧，擦拭背面：颈部，背臀部；协助平卧，穿衣脱裤，擦洗下肢，会阴。
+</li>
+<li>注意腋窝及腹股沟等皮肤皱摺处。
+</li>
+<li>擦洗时动作敏捷，并随时为您孩子盖好被子，严防着凉。擦洗时注意观察皮肤等有无异常，如有异常，报告护士。
+</li>
+<li>擦浴时注意各种导管，避免不必要的移动，如有需要，向护士提出帮助。
+</li>
+</ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_brown</type>
+        <head>擦身后：</head>
+        <detail>
+            <![CDATA[
+<ul>
+<li>擦洗后为孩子换上清洁衣裤。皮肤干燥者可给予涂抹润肤露。如有外伤，应先穿患侧，后穿健侧。
+</li>
+<li>擦浴后洗手，可协助孩子做其它清洁处理（梳头，剪指甲、趾甲等）。
+</li>
+<li>帮助孩子躺卧舒适。
+</li>
+<li>给孩子喂食一些温热的饮料。
+</li>
+</ul>
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="4"></a>四、如何帮生病的孩子更换衣服
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <detail>
+            <![CDATA[
+物品准备：
+
+<ul>
+<li>一套清洁衣裤</li>
+</ul>
+环境准备：
+<ul>
+<li>给孩子提供遮挡，注意保暖</li>
+</ul>
+步骤：
+<ul>
+	<li>协助孩子采取舒适的姿势：病情稳定可采取半坐卧位或坐位更换；手术、卧床或有导管则需要护士更换。
+	</li>
+	<li>为孩子脱除上衣，注意保暖。（脱衣方法：无肢体活动障碍时，先近侧，后远侧；一侧肢体活动障碍时，先健侧，后患侧。）
+	</li>
+	<li>开襟衣服：解开钮扣或带子；先脱近侧或健侧，或不打静脉针的一侧；再脱远侧或患侧，或打静脉针一侧。
+	</li>
+	<li>套头衣服：先脱近侧或健侧，或不打静脉针的一侧；最后脱头部。
+	</li>
+	<li>为孩子穿上干净衣服。穿衣方法：（无肢体活动障碍时，先远侧，后近侧；一侧肢体活动障碍时，先患侧，后健侧）
+	</li>
+	<li>开襟衣服：穿远侧或患侧，或打静脉针一侧；协助孩子翻身侧向您，将衣服置孩子背部；后穿近侧或健侧，或不打静脉针一侧；扣好钮扣或系上带子；拉平衣服。
+	</li>
+	<li>套头衣服：两手同时穿上；套上头部衣领；衣服往下拉。
+	</li>
+	<li>脱裤子：解开钮扣或带子、拉链；抬高臀部，将裤子脱下。
+	</li>
+	<li>穿上裤子：协助孩子穿上远侧或患侧裤管；协助孩子穿上近侧或健侧裤管；将双裤管一起拉至孩子臀部；抬高臀部拉上裤子并穿好。
+	</li>
+	<li>给孩子予舒适体位。
+	</li>
+	</ul>
+
+
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="5"></a> 五、婴儿沐浴注意事项
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/weishengpian/xizao.jpg</src>
+    </content>
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            沐浴是为了保持患儿皮肤清洁，促进全身血液循环，使患儿舒适。
+在给您的孩子进行沐浴时，下列事项请特别注意：
+
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>half_box_red</type>
+        <head>沐浴前：</head>
+        <detail>
+            <![CDATA[
+            <ul>
+<li>环境准备--关闭浴室门窗，先调节室温，26-28℃为佳。
+</li>
+<li>物品准备---给孩子准备清洁柔软的棉质内衣，洗澡的毛巾两条和大毛巾一条，若干婴儿沐浴产品。
+</li>
+            </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <head>沐浴时：</head>
+        <detail>
+            <![CDATA[
+
+            <ul>
+<li>盆浴时先放半盆热水，水温约38℃～40℃（手肘皮肤试温，以热而不烫为宜）。必要时，盆底垫毛巾，以防孩子滑倒。
+</li>
+<li>去除孩子衣物，尿布。以大毛巾包裹
+</li>
+<li>用温水毛巾从眼睛内眦擦向外眦，揩洗双眼，再洗脸。（注意耳廓后的清洁）
+</li>
+<li>一手抱起孩子，夹于另一手腋下，并用对侧手掌托患儿肩背部，同侧拇指和中指将小儿双耳廓折向前方，堵住外耳道口，另一手抹沐浴产品，涂于小儿头部，轻揉后，以清水洗净并用毛巾擦干。
+</li>
+<li>撤大毛巾，将孩子置于洗澡盆内，用一手托住患儿颈肩部，另一手依次涂抹沐浴产品于孩子身上（沐浴的顺序常规为颈下、颈后、前胸、手臂、腹、背、臀部，双下肢、足、会阴）。用清水洗净。
+</li>
+<li>沐浴时需要观察孩子的反应，若哭吵厉害，面色发紫等情况立即停止沐浴。
+</li>
+</ul>
+
+            ]]>
+    </detail>
+    </content>
+    <content>
+        <type>half_box_brown</type>
+        <head>沐浴后：</head>
+        <detail>
+            <![CDATA[
+
+            <ul>
+<li>将孩子抱出，用大毛巾从头至足将皮肤擦干，注意擦干皮肤皱褶处，皱褶处可适量扑粉。
+</li>
+<li>兜好尿布，穿上衣服。
+</li>
+</ul>
+
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="6"></a> 六、更换尿布
+           ]]>
+        </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/weishengpian/niaobu.jpg</src>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <detail>
+            <![CDATA[
+物品准备：
+            <ul>
+<li>尿布、毛巾或湿巾、尿布、中性肥皂、棉签、臀部保护霜
+</li>
+</ul>
+环境准备：
+<ul>
+<li>平的表面，如婴儿床或桌子，给予适当遮挡
+</li>
+</ul>
+步骤：
+<ul>
+	<li>把孩子平放，保持一个手扶住孩子不让其转动。（始终有一个手扶住孩子，以保证安全）
+	</li>
+	<li>去除尿布，查看尿布内容物，了解是否有不正常的气味和性状，如有异常，及时报告护士。（若尿布粘在臀部皮肤，则用温水轻轻湿润，慢慢去除尿布）
+	</li>
+	<li>使用温湿毛巾洗净臀部皮肤（用无刺激性的中性皂液）
+	</li>
+	<li>擦干臀部
+	</li>
+	<li>查看您孩子的局部皮肤。（如有尿布皮疹，红斑等异常情况，及时报告护士）
+	</li>
+	<li>用棉签涂抹臀部保护霜（若孩子皮肤问题已有药物，则涂以相应的药物）
+	</li>
+	<li>换上干净的尿布（不要让塑料的部分接触孩子皮肤，以免造成刺激）
+	</li>
+	<li>安置孩子舒适体位。
+	</li>
+	<li>洗手（离开孩子一定拉上床栏，确保安全）
+	</li>
+	</ul>
+
+
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="7"></a> 七、会阴清洁
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <detail>
+            <![CDATA[
+物品准备：
+            <ul>
+<li>大小毛巾洗澡盆、温水、一次性大号尿布或塑料布
+</li>
+</ul>
+环境准备：
+<ul>
+<li>提供遮挡、注意保暖
+</li>
+</ul>
+步骤：
+<ul>
+<li>查看孩子会阴部有无伤口、失禁等情况，如有异常，及时报告护士。
+</li>
+<li>洗手。提供遮挡。
+</li>
+<li>将温水倒入洗澡盆内，放在床桌椅上备用。
+</li>
+<li>铺一次性大号尿布或塑料单于孩子臂下。
+</li>
+<li>协助孩子脱去裤子，屈膝仰卧位，双腿分开，暴露会阴部。
+</li>
+<li>女孩：次手将阴唇分开，主手用小毛巾蘸清水轻轻自上而下擦洗。
+</li>
+<li>男孩：次手将包皮往上推，主手用小毛巾蘸清水，轻轻将污物洗净，再将包皮推回。
+</li>
+<li>移去洗澡盆，用干毛巾擦净会阴部及臀部。
+</li>
+<li>协助孩子穿好裤子，取舒适体位。
+</li>
+<li>洗手。
+</li>
+
+
+
+	</ul>
+
+
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="8"></a> 八、肛周清洁
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_brown</type>
+        <detail>
+            <![CDATA[
+物品准备：
+            <ul>
+<li>温水<code>（水温控制在380C ～420C）</code>、面盆、软纸巾或干毛巾、必要时备复方新霉素软膏、无菌棉签
+</li>
+</ul>
+环境准备：
+<ul>
+<li>提供遮挡、注意保暖
+</li>
+</ul>
+步骤：
+<ul>
+<li>洗手，准备温水水温380C ～420C
+</li>
+<li>协助孩子暴露肛门
+</li>
+<li>查看肛周是否有破损、脓肿、疼痛等情况，如有异常，及时报告护士
+</li>
+<li>清洁肛门粘膜及肛周皮肤，动作轻柔、切忌粗暴。
+</li>
+<li>用清洁的柔软的纸巾或干毛巾擦干臀部，（必要时用棉签在肛门处由内至外涂抹复方新霉素软膏以抗感染，且能防止肛门粘膜及周围皮肤过干引起肛裂）
+</li>
+<li>协助孩子恢复舒适体位（离开孩子请拉上床栏，确保安全）。
+</li>
+<li>洗手。
+</li>
+	</ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>title_red</type>
+        <detail>
+            <![CDATA[
+           <a name="9"></a> 九、足部清洁
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_green</type>
+        <detail>
+            <![CDATA[
+物品准备：
+            <ul>
+<li>温水、洗澡盆、毛巾、肥皂、护肤乳液、指甲剪
+</li>
+</ul>
+环境准备：
+<ul>
+<li>提供遮挡、注意保暖
+</li>
+</ul>
+步骤：
+<ul>
+<li>了解孩子足部卫生情况和病情，让孩子配合。
+</li>
+<li>洗手，准备温水水温43.3℃～46℃。
+</li>
+<li>若情况许可时，协助孩子舒适地坐在椅子上；若不行，可将孩子的两腿垂于床前。
+</li>
+<li>将毛巾置于温水盆内
+</li>
+<li>协助孩子将脚浸泡于盆内，浸泡3～5min。
+</li>
+<li>以毛巾，肥皂及温水清洗孩子的足部。
+</li>
+<li>用另一毛巾，擦干双足，尤其趾间。
+</li>
+<li>修剪指甲，指甲应平。
+</li>
+<li>擦上护肤乳液，特别是干燥处
+</li>
+<li>协助孩子穿上干净袜子
+</li>
+<li>协助孩子躺卧舒适。
+</li>
+<li>洗手。
+</li>
+	</ul>
+            ]]>
+        </detail>
+    </content>
+
+
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>
