@@ -268,18 +268,6 @@
     </content>
 
     <content>
-        <type>h1</type>
-        <detail>
-            观看视频，更详细的学习制氧机的使用。
-            </detail>
-    </content>
-
-    <content>
-        <type>video</type>
-        <detail>http://player.youku.com/embed/XMTI5NzEyNzE0OA==</detail>
-
-    </content>
-    <content>
         <type>html</type>
         <detail>
             <![CDATA[ <hr /> ]]>

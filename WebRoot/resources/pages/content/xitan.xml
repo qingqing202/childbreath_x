@@ -277,17 +277,11 @@
 
 
     <content>
-        <type>title_red</type>
-        <detail>
+        <type>panel_red</type>
+        <title>注意事项</title>
+        <body>
             <![CDATA[
-            <strong><div class="text-center">注意事项</div></strong>
-            ]]>
-        </detail>
-    </content>
-    <content>
-        <type>html</type>
-        <detail>
-            <![CDATA[
+            <ul>
 	<li>进食1小时，避免吸痰，防止呕吐误吸。</li>
 	<li>操作前检查导管是否老化、有裂缝，各连接部位是否牢固。</li>
 	<li>检查负压情况。      </li>
@@ -305,22 +299,19 @@
 	<li>痰液粘稠者，可在吸痰前进行雾化、拍背。 </li>
 	<li>每次吸痰后，应用生理盐水冲洗吸痰管。</li>
 	<li>吸痰管每次更换，吸引皮条和吸痰瓶，清洗、消毒、晾干、备用。</li>
-<br/>
+	</ul>
 
             ]]>
-        </detail>
+        </body>
     </content>
     <content>
-        <type>title_red</type>
-        <detail>
+        <type>panel_green</type>
+        <title>
             <![CDATA[
-            <strong><div class="text-center">常见问题</div></strong>
+            常见问题
             ]]>
-        </detail>
-    </content>
-    <content>
-    <type>html</type>
-    <detail>
+        </title>
+    <body>
         <![CDATA[
 
         <p class="text-danger">
@@ -336,7 +327,7 @@
     4、家庭吸痰器哪里有买？</p>
     <p>各大医院药房或者医疗器械店均可获得。</p>
             ]]>
-    </detail>
+    </body>
     </content>
 
 

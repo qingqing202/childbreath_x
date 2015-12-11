@@ -34,15 +34,6 @@
     </content>
 
     <content>
-        <type>html</type>
-        <detail>
-        <![CDATA[
-<br/>
-        ]]>
-        </detail>
-    </content>
-    <content>
-
     <type>title_red</type>
     <detail>【一】住院期间请保持病房环境整洁</detail>
     </content>
@@ -60,17 +51,17 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/ganran/1.png</src>
+        <src>resources/img/ganran/1.jpg</src>
     </content>
 
     <content>
         <type>img</type>
-        <src>resources/img/ganran/2.png</src>
+        <src>resources/img/ganran/2.jpg</src>
     </content>
 
     <content>
         <type>img</type>
-        <src>resources/img/ganran/3.png</src>
+        <src>resources/img/ganran/3.jpg</src>
     </content>
 
     <content>
@@ -87,7 +78,7 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/ganran/5.png</src>
+        <src>resources/img/ganran/5.jpg</src>
     </content>
 
     <content>
@@ -103,7 +94,7 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/ganran/4.png</src>
+        <src>resources/img/ganran/4.jpg</src>
     </content>
 
     <content>
@@ -119,11 +110,11 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/ganran/6.png</src>
+        <src>resources/img/ganran/6.jpg</src>
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/ganran/7.png</src>
+        <src>resources/img/ganran/7.jpg</src>
     </content>
 
     <content>
@@ -153,7 +144,7 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/ganran/10.png</src>
+        <src>resources/img/ganran/10.jpg</src>
     </content>
 
     <content>
@@ -182,7 +173,7 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/ganran/8.png</src>
+        <src>resources/img/ganran/8.jpg</src>
     </content>
 
     <content>
@@ -198,7 +189,7 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/ganran/9.png</src>
+        <src>resources/img/ganran/9.jpg</src>
     </content>
     <content>
         <type>html</type>
@@ -232,7 +223,7 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/ganran/11.png</src>
+        <src>resources/img/ganran/11.jpg</src>
     </content>
 
 <content>

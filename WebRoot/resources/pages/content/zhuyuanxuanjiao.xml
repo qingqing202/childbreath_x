@@ -40,72 +40,41 @@
         </detail>
     </content>
 
-    <content>
-        <type>html</type>
-        <detail>
-            <![CDATA[
-            <br/>
-            ]]>
-        </detail>
-    </content>
 
     <content>
         <type>panel_red</type>
         <title>这里将向您介绍以下方面</title>
         <body>
             <![CDATA[
-            <table class="table">
-            <tr>
-            <td>
-            <a href="#1">
-            环境介绍
-            </a>
-            </td>
-            <td><a href="#1"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#2">饮食介绍</a>
-            </td>
-            <td><a href="#2"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#3">安全宣教</a>
-            </td>
-            <td><a href="#3"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#4">护理配合注意事项</a>
-            </td>
-            <td><a href="#4"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#5">检查指导</a>
-            </td>
-            <td><a href="#5"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#6">病情咨询</a>
-            </td>
-            <td><a href="#6"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#7">友情提示</a>
-            </td>
-            <td><a href="#7"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#8">便民服务</a>
-            </td>
-            <td><a href="#8"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            </table>
+
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#1">
+        环境介绍
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+
+
+            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#2">饮食介绍
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#3">安全宣教
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#4">护理配合注意事项
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#5">检查指导
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#6">病情咨询
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#7">友情提示
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#8">便民服务
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
             ]]>
         </body>
     </content>
@@ -128,7 +97,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/1.png</src>
+        <src>resources/img/zhuyuanxuanjiao/1.jpg</src>
     </content>
 
     <content>
@@ -140,15 +109,15 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/2.png</src>
+        <src>resources/img/zhuyuanxuanjiao/2.jpg</src>
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/3.png</src>
+        <src>resources/img/zhuyuanxuanjiao/3.jpg</src>
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/5.png</src>
+        <src>resources/img/zhuyuanxuanjiao/5.jpg</src>
     </content>
 
     <content>
@@ -160,7 +129,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/4.png</src>
+        <src>resources/img/zhuyuanxuanjiao/4.jpg</src>
     </content>
 
     <content>
@@ -172,7 +141,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/6.png</src>
+        <src>resources/img/zhuyuanxuanjiao/6.jpg</src>
     </content>
 
     <content>
@@ -185,11 +154,11 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/7.png</src>
+        <src>resources/img/zhuyuanxuanjiao/7.jpg</src>
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/8.png</src>
+        <src>resources/img/zhuyuanxuanjiao/8.jpg</src>
     </content>
 
     <content>
@@ -201,7 +170,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/9.png</src>
+        <src>resources/img/zhuyuanxuanjiao/9.jpg</src>
     </content>
 
     <content>
@@ -214,11 +183,11 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/10.png</src>
+        <src>resources/img/zhuyuanxuanjiao/10.jpg</src>
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/11.png</src>
+        <src>resources/img/zhuyuanxuanjiao/11.jpg</src>
     </content>
 
     <content>
@@ -230,7 +199,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/12.png</src>
+        <src>resources/img/zhuyuanxuanjiao/12.jpg</src>
     </content>
 
     <content>
@@ -242,11 +211,11 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/13.png</src>
+        <src>resources/img/zhuyuanxuanjiao/13.jpg</src>
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/14.png</src>
+        <src>resources/img/zhuyuanxuanjiao/14.jpg</src>
     </content>
 
     <content>
@@ -258,7 +227,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/15.png</src>
+        <src>resources/img/zhuyuanxuanjiao/15.jpg</src>
     </content>
 
     <content>
@@ -323,16 +292,16 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/17.png</src>
+        <src>resources/img/zhuyuanxuanjiao/17.jpg</src>
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/18.png</src>
+        <src>resources/img/zhuyuanxuanjiao/18.jpg</src>
     </content>
 
     <content>
         <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/19.png</src>
+        <src>resources/img/zhuyuanxuanjiao/19.jpg</src>
     </content>
     <content>
         <type>img_with_intro</type>
@@ -343,7 +312,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/20.png</src>
+        <src>resources/img/zhuyuanxuanjiao/20.jpg</src>
     </content>
 
     <content>
@@ -354,7 +323,7 @@
             <li> 会走路的孩子以下床活动为主!</li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/21.png</src>
+        <src>resources/img/zhuyuanxuanjiao/21.jpg</src>
     </content>
 
     <content>
@@ -368,7 +337,7 @@
             <code>其他住院患儿！</code></li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/22.png</src>
+        <src>resources/img/zhuyuanxuanjiao/22.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -378,7 +347,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/23.png</src>
+        <src>resources/img/zhuyuanxuanjiao/23.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -391,7 +360,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/24.png</src>
+        <src>resources/img/zhuyuanxuanjiao/24.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -401,7 +370,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/25.png</src>
+        <src>resources/img/zhuyuanxuanjiao/25.jpg</src>
     </content>
     <content> <type>img_with_intro</type>
         <detail>
@@ -410,7 +379,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/26.png</src>
+        <src>resources/img/zhuyuanxuanjiao/26.jpg</src>
     </content>
 
     <content> <type>half_box_red</type>
@@ -451,7 +420,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/28.png</src>
+        <src>resources/img/zhuyuanxuanjiao/28.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -462,7 +431,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/29.png</src>
+        <src>resources/img/zhuyuanxuanjiao/29.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -474,11 +443,11 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/30.png</src>
+        <src>resources/img/zhuyuanxuanjiao/30.jpg</src>
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/31.png</src>
+        <src>resources/img/zhuyuanxuanjiao/31.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -493,7 +462,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/32.png</src>
+        <src>resources/img/zhuyuanxuanjiao/32.jpg</src>
     </content>
 
     <content>
@@ -523,7 +492,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/33.png</src>
+        <src>resources/img/zhuyuanxuanjiao/33.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -534,7 +503,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/34.png</src>
+        <src>resources/img/zhuyuanxuanjiao/34.jpg</src>
     </content>
 
     <content>
@@ -563,7 +532,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/35.png</src>
+        <src>resources/img/zhuyuanxuanjiao/35.jpg</src>
     </content>
 
 
@@ -593,7 +562,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/37.png</src>
+        <src>resources/img/zhuyuanxuanjiao/37.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -604,7 +573,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/38.png</src>
+        <src>resources/img/zhuyuanxuanjiao/38.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -615,7 +584,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/39.png</src>
+        <src>resources/img/zhuyuanxuanjiao/39.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -632,7 +601,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/39.2.png</src>
+        <src>resources/img/zhuyuanxuanjiao/39.2.jpg</src>
     </content>
 
     <content> <type>img_with_intro</type>
@@ -643,7 +612,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/40.png</src>
+        <src>resources/img/zhuyuanxuanjiao/40.jpg</src>
     </content>
     <content> <type>img_with_intro</type>
         <detail>
@@ -653,7 +622,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/41.png</src>
+        <src>resources/img/zhuyuanxuanjiao/41.jpg</src>
     </content>
     <content> <type>img_with_intro</type> <detail>
             <![CDATA[
@@ -663,7 +632,7 @@
             </li>
             ]]>
         </detail>
-        <src>resources/img/zhuyuanxuanjiao/42.png</src>
+        <src>resources/img/zhuyuanxuanjiao/42.jpg</src>
     </content>
 
     <content>
@@ -690,11 +659,11 @@
             </li>
             ]]>
     </detail>
-        <src>resources/img/zhuyuanxuanjiao/43.png</src>
+        <src>resources/img/zhuyuanxuanjiao/43.jpg</src>
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/44.png</src>
+        <src>resources/img/zhuyuanxuanjiao/44.jpg</src>
     </content>
 
 
@@ -726,13 +695,13 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/45.png</src>
+        <src>resources/img/zhuyuanxuanjiao/45.jpg</src>
     </content>
     <content> <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/46.png</src>
+        <src>resources/img/zhuyuanxuanjiao/46.jpg</src>
     </content>
     <content> <type>img</type>
-        <src>resources/img/zhuyuanxuanjiao/47.png</src>
+        <src>resources/img/zhuyuanxuanjiao/47.jpg</src>
     </content>
 
 

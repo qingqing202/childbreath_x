@@ -23,14 +23,6 @@
         </date>
     </content>
     <content>
-        <type>dot_box</type>
-        <detail>
-            <![CDATA[
-            都宝简介
-            ]]>
-        </detail>
-    </content>
-    <content>
         <type>html</type>
         <detail>
             <![CDATA[ <br /> ]]>

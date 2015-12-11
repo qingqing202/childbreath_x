@@ -54,42 +54,32 @@
         <title>这里将向您介绍以下方面</title>
         <body>
             <![CDATA[
-            <table class="table">
-            <tr>
-            <td>
-            <a href="#1">
+
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#1">
             正确的喂药技巧
-            </a>
-            </td>
-            <td><a href="#1"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#2">
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#2">
             喂药的常见误区
-            </a>
-            </td>
-            <td><a href="#2"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#3">静脉留置期间的注意事项</a>
-            </td>
-            <td><a href="#3"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#4">测量体温</a>
-            </td>
-            <td><a href="#4"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#5">雾化给药配合事项</a>
-            </td>
-            <td><a href="#5"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            </table>
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#3">
+            静脉留置期间的注意事项
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#4">
+            测量体温
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#5">
+            雾化给药配合事项
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
             ]]>
         </body>
     </content>

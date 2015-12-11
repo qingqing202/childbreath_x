@@ -39,13 +39,6 @@
     </content>
 
     <content>
-        <type>html</type>
-        <detail>
-            <![CDATA[ <br /> ]]>
-        </detail>
-    </content>
-
-    <content>
         <type>panel_red</type>
         <title>为什么会发生抽搐</title>
         <body>

@@ -23,12 +23,16 @@
         </date>
     </content>
     <content>
-        <type>panel_green</type>
-        <title>目的</title>
-        <body>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
             拍背排痰是通过胸壁震动气道，使附着在肺、毛细支气管内的分泌物脱落，通过体位引流，
             使分泌物到达支气管、气管，最后通过患儿咳嗽排出体外。适用于无力咳嗽，痰液过多不易咳出的患儿。
-        </body>
+            <br/>
+            <br/>
+            下面我们将向您介绍拍背排痰所需的工具和操作步骤。
+            ]]>
+        </detail>
     </content>
 
     <content>
@@ -44,7 +48,7 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/paitan/手掌.png</src>
+        <src>resources/img/paitan/手掌.jpg</src>
     </content>
     <content>
         <type>html</type>
@@ -54,7 +58,7 @@
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/paitan/排痰杯.png</src>
+        <src>resources/img/paitan/排痰杯.jpg</src>
     </content>
 
     <content>
@@ -79,7 +83,7 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/paitan/拍背.png</src>
+        <src>resources/img/paitan/拍背.jpg</src>
     </content>
 
     <content>
@@ -110,7 +114,7 @@
     拍背后鼓励患儿以鼻子慢慢深吸气，吸饱气后屏住气，几秒后接连2-3次咳嗽动作将痰液咳出（如患儿太虚弱，则于拍背后请护理人员吸痰）。
          <br/>
          <br/>
-    <strong>太粘稠的痰液，很难只靠排痰排出，应请医生加以评估决定辅助方式。</strong>
+    <code>太粘稠的痰液，很难只靠排痰排出，应请医生加以评估决定辅助方式。</code>
     ]]>
     </body>
     </content>

@@ -54,67 +54,51 @@
         <title>这里将向您介绍以下方面</title>
         <body>
             <![CDATA[
-            <table class="table">
-            <tr>
-            <td>
-            <a href="#1">
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#1">
             如何给孩子洗脸
-            </a>
-            </td>
-            <td><a href="#1"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#2">
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#2">
             如何协助孩子口腔清洁
-            </a>
-            </td>
-            <td><a href="#2"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#3">如何给生病的孩子擦身</a>
-            </td>
-            <td><a href="#3"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#4">如何帮生病的孩子更换衣服</a>
-            </td>
-            <td><a href="#4"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#5">婴儿沐浴注意事项</a>
-            </td>
-            <td><a href="#5"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#6">如何给婴儿更换尿布</a>
-            </td>
-            <td><a href="#6"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#7">会阴部的清洁</a>
-            </td>
-            <td><a href="#7"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#8">肛周清洁</a>
-            </td>
-            <td><a href="#8"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-
-            <tr>
-            <td>
-            <a href="#9">足部清洁</a>
-            </td>
-            <td><a href="#9"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            </table>
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#3">
+            如何给生病的孩子擦身
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#4">
+            如何帮生病的孩子更换衣服
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#5">
+            婴儿沐浴注意事项
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#6">
+            如何给婴儿更换尿布
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#7">
+            会阴部的清洁
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#8">
+            肛周清洁
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#9">
+            足部清洁
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
             ]]>
         </body>
     </content>
@@ -237,7 +221,7 @@
     </content>
     <content>
         <type>img</type>
-        <src>resources/img/weishengpian/link.jpeg</src>
+        <src>resources/img/weishengpian/link.jpg</src>
     </content>
 
     <content>

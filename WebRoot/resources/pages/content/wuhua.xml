@@ -23,6 +23,10 @@
         </date>
     </content>
     <content>
+        <type>img</type>
+        <src>resources/img/wuhua/卡通储雾罐.jpg</src>
+    </content>
+    <content>
         <type>half_box_red</type>
         <head>储雾罐是一种辅助吸入设备，可以用来连接抛射剂及定量吸入器以便治疗呼吸道疾病。
             </head>
@@ -35,12 +39,8 @@
     </content>
 
     <content>
-        <type>img</type>
-        <src>resources/img/wuhua/卡通储雾罐.png</src>
-    </content>
-    <content>
         <type>h1</type>
-        <detail>储雾罐的应用</detail>
+        <detail>储雾罐的用法</detail>
     </content>
 
     <content>
@@ -184,17 +184,6 @@
     </content>
 
 
-    <content>
-        <type>h1</type>
-        <detail>
-            观看视频，更详细的了解储雾罐的使用
-            </detail>
-    </content>
-
-    <content>
-        <type>video</type>
-        <detail>http://player.youku.com/embed/XMTI5NjA3MzMwNA==</detail>
-    </content>
     <content>
         <type>html</type>
         <detail>

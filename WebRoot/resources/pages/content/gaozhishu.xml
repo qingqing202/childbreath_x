@@ -7,7 +7,13 @@
     </title>
     <content>
         <type>h1</type>
-        <detail>呼吸科病房陪护和探视注意事项告知书</detail>
+        <detail>
+            <![CDATA[
+            病房陪护和探视
+            <br/>
+            告知书
+            ]]>
+        </detail>
     </content>
     <content>
         <type>html</type>
@@ -24,7 +30,7 @@
     </content>
 
     <content>
-        <type>html</type>
+        <type>title_green</type>
         <detail>
             <![CDATA[
             各位亲爱的家长：
@@ -39,7 +45,8 @@
             <br/>
 
             <span class="text-danger">
-            1. 为了降低宝宝再次感染的机会，请爷爷奶奶、外公外婆、爸爸妈妈暂时忍痛，
+            <code>1.</code>
+             为了降低宝宝再次感染的机会，请爷爷奶奶、外公外婆、爸爸妈妈暂时忍痛，
             为了宝宝，只陪一人，加强洗手，保持病区环境整洁，避免乱窜病房，并自觉戴口罩做好防护措施。
             </span>
 
@@ -56,7 +63,8 @@
             <br/>
             <br/>
 
-            <span class="text-danger">2. 住院期间，请配合我们一起维护儿童的安全，避免意外跌落的发生，
+            <code>2.</code>
+            <span class="text-danger"> 住院期间，请配合我们一起维护儿童的安全，避免意外跌落的发生，
             跌落常常会造成不同程度的伤害，轻者头部淤青，肿着骨折、脑震荡、颅内出血，甚至死亡。</span>
 
             <br/>
@@ -68,12 +76,20 @@
             <br/>
             <br/>
 
-            <span class="text-danger">3. 14:00---20:00为探视时间，请遵守探视制度，原则上尽量减少亲朋好友的探视，有感冒、咳嗽、发热、腹泻等感染症状者谢绝探视。</span>
+            <code>3.</code>
+            <span class="text-danger"> 14:00---20:00为探视时间，请遵守探视制度，原则上尽量减少亲朋好友的探视，有感冒、咳嗽、发热、腹泻等感染症状者谢绝探视。</span>
 
             <br/>
             <br/>
 
             <strong class="text-danger">3岁以下的婴幼儿是院内感染的高危人群。为了孩子能早日康复，请家长一人陪护、多洗手、戴口罩.</strong>
+
+            <br/>
+            <br/>
+            <div class="pull-right">儿童医学中心呼吸科</div>
+            <br/>
+
+
             ]]>
         </detail>
     </content>

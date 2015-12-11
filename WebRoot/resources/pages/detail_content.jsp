@@ -14,6 +14,7 @@
 
 <%@page import="utility.XmlReader" language="java" %>
 <%@page import="java.util.*"%>
+
 <%
   Map parameterMap = request.getParameterMap();
   if ( !parameterMap.containsKey("name") ) {return;}
@@ -34,9 +35,12 @@
 <head>
 <%@ include file="include/html_head.jsp" %>
 <title><%=hash_for_title.get("name")%></title>
+    <style type="text/css">
+        #backgrd {background: #fffbfb;}
+    </style>
 </head>
 
-<body>
+<body id="backgrd">
 <div class="container ">
 <%
     int content_size = hash_for_content_all.size();
@@ -199,6 +203,7 @@
                     </section>
                     </section>
                 </section>
+                <br/>
          <%
         }
     if( hash_for_content.containsKey("url")) {
@@ -209,6 +214,6 @@
   }
 %>
 
-    </div>
+            </div>
     </body>
 </html>

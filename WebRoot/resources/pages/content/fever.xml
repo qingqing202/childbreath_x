@@ -60,7 +60,7 @@
         <type>panel_red</type>
         <title>高热的损害</title>
         <img_body>
-      resources/img/fever/高热的损害.png
+      resources/img/fever/高热的损害.jpg
         </img_body>
     </content>
 
@@ -68,7 +68,7 @@
         <type>panel_green</type>
         <title>感染原因</title>
         <img_body>
-            resources/img/fever/感染原因.png
+            resources/img/fever/感染原因.jpg
         </img_body>
     </content>
 
@@ -76,7 +76,7 @@
         <type>panel_yellow</type>
         <title>非感染原因</title>
         <img_body>
-            resources/img/fever/非感染原因.png
+            resources/img/fever/非感染原因.jpg
         </img_body>
     </content>
 
@@ -84,21 +84,21 @@
         <type>panel_gray</type>
         <title>儿童常见发热原因排行榜</title>
         <img_body>
-            resources/img/fever/发热原因.png
+            resources/img/fever/发热原因.jpg
         </img_body>
     </content>
     <content>
         <type>panel_blue</type>
         <title>儿童常见发热原因排行榜</title>
         <img_body>
-            resources/img/fever/发热原因2.png
+            resources/img/fever/发热原因2.jpg
         </img_body>
     </content>
     <content>
         <type>panel_red</type>
         <title>重新认识发热</title>
         <img_body>
-            resources/img/fever/重新认识.png
+            resources/img/fever/重新认识.jpg
         </img_body>
     </content>
 
@@ -114,14 +114,14 @@
         <type>panel_yellow</type>
         <title>测量工具</title>
         <img_body>
-            resources/img/fever/测量工具.png
+            resources/img/fever/测量工具.jpg
         </img_body>
     </content>
 
     <content>
         <type>panel_gray</type>
         <title>水银体温计--口表</title>
-        <img_body>resources/img/fever/口表.png</img_body>
+        <img_body>resources/img/fever/口表.jpg</img_body>
         <body>
             <![CDATA[
             <ul>
@@ -136,7 +136,7 @@
     <content>
         <type>panel_blue</type>
         <title>水银体温计--腋表</title>
-        <img_body>resources/img/fever/腋表.png</img_body>
+        <img_body>resources/img/fever/腋表.jpg</img_body>
         <body>
             <![CDATA[
             <ul>
@@ -151,7 +151,7 @@
     <content>
         <type>panel_red</type>
         <title>水银体温计--肛表</title>
-        <img_body>resources/img/fever/肛表.png</img_body>
+        <img_body>resources/img/fever/肛表.jpg</img_body>
         <body>
             <![CDATA[
             <ul>
@@ -164,7 +164,7 @@
     <content>
         <type>panel_green</type>
         <title>水银体温计的缺点</title>
-        <img_body>resources/img/fever/水银温度计.png</img_body>
+        <img_body>resources/img/fever/水银温度计.jpg</img_body>
         <body>
             <![CDATA[
             <ul>
@@ -178,7 +178,7 @@
     <content>
         <type>panel_yellow</type>
         <title>电子体温计</title>
-        <img_body>resources/img/fever/电子体温计.png</img_body>
+        <img_body>resources/img/fever/电子体温计.jpg</img_body>
         <body>
             <![CDATA[
             <ul>
@@ -194,7 +194,7 @@
     <content>
         <type>panel_gray</type>
         <title>耳温计</title>
-        <img_body>resources/img/fever/耳温计.png</img_body>
+        <img_body>resources/img/fever/耳温计.jpg</img_body>
         <body>
             <![CDATA[
             <ul>
@@ -371,7 +371,7 @@
 等散热过程来降低体表温度，各种物理降温
 措施均未作用于体温调节中枢。
         </body>
-        <img_body>resources/img/fever/物理降温.png</img_body>
+        <img_body>resources/img/fever/物理降温.jpg</img_body>
     </content>
 
     <content>
@@ -395,7 +395,7 @@
 
             ]]>
         </body>
-        <img_body>resources/img/fever/冰袋.png</img_body>
+        <img_body>resources/img/fever/冰袋.jpg</img_body>
     </content>
 
     <content>
@@ -409,7 +409,7 @@
             <li><strong>注意事项：注意避免冷水将患儿的衣被弄湿。</strong></li>
             ]]>
         </body>
-        <img_body>resources/img/fever/湿毛巾.png</img_body>
+        <img_body>resources/img/fever/湿毛巾.jpg</img_body>
     </content>
 
     <content>
@@ -421,7 +421,7 @@
             <li>退热贴的退热功能主要是物理降温，跟敷冰毛巾、枕冰袋等方法类似，但其使用起来更方便</li>
             ]]>
         </body>
-        <img_body>resources/img/fever/退热贴.png</img_body>
+        <img_body>resources/img/fever/退热贴.jpg</img_body>
     </content>
 
     <content>
@@ -455,7 +455,7 @@
             </p>
             ]]>
         </body>
-        <img_body>resources/img/fever/温水擦浴.png</img_body>
+        <img_body>resources/img/fever/温水擦浴.jpg</img_body>
     </content>
 
 
@@ -487,7 +487,7 @@
     <content>
         <type>panel_yellow</type>
         <title>正确的居家照护：症状观察</title>
-        <img_body>resources/img/fever/症状观察.png</img_body>
+        <img_body>resources/img/fever/症状观察.jpg</img_body>
     </content>
     <content>
         <type>panel_gray</type>

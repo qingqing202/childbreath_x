@@ -24,7 +24,7 @@
     </content>
 
     <content>
-        <type>html</type>
+        <type>title_green</type>
         <detail>
             <![CDATA[
             各位家长：
@@ -40,7 +40,13 @@
             <li>为保持饮用水清洁，禁止在水箱上晾晒衣服。</li>
             <li>请勿带热水瓶进病房，以免孩子烫伤。</li>
             </ol>
+            <br/>
             以上注意事项请各位家长自觉遵守。
+
+            <br/>
+            <br/>
+            <div class="pull-right">儿童医学中心呼吸科</div>
+            <br/>
             ]]>
         </detail>
     </content>

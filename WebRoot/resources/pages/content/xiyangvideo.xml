@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            氧气吸入健康宣教
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>氧气吸入健康宣教</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>dot_box</type>
+        <detail>
+            有些即将出院的宝宝由于病情需要，需要吸氧一段时间。下面是我们为您准备的视频教程，希望能让你更好的学习制氧机的使用。
+            </detail>
+    </content>
+
+
+    <content>
+        <type>video</type>
+        <detail>http://player.youku.com/embed/XMTI5NzEyNzE0OA==</detail>
+
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

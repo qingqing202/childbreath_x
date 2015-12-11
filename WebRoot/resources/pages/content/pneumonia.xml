@@ -6,14 +6,8 @@
         </name>
     </title>
     <content>
-        <type>h1</type>
-        <detail>小儿肺炎的健康宣教</detail>
-    </content>
-    <content>
-        <type>html</type>
-        <detail>
-            <![CDATA[ <hr /> ]]>
-        </detail>
+        <type>img</type>
+        <src>/resources/img/pneumonia/肺炎.jpg</src>
     </content>
     <content>
         <type>signature</type>
@@ -22,10 +16,6 @@
         <date>
             2015年09月05日
         </date>
-    </content>
-    <content>
-        <type>img</type>
-        <src>/resources/img/pneumonia/肺炎.png</src>
     </content>
     <content>
         <type>html</type>
@@ -97,7 +87,6 @@
         <type>panel_red</type>
         <title>一旦患了肺炎家长如何护理他们呢？</title>
         <body><![CDATA[
-        <ul>
 <li>给予舒适安静的环境，温湿度适合，减少他人的探访
 </li>
 <li>合理喂养，保证充足的营养和水分：肺炎的患儿食欲下降，可少量多餐，给予清淡、易消化的饮食，同时保证一定的优质蛋白的摄入。如果因鼻塞而妨碍婴儿吮吸时，可在餐前30分钟给予0.5%麻黄素溶液滴鼻，从而保证正常吮乳。在喂养中如果发生咳嗽，应停止喂养或进食，以免食物呛入气管，对于呼吸困难的婴幼儿应该将其抱起，取半卧位喂哺，从而防止呛奶。
@@ -130,7 +119,6 @@
 </li>
 <li>加强观察：家长要观察小儿的咳嗽咳痰的情况，体温的情况，一旦发现患儿出现点头样呼吸、口周发紫、呼吸急促、拒食，高烧不退、要及时寻求医生的帮助。
 </li>
-        </ul>
             ]]>
         </body>
     </content>

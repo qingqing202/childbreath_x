@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            如何进行居家鼻饲
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>如何进行居家鼻饲</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            <p>
+            鼻饲，即鼻饲法（nasogastric gavage），就是把胃管通过鼻腔送到患者胃中，通过胃管往患者胃中打食物，通常用于昏迷或者不能自己进食的患者。
+            病人因昏迷、口腔疾患或口腔手术而不能用嘴饮食时，用橡皮或塑料导管从病人的鼻腔插入胃内，灌注流质饮食或药液。
+            </p>
+            <p>下面使我们为您准备的鼻饲教学视频，希望能帮助您更好的掌握鼻饲技巧。</p>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>video</type>
+        <detail>http://player.youku.com/embed/XMTI5NjA2ODQxMg==</detail>
+    </content>
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <hr /> ]]>
+</detail>
+</content>
+
+<content>
+<type>img</type>
+<src>resources/img/qcode.jpg</src>
+</content>
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+
+        </content_home>

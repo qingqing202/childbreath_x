@@ -55,51 +55,42 @@
         <title>这里将向您介绍：</title>
         <body>
             <![CDATA[
-            <table class="table">
-            <tr>
-            <td>
-            <a href="#1">
-            0月～6月龄婴儿喂养指南
-            </a>
-            </td>
-            <td><a href="#1"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#2">
-            6月～12月龄婴儿喂养指南
-            </a>
-            </td>
-            <td><a href="#2"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#3">1岁～3岁幼儿喂养指南</a>
-            </td>
-            <td><a href="#3"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr>
-            <td>
-            <a href="#4">学龄前儿童膳食指南</a>
-            </td>
-            <td><a href="#4"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr> <td>
-            <a href="#5">儿童青少年膳食指南</a>
-            </td>
-            <td><a href="#5"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr> <td>
-            <a href="#6">如何给患病的孩子喂食/水</a>
-            </td>
-            <td><a href="#6"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            <tr> <td>
-            <a href="#7">婴儿乳瓶喂乳法</a>
-            </td>
-            <td><a href="#7"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"> </span></a></td>
-            </tr>
-            </table>
+
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#1">
+            0～6月龄婴儿喂养指南
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#2">
+            6～12月龄婴儿喂养指南
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#3">
+            1～3岁幼儿喂养指南
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#4">
+            学龄前儿童膳食指南
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#5">
+            儿童青少年膳食指南
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#6">
+            如何给患儿喂食/水
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="#7">
+            婴儿乳瓶喂乳法
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        </ul>
             ]]>
         </body>
     </content>
@@ -156,7 +147,6 @@
         <type>half_box_green</type>
         <detail>
             <![CDATA[
-            <ul>
 <li>奶类优先，继续母乳喂养，建议每天应首先保证600毫升～800毫升的奶量，母乳仍是婴儿的首选食品。
 </li>
 <li>及时合理添加辅食
@@ -195,8 +185,6 @@
 </li>
 <li>避免在夏季断奶。
 </li>
-</ul>
-</ul>
 </ul>
 
             ]]>
