@@ -44,6 +44,7 @@
 <div class="container ">
 <%
     int content_size = hash_for_content_all.size();
+    int collapse_group_id = 0;
     for(int i = 0; i < content_size; i++ ) {
     HashMap<String, String> hash_for_content = (HashMap)hash_for_content_all.get(String.valueOf(i));
 %>
@@ -205,6 +206,72 @@
                 </section>
                 <br/>
          <%
+        } else if ( hash_for_content.get("type").equals("collapse")) {
+            boolean first_collapse = false;
+                if (hash_for_content_all.containsKey(String.valueOf(i-1))) {
+                HashMap<String, String> last_hash_for_content = (HashMap)hash_for_content_all.get(String.valueOf(i-1));
+                if(!last_hash_for_content.get("type").equals("collapse")) {
+                    first_collapse = true;
+            %>
+
+                <script>
+                    function changeArrow(id)
+                    {
+                        $("span[glyphicon]").className ="glyphicon glyphicon-chevron-right";
+                        alert($("span[glyphicon]").className);
+
+                        x=document.getElementById("collapseArrow"+id);  // 找到元素
+                        y=document.getElementById("collapse"+id);  // 找到元素
+
+                        if(y.className.match("in")) {
+                            x.className="glyphicon glyphicon-chevron-right";
+                        } else {
+                            x.className="glyphicon glyphicon-chevron-down";
+                        }
+
+                    }
+                </script>
+            <div class="panel-group" id="accordion<%=collapse_group_id%>">
+            <% }} %>
+
+            <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion<%=collapse_group_id%>"
+                                   href="#collapse<%=i%>" onclick="changeArrow(<%=i%>)">
+                                    <%=hash_for_content.get("title")%>
+                                    <%if(first_collapse){%>
+                                    <div class="pull-right"><span id="collapseArrow<%=i%>" class="glyphicon glyphicon-chevron-down"></span></div>
+                                    <%} else {%>
+                                    <div class="pull-right"><span id="collapseArrow<%=i%>" class="glyphicon glyphicon-chevron-right"></span></div>
+                                    <%}%>
+                                </a>
+                            </h4>
+                        </div>
+                        <%if(first_collapse) { %>
+                        <div id="collapse<%=i%>" class="panel-collapse collapse in">
+                        <% } else { %>
+                        <div id="collapse<%=i%>" class="panel-collapse collapse">
+                        <% } %>
+                            <div class="panel-body">
+                                <%=hash_for_content.get("detail")%>
+                            </div>
+                        </div>
+                    </div>
+                <%
+            if (hash_for_content_all.containsKey(String.valueOf(i+1))) {
+                HashMap<String, String> next_hash_for_content = (HashMap)hash_for_content_all.get(String.valueOf(i+1));
+                if(!next_hash_for_content.get("type").equals("collapse")) {
+                    collapse_group_id+=1;
+            %>
+                </div>
+            <%}
+            } else {
+                collapse_group_id+=1;
+                %>
+            </div>
+                <%
+            }
         }
     if( hash_for_content.containsKey("url")) {
 %>

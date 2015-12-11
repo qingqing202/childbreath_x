@@ -15,5 +15,6 @@
 	<link rel="stylesheet" href="<%=basePath%>/resources/css/style.css" />
 	<link rel="stylesheet" href="<%=basePath%>/resources/css/font-awesome.min.css" />
     <link rel="stylesheet" href="<%=basePath%>/resources/css/font.css" />
-	<script src="<%=basePath%>/resources/js/bootstrap.min-3.3.0.js"></script>
+
 	<script src="<%=basePath%>/resources/js/jquery.min-2.0.0.js"></script>
+	<script src="<%=basePath%>/resources/js/bootstrap.min.js"></script>

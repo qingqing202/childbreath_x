@@ -200,49 +200,6 @@
 
 
     <content>
-    <type>panel</type>
-    <name>药品使用指南</name>
-    <intro>
-        <![CDATA[
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=shipin">
-            食品与药物的相互作用
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=digaoxin">
-           地高辛药物出院宣教
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=sunerning">
-           顺尔宁药物出院宣教
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=dubao">
-            都保使用方法（视频）
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=suli">
-            舒利迭使用方法(视频)
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-        ]]>
-    </intro>
-    </content>
-
-
-    <content>
         <type>panel</type>
         <name>病房设施介绍</name>
         <intro>

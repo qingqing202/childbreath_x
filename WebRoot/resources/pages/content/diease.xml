@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            常见儿童呼吸系统疾病
+        </name>
+    </title>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/jibingketang.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <hr/>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>collapse</type>
+        <title>
+            <![CDATA[
+            疾病知识介绍
+            ]]>
+        </title>
+        <detail>
+            <![CDATA[
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=asthma">
+            哮喘
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=pneumonia">
+            肺炎
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=xianxinfeiyan">
+        先心肺炎
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=CPT">
+            胸部理疗
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=yanxue">
+            验血小知识
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+        </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>collapse</type>
+        <title>
+            <![CDATA[
+            药品使用指南
+            ]]>
+        </title>
+        <detail>
+            <![CDATA[
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=shipin">
+            食品与药物的相互作用
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=digaoxin">
+            地高辛药物出院宣教
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=sunerning">
+        顺尔宁药物出院宣教
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=dubao">
+            都保使用方法（视频）
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=suli">
+            舒利迭使用方法(视频)
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+        </ul>
+            ]]>
+        </detail>
+    </content>
+
+
+</content_home>

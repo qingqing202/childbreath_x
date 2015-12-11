@@ -14,6 +14,7 @@
 <head>
   <%@ include file="include/html_head.jsp" %>
 
+
   <% String param = request.getParameter("sub");
     String CONTENT_FILE = getClass().getResource("/").getPath() + "resources/pages/content/" + param + ".xml";
     HashMap<String, Object> hash_for_all= new HashMap<>();
@@ -33,10 +34,6 @@
   <div class="row">
     <div class="col-md-12" role="main">
       <div class="bs-docs-section">
-        <h1 class="background_img1">上海市儿童医学中心<br/><small>呼吸科</small><br/><br/><br/></h1>
-        <hr />
-        <h1><%=hash_for_title.get("name")%></h1>
-        <h1><small><%=hash_for_title.get("content")%></small></h1>
 
         <%
         int content_size = hash_for_content_all.size();
@@ -93,7 +90,18 @@
             </div>
             </div>
           <%
-            }
+            } else if (hash_for_content.get("type").equals("img")) {
+              %>
+                <tb>
+                  <tr>
+                    <img class="img-responsive" class="center-block" width=100% src="<%=basePath%><%=hash_for_content.get("src")%>">
+                    <% if (hash_for_content.containsKey("url") ) {%>
+                    </a>
+                    <%}%>
+                  </tr>
+                </tb>
+                <%
+            } else if (hash_for_content.get("type").equals("collap"))
         }
         %>
 
@@ -105,6 +113,18 @@
   </tr>
 </tb>
 
+
+  <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Link with href
+  </a>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Button with data-target
+  </button>
+  <div class="collapse" id="collapseExample">
+    <div class="well">
+      ...
+    </div>
+  </div>
 
 </body>
 </html>
