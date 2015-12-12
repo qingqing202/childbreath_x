@@ -91,8 +91,7 @@
           上海市儿童医学中心呼吸科
         </h4>
       </div>
-            <h4>联系方式:</h4>
-              <a href="mailto:qingqing202@hotmail.com">电子邮件</a>
+              <a href="mailto:qingqing202@hotmail.com">>>通过电子邮件联系我们</a>
     </div>
     <hr/>
     <div class="row footer-bottom">

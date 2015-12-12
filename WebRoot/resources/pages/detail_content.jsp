@@ -248,11 +248,7 @@
                                 </a>
                             </h4>
                         </div>
-                        <%if(first_collapse) { %>
                         <div id="collapse<%=i%>" class="panel-collapse collapse in">
-                        <% } else { %>
-                        <div id="collapse<%=i%>" class="panel-collapse collapse">
-                        <% } %>
                             <div class="panel-body">
                                 <%=hash_for_content.get("detail")%>
                             </div>

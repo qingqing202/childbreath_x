@@ -6,7 +6,6 @@
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<title>上海儿童医学中心呼吸科微信公众号管理平台</title>
 	<script type="text/javascript">
 		var rootPath = "${rootPath}";
 	</script>

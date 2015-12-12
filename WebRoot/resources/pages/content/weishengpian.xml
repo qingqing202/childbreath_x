@@ -20,7 +20,7 @@
         </detail>
     </content>
     <content> <type>signature</type>
-        <author> <![CDATA[<a href = "test111">儿童医学中心呼吸科</a>]]>
+        <author> <![CDATA[<a href = "index.jsp">儿童医学中心呼吸科</a>]]>
         </author>
         <date>
             2015年09月05日
@@ -71,7 +71,7 @@
         </ul>
     <ul class="nav nav-tabs nav-stacked">
         <li><a tabindex="1" href="#4">
-            如何帮生病的孩子更换衣服
+            如何帮患儿更换衣服
         <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
         </ul>
     <ul class="nav nav-tabs nav-stacked">
