@@ -14,7 +14,7 @@
         <type>html</type>
         <detail>
             <![CDATA[
-            <hr/>
+            <br/>
             ]]>
         </detail>
     </content>
@@ -97,5 +97,26 @@
         </detail>
     </content>
 
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <hr/>
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
 
 </content_home>

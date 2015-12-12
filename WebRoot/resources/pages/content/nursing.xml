@@ -1,241 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <content_home>
     <title>
-        <name>护理知识</name>
-        <content>学习如何正确的护理患儿，让您的孩子早日远离疾病困扰。</content>
+        <name>
+            儿科护理知识介绍
+        </name>
     </title>
+
     <content>
-        <type>panel</type>
-        <name>病房护理知识</name>
-        <intro>
+        <type>img</type>
+        <src>resources/img/hulizhishi.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
             <![CDATA[
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=zhuyuanxuanjiao">
-        呼吸科住院宣教
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=gaozhishu">
-        病房陪护探视告知书
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=wuhua">
-            储雾罐使用指南
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=wuhuavideo">
-            储雾罐使用指南(视频）
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=paitan">
-            如何拍背排痰
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=ganran">
-            如何预防住院交叉感染
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=biaoxian">
-            住院患儿表现及应对
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=liuzhi">
-            静脉留置针的护理知识
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-
-
-
-
-
-
-
+            <br/>
             ]]>
-        </intro>
+        </detail>
     </content>
 
     <content>
-        <type>panel</type>
-        <name>以家庭为中心的合作性照顾</name>
-        <intro>
+        <type>collapse</type>
+        <title>
+            <![CDATA[
+            以家庭为中心的合作性照顾
+            ]]>
+        </title>
+        <detail>
             <![CDATA[
     <ul class="nav nav-tabs nav-stacked">
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=anquanpian">
-            安全篇
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
+        安全篇
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
 
-    <ul class="nav nav-tabs nav-stacked">
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=zhiliaopian">
             治疗篇
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
 
-
-    <ul class="nav nav-tabs nav-stacked">
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=yingyangpian">
-            营养篇
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
+        营养篇
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
 
-
-
-    <ul class="nav nav-tabs nav-stacked">
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=weishengpian">
             卫生篇
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=huodongpian">
+            活动篇
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
         </ul>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>collapse</type>
+        <title>
+            <![CDATA[
+            病房护理知识
+            ]]>
+        </title>
+        <detail>
+            <![CDATA[
 
 
     <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=huodongpian">
-            活动篇
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=zhuyuanxuanjiao">
+            呼吸科住院宣教
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
 
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=gaozhishu">
+            病房陪护探视告知书
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=wuhua">
+        储雾罐使用指南
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=wuhuavideo">
+            储雾罐使用指南(视频）
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=paitan">
+            如何拍背排痰
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=ganran">
+            如何预防住院交叉感染
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=biaoxian">
+            住院患儿表现及应对
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=liuzhi">
+            静脉留置针的护理知识
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+        </ul>
             ]]>
-    </intro>
+        </detail>
     </content>
 
-
-
-
-
     <content>
-        <type>panel</type>
-    <name>居家护理</name>
-    <intro>
-        <![CDATA[
+        <type>collapse</type>
+        <title>
+            <![CDATA[
+            居家护理知识
+            ]]>
+        </title>
+        <detail>
+            <![CDATA[
+
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=chuyuanhou">
+                    患儿出院后的注意事项
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=fever">
+                    孩子发烧了怎么办？
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=jujiawuhua">
+                    居家雾化指南(视频)
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=xiyang">
+                    吸氧器使用指南
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=xiyangvideo">
+                    吸氧机使用指南(视频)
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=bishi">
+                    如何在家鼻饲
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=bishivideo">
+                    如何在家鼻饲(视频)
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=pifu">
+                    婴幼儿皮肤护理
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=fushi">
+                    如何添加辅食
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=chouchu">
+                    如何应对婴幼儿抽搐
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=xitan">
+                    如何在家吸痰
+
     <ul class="nav nav-tabs nav-stacked">
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=chuyuanhou">
             患儿出院后的注意事项
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
 
-    <ul class="nav nav-tabs nav-stacked">
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=fever">
-            孩子发烧了怎么办？
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
+            孩子发烧了怎么办?
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
 
-
-    <ul class="nav nav-tabs nav-stacked">
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=jujiawuhua">
-            居家雾化指南(视频)
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
+        居家雾化指南(视频)
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
 
-
-    <ul class="nav nav-tabs nav-stacked">
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=xiyang">
             吸氧器使用指南
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
 
-    <ul class="nav nav-tabs nav-stacked">
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=xiyangvideo">
             吸氧机使用指南(视频)
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=bishi">
             如何在家鼻饲
-
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=bishivideo">
-            如何在家鼻饲(视频)
-
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
+                            如何在家鼻饲(视频)
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=pifu">
             婴幼儿皮肤护理
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-
-    <ul class="nav nav-tabs nav-stacked">
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=fushi">
             如何添加辅食
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-
-    <ul class="nav nav-tabs nav-stacked">
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=chouchu">
             如何应对婴幼儿抽搐
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-
-    <ul class="nav nav-tabs nav-stacked">
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
         <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=xitan">
             如何在家吸痰
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
         </ul>
-
             ]]>
-    </intro>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <hr/>
+            ]]>
+        </detail>
     </content>
 
 
     <content>
-        <type>panel</type>
-        <name>病房设施介绍</name>
-        <intro>
-            <![CDATA[
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=shuixiang">
-            自动水箱使用注意事项
-
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=mwoven">
-            微波炉注意事项
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-
-
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=chufang">
-            厨房安全告示
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=anquan">
-            住院安全宣教
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-            ]]>
-        </intro>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
     </content>
+
+    <content>
+    <type>html</type>
+    <detail>
+        <![CDATA[ <br /> ]]>
+    </detail>
+    </content>
+
 </content_home>
+
+        <!--
+            <content>
+                <type>panel</type>
+                <name>病房设施介绍</name>
+                <intro>
+                    <![CDATA[
+            <ul class="nav nav-tabs nav-stacked">
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=shuixiang">
+                    自动水箱使用注意事项
+
+                <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+                </ul>
+
+
+
+            <ul class="nav nav-tabs nav-stacked">
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=mwoven">
+                    微波炉注意事项
+                <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+                </ul>
+
+
+
+
+            <ul class="nav nav-tabs nav-stacked">
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=chufang">
+                    厨房安全告示
+                <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+                </ul>
+
+
+            <ul class="nav nav-tabs nav-stacked">
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=anquan">
+                    住院安全宣教
+                <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+                </ul>
+
+                    ]]>
+                </intro>
+            </content>
+        </content_home>
+        -->

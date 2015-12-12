@@ -1,28 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <content_home>
     <title>
-        <name>常见儿童呼吸系统疾病</name>
-        <content>儿童呼吸系统很重要呀，balabala</content>
+        <name>
+            儿科病房介绍
+        </name>
     </title>
+
     <content>
-        <id>0</id>
-        <name>哮喘</name>
-        <intro>哮喘疾病介绍</intro>
-        <img>imgpath</img>
-        <url>resources/pages/detail_content.jsp?name=asthma</url>
+        <type>img</type>
+        <src>resources/img/bingfang.jpg</src>
     </content>
     <content>
-        <id>1</id>
-        <name>肺炎</name>
-        <intro>肺炎疾病介绍</intro>
-        <img>imgpath</img>
-        <url>resources/pages/detail_content.jsp?name=pneumonia</url>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            ]]>
+        </detail>
     </content>
+
     <content>
-        <id>2</id>
-        <name>哮喘2</name>
-        <intro>哮喘疾病介绍</intro>
-        <img>imgpath</img>
-        <url>resources/pages/detail_content.jsp?name=asthma</url>
+        <type>collapse</type>
+        <title>
+            <![CDATA[
+            以家庭为中心的合作性照顾
+            ]]>
+        </title>
+        <detail>
+            <![CDATA[
+    <ul class="nav nav-tabs nav-stacked">
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=anquan">
+        住院安全宣教
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=shuixiang">
+            自动水箱使用注意事项
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=mwoven">
+        微波炉注意事项
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+
+        <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=chufang">
+            厨房安全告示
+        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div>
+            </a></li>
+        </ul>
+            ]]>
+        </detail>
     </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <hr/>
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
 </content_home>
+
+        <!--
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=chuyuanhou">
+                    患儿出院后的注意事项
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=fever">
+                    孩子发烧了怎么办？
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=jujiawuhua">
+                    居家雾化指南(视频)
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=xiyang">
+                    吸氧器使用指南
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=xiyangvideo">
+                    吸氧机使用指南(视频)
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=bishi">
+                    如何在家鼻饲
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=bishivideo">
+                    如何在家鼻饲(视频)
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=pifu">
+                    婴幼儿皮肤护理
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=fushi">
+                    如何添加辅食
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=chouchu">
+                    如何应对婴幼儿抽搐
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=xitan">
+                    如何在家吸痰
+                <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+                </ul>
+
+                    ]]>
+            </intro>
+            </content>
+
+
+            <content>
+                <type>panel</type>
+                <name>病房设施介绍</name>
+                <intro>
+                    <![CDATA[
+            <ul class="nav nav-tabs nav-stacked">
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=shuixiang">
+                    自动水箱使用注意事项
+
+                <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+                </ul>
+
+
+
+            <ul class="nav nav-tabs nav-stacked">
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=mwoven">
+                    微波炉注意事项
+                <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+                </ul>
+
+
+
+
+            <ul class="nav nav-tabs nav-stacked">
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=chufang">
+                    厨房安全告示
+                <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+                </ul>
+
+
+            <ul class="nav nav-tabs nav-stacked">
+                <li><a tabindex="1" href="../../resources/pages/detail_content.jsp?name=anquan">
+                    住院安全宣教
+                <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
+                </ul>
+
+                    ]]>
+                </intro>
+            </content>
+        </content_home>
+        -->

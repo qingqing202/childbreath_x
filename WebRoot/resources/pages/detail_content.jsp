@@ -28,6 +28,7 @@
   HashMap<String, String> hash_for_title = (HashMap)hash_for_all.get("title");
   HashMap<String, Object> hash_for_content_all= (HashMap)hash_for_all.get("content");
 %>
+<head></head>
 <!--
 <link href="http://v3.bootcss.com/assets/css/docs.min.css" rel="stylesheet">
 <link href="//basePath%>/resources/css/dialogbox.css" rel="stylesheet">
@@ -217,8 +218,7 @@
                 <script>
                     function changeArrow(id)
                     {
-                        $("span[glyphicon]").className ="glyphicon glyphicon-chevron-right";
-                        alert($("span[glyphicon]").className);
+                        $("glyphicon").className ="glyphicon glyphicon-chevron-right";
 
                         x=document.getElementById("collapseArrow"+id);  // 找到元素
                         y=document.getElementById("collapse"+id);  // 找到元素

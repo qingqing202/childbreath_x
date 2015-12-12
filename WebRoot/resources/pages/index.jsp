@@ -48,9 +48,9 @@
 <%
   Object[] [] letters={
           // {“模块名称”， “图片地址”， “模块简介”，“链接地址”}
-          {"疾病知识", basePath+"resources/img/jibingketang.jpg","介绍包括小儿肺炎、哮喘在内的常见呼吸疾病。",basePath+ "resources/pages/sub_home.jsp?sub=disease"},
-          {"护理知识", basePath+"resources/img/hulizhishi.jpg","介绍如何正确的护理婴幼儿，特别是患病的婴幼儿。",basePath+ "resources/pages/sub_home.jsp?sub=nursing"},
-          {"病房介绍", basePath+"resources/img/bingfang.jpg","介绍儿中心呼吸科病房基础设施及住院流程。",basePath+ "resources/pages/sub_home.jsp?sub=ward"},
+          {"疾病知识", basePath+"resources/img/jibingketang.jpg","介绍包括小儿肺炎、哮喘在内的常见呼吸疾病。",basePath+ "resources/pages/detail_content.jsp?name=diease"},
+          {"护理知识", basePath+"resources/img/hulizhishi.jpg","介绍如何正确的护理婴幼儿，特别是患病的婴幼儿。",basePath+ "resources/pages/detail_content.jsp?name=nursing"},
+          {"病房介绍", basePath+"resources/img/bingfang.jpg","介绍儿中心呼吸科病房基础设施及住院流程。",basePath+ "resources/pages/detail_content.jsp?name=ward"},
           {"后台管理", basePath+"resources/img/houtai.jpg","对注册用户的信息进行查询、统计和编辑。",basePath+"resources/pages/login.jsp"},
           {"商务", basePath+"resources/img/shangwu.jpg","TBC","__BLANK__"},
   };
