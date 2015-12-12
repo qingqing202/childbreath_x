@@ -7,13 +7,13 @@ import weixin.utility.WeixinUtil;
 import com.alibaba.fastjson.JSONObject;
 
 public class AccessTokenMgr {
-	private AccessTokenMgr(){
+	public AccessTokenMgr(){
 		
 	}
 	
 	public final static String access_token_url = "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=APPID&secret=APPSECRET";
-	private static String AppId = "wx805487866a225cb7";
-	private static String AppSecret = "d41569d7be0a7029c66672f554d9ee9c";
+	private static String AppId = "wx5172afd52167d85a";
+	private static String AppSecret = "407e7f79f4c5992dca7b29c64a1bf1bb";
 	
 	private static AccessTokenMgr m_instance = new AccessTokenMgr();
 	

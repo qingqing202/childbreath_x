@@ -248,7 +248,8 @@
                                 </a>
                             </h4>
                         </div>
-                        <div id="collapse<%=i%>" class="panel-collapse collapse in">
+                        <%if(first_collapse) { %>
+                        <div id="collapse<%=i%>" class="panel-collapse collapse">
                             <div class="panel-body">
                                 <%=hash_for_content.get("detail")%>
                             </div>
