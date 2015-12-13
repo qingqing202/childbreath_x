@@ -32,7 +32,8 @@ public class QuestionDataHandle {
 			BasicDBObject filter = new BasicDBObject();
 			filter.append("id", new BasicDBObject("$eq", Long.parseLong(id)));
 			FindIterable<Document> result = dao.GetCollection("questions").find(filter);
-			
+
+
 			if( result.first() != null ){
 				Document doc = result.first();
 				question fol = new question();
@@ -43,8 +44,10 @@ public class QuestionDataHandle {
 				fol.setOptions( (List<String>) doc.get("options"));
 				
 				return fol;
+			} else {
+				System.out.print("nothing returned from db");
+				return null;
 			}
-			return null;
 		}catch( Exception e ){
 			e.printStackTrace();
 			logger.error(e.toString());

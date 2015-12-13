@@ -20,7 +20,7 @@
 			<div class="loginFormBox center-block-form" id="loginform">
 				<form class="form" onsubmit="return validLogin();" action="<%=request.getContextPath()%>/mgn/login" method="post">
 					<div class="form-group input-group input-group-lg col-xs-10 col-xs-offset-1">
-						<label id="tipMsg" >
+						<label id="tipMsg">
 						<c:choose>
 							<c:when test="${empty loginFail}">请登录</c:when>
 							<c:otherwise>

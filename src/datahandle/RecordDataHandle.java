@@ -3,7 +3,10 @@ package datahandle;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.Map;
+import java.util.HashMap;
 
+import com.mongodb.client.MongoCollection;
 import org.apache.log4j.Logger;
 import org.bson.Document;
 import org.springframework.stereotype.Component;
@@ -24,8 +27,75 @@ import com.mongodb.client.result.UpdateResult;
 public class RecordDataHandle {
 	// 输出日志文件
 	private static Logger logger = Logger.getLogger(RecordDataHandle.class);
-	
-	
+
+
+	/** 插入新用户
+	 *
+ 	 */
+	private boolean insertRecord(record rec) {
+		System.out.print("insertRecord begin");
+		try {
+			MongoDAO dao = MongoDAO.GetInstance();
+			System.out.print("insertRecord : insertOne record");
+			Map<String, Object> docMap = rec.getDocMap();
+			docMap.put("inHospital", true);
+			docMap.put("leaveHospital", false);
+			docMap.put("followup", false);
+			dao.GetCollection("records").insertOne(new Document(docMap));
+		}catch(Exception e){
+			e.printStackTrace();
+			logger.error(e.toString());
+			return false;
+		}
+		return true;
+	}
+
+	/** 更新用户信息
+	 * @return 是否更新成功
+	 */
+
+	private boolean updateRecord(record exist_record, record new_record) {
+		try {
+			System.out.print("update record");
+			MongoDAO dao = MongoDAO.GetInstance();
+			System.out.print("update record1");
+			dao.GetCollection("records").deleteOne(new Document(exist_record.getDocMap()));
+			dao.GetCollection("records").insertOne(new Document(new_record.getDocMap()));
+			//dao.GetCollection("records").updateOne(new Document(exist_record.getDocMap()),
+			//		new Document(new_record.getDocMap()));
+			System.out.print("update record2");
+		} catch(Exception e){
+			e.printStackTrace();
+			logger.error(e.toString());
+			return false;
+		}
+		return true;
+	}
+
+
+	/** 新用户注册
+	 * @return
+	 */
+	public boolean addNewRecord(record rec) {
+		try {
+			System.out.print("add new record begin");
+
+			if (this.isRecordNameExists(rec.getName())) {
+				System.out.print("has record with same name");
+				record exist_record = this.GetRecord(rec.getAdmission_number());
+				if (exist_record != null) {
+					System.out.print("has record with same id");
+					return this.updateRecord(exist_record, rec);
+				}
+			}
+			return this.insertRecord(rec);
+		}catch(Exception e){
+			e.printStackTrace();
+			logger.error(e.toString());
+			return false;
+		}
+	}
+
 	/**	取得正在住院的用户
 	 * @return
 	 */
@@ -64,7 +134,7 @@ public class RecordDataHandle {
 			MongoDAO dao = MongoDAO.GetInstance();
 			BasicDBObject cond = new BasicDBObject();
 			cond.append("leaveHospital", new BasicDBObject("$eq",true));
-			cond.append("followup", new BasicDBObject("$eq",false));
+			cond.append("followup", new BasicDBObject("$eq", false));
 			FindIterable<Document> result = dao.GetCollection("records").find(cond);
 			MongoCursor<Document> it = result.iterator();
 			while( it.hasNext() ){
@@ -84,7 +154,29 @@ public class RecordDataHandle {
 			return null;
 		}
 	}
-	
+
+	/** 是否有同名记录
+	 * @param name 患儿姓名
+	 * @return 住院记录
+	 */
+	public boolean isRecordNameExists(String name){
+		try{
+			MongoDAO dao = MongoDAO.GetInstance();
+			BasicDBObject cond = new BasicDBObject();
+			cond.append("name", new BasicDBObject("$eq", name));
+			FindIterable<Document> result = dao.GetCollection("records").find(cond);
+			MongoCursor<Document> it = result.iterator();
+			if( it.hasNext() ){
+				return true;
+			}
+			return false;
+		}catch( Exception e ){
+			e.printStackTrace();
+			logger.error(e.toString());
+			return false;
+		}
+	}
+
 	/** 取得指定住院号的记录
 	 * @param admissionNum 住院号
 	 * @return 住院记录
@@ -93,18 +185,18 @@ public class RecordDataHandle {
 		try{
 			MongoDAO dao = MongoDAO.GetInstance();
 			BasicDBObject cond = new BasicDBObject();
-			cond.append("admission_number", new BasicDBObject("$eq",admissionNum));
+			cond.append("admission_number", new BasicDBObject("$eq", admissionNum));
 			FindIterable<Document> result = dao.GetCollection("records").find(cond);
 			MongoCursor<Document> it = result.iterator();
 			if( it.hasNext() ){
 				Document doc = it.next();
 				record fol = new record();
-				fol.setAdmission_number( doc.getString("admission_number"));
-				fol.setName( doc.getString("name"));
-				fol.setWeixin_openid( doc.getString("weixin_openid"));
-				fol.setLeaveTime( doc.getDate("leaveTime") );
+				fol.setAdmission_number(doc.getString("admission_number"));
+				fol.setName(doc.getString("name"));
+				fol.setWeixin_openid(doc.getString("weixin_openid"));
+				fol.setLeaveTime(doc.getDate("leaveTime"));
 				fol.setInTime(doc.getDate("inTime"));
-				fol.setDisease( doc.getString("disease") );
+				fol.setDisease(doc.getString("disease"));
 				return fol;
 			}
 			return null;

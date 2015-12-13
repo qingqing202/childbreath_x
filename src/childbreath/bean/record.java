@@ -1,6 +1,8 @@
 package childbreath.bean;
 
 import java.util.Date;
+import java.util.Map;
+import java.util.HashMap;
 
 import org.springframework.stereotype.Component;
 
@@ -16,6 +18,7 @@ public class record {
 	private long inDays = 0;
 	private Date leaveTime = null;
 	private long leaveDays = 0;
+	private String telNumber = null;
 	
 	public String getWeixin_openid() {
 		return weixin_openid;
@@ -29,7 +32,10 @@ public class record {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
+
+	public void setTelNumber(String telNumber){this.telNumber = telNumber;}
+	public String getTelNumber() {return this.telNumber;}
+
 	public String getAdmission_number() {
 		return admission_number;
 	}
@@ -59,6 +65,7 @@ public class record {
 		return DTF.DateToString(leaveTime);
 	}
 	public void setLeaveTime(Date leaveTime) {
+		if(leaveTime == null) return;
 		this.leaveTime = leaveTime;
 		Date now = new Date();
 		long total = now.getTime() - this.leaveTime.getTime();
@@ -77,5 +84,18 @@ public class record {
 	}
 	public void setDisease(String disease) {
 		this.disease = disease;
+	}
+
+	public Map<String, Object> getDocMap() {
+		Map<String, Object> docMap = new HashMap<>();
+		docMap.put("weixin_openid", weixin_openid);
+		docMap.put("name", name);
+		docMap.put("admission_number", admission_number);
+		docMap.put("inTime", inTime);
+		docMap.put("inDays", inDays);
+		docMap.put("leaveDays", leaveDays);
+		docMap.put("leaveTime", leaveTime);
+		docMap.put("telNumber", telNumber);
+		return docMap;
 	}
 }
