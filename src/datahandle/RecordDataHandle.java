@@ -59,7 +59,10 @@ public class RecordDataHandle {
 			System.out.print("update record");
 			MongoDAO dao = MongoDAO.GetInstance();
 			System.out.print("update record1");
+
+			//deleteOne not working!!!
 			dao.GetCollection("records").deleteOne(new Document(exist_record.getDocMap()));
+
 			dao.GetCollection("records").insertOne(new Document(new_record.getDocMap()));
 			//dao.GetCollection("records").updateOne(new Document(exist_record.getDocMap()),
 			//		new Document(new_record.getDocMap()));

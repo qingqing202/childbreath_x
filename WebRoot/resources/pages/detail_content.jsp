@@ -240,15 +240,10 @@
                                 <a data-toggle="collapse" data-parent="#accordion<%=collapse_group_id%>"
                                    href="#collapse<%=i%>" onclick="changeArrow(<%=i%>)">
                                     <%=hash_for_content.get("title")%>
-                                    <%if(first_collapse){%>
-                                    <div class="pull-right"><span id="collapseArrow<%=i%>" class="glyphicon glyphicon-chevron-down"></span></div>
-                                    <%} else {%>
                                     <div class="pull-right"><span id="collapseArrow<%=i%>" class="glyphicon glyphicon-chevron-right"></span></div>
-                                    <%}%>
                                 </a>
                             </h4>
                         </div>
-                        <%if(first_collapse) { %>
                         <div id="collapse<%=i%>" class="panel-collapse collapse">
                             <div class="panel-body">
                                 <%=hash_for_content.get("detail")%>
