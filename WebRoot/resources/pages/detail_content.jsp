@@ -99,7 +99,7 @@
 <%
     } else if (hash_for_content.get("type").equals("signature")) {
 %>
-    <p class="text-right"><small><%=hash_for_content.get("author")%> <%=hash_for_content.get("date")%></small></p>
+    <p class="text-right"><small><%=hash_for_content.get("author")%> <br/> <%=hash_for_content.get("date")%></small></p>
 <%
     } else if (hash_for_content.get("type").equals("video")) {
 %>
@@ -244,7 +244,13 @@
                                 </a>
                             </h4>
                         </div>
-                        <div id="collapse<%=i%>" class="panel-collapse collapse">
+                <%if ( hash_for_content.get("title").contains("病房设施") ) {
+                    %>
+                        <div id="collapse<%=i%>" class="panel-collapse collapse in">
+                            <% } else { %>
+                            <div id="collapse<%=i%>" class="panel-collapse collapse">
+                                <% } %>
+
                             <div class="panel-body">
                                 <%=hash_for_content.get("detail")%>
                             </div>

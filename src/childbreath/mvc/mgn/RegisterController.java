@@ -28,7 +28,6 @@ public class RegisterController {
 	public String register(@RequestParam("name") String userName,
 						Model model,HttpServletRequest request, HttpServletResponse response){
 		try{
-			System.out.println("register method begin");
 			request.setCharacterEncoding("UTF-8");
 			String name = request.getParameter("name");
 			int birthyear= 0;
@@ -43,33 +42,21 @@ public class RegisterController {
 			try {
 				birthmonth=Integer.parseInt(request.getParameter("birthday"));
 			}catch(Exception e){}
-			System.out.println("register method begin 2");
 
 			String dateString = birthyear+"-"+birthmonth+"-"+birthday;
-			System.out.println("datestring = " + dateString);
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
-			System.out.println("gen sdf finished");
 			Date inTime = null;
 			try { inTime= sdf.parse(dateString); } catch (Exception e) {
 				e.printStackTrace();
 				return null;
 			}
 
-			System.out.println("register method begin 3");
 
 
 			String telNum = request.getParameter("telNum");
 			String admission_number = request.getParameter("hospitalId");
 			String sex = request.getParameter("sex");
 			String weixin_openid = request.getParameter("webchatId");
-
-			System.out.println("name            = " + name);
-			System.out.println("admission_number= " + admission_number);
-			System.out.println("weixin_openid   = " + weixin_openid);
-			System.out.println("brithyear       = " + birthyear);
-			System.out.println("brithmonth      = " + birthmonth);
-			System.out.println("telephone_number= " + telNum);
-			System.out.println("sex        = " + sex);
 
 			record cur_record = new record();
 			cur_record.setAdmission_number(admission_number);

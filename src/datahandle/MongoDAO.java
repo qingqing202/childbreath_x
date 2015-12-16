@@ -12,6 +12,13 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.model.FindOneAndUpdateOptions;
 import com.mongodb.client.model.ReturnDocument;
+import com.mongodb.ServerAddress;
+
+import java.util.Arrays;
+import com.mongodb.MongoCredential;
+
+
+
 
 public class MongoDAO {
 	
@@ -45,7 +52,11 @@ public class MongoDAO {
 	public static boolean Connect(){
 		try{
 			if( m_client == null ){
-				m_client = new MongoClient("127.0.0.1", 27017);
+
+				MongoCredential credential = MongoCredential.createCredential("webapp", "childbreath", "1qaz@WSZ".toCharArray());
+				// qqzhang 2bwveo@J
+
+				MongoClient m_client = new MongoClient(new ServerAddress("localhost", 27017), Arrays.asList(credential));
 				m_database = m_client.getDatabase("childbreath");
 			}
 			
