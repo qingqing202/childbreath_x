@@ -49,38 +49,14 @@
 				</div>
 
 				<div class="line">
-					<div align="left" class="leftDiv">出生年：</div>
-					<div align="left" class="rightDiv">
-						<input id="birthyear" type="text" name="birthyear" class="text" />
-					</div>
+					<div align="left" class="leftDiv">出生日期：</div>
+					<input type="date" name="birthDay" id="birthDay"/>
 				</div>
 
-				<div class="line">
-					<div align="left" class="leftDiv">出生月：</div>
-					<div align="left" class="rightDiv">
-						<input id="birthmonth" type="text" name="birthmonth" class="text" />
-					</div>
-				</div>
 
 				<div class="line">
-					<div align="left" class="leftDiv">入院年：</div>
-					<div align="left" class="rightDiv">
-						<input id="hospitalizedYear" type="text" name="hospitalizedYear" class="text" />
-					</div>
-				</div>
-
-				<div class="line">
-					<div align="left" class="leftDiv">入院月：</div>
-					<div align="left" class="rightDiv">
-						<input id="hospitalizedMonth" type="text" name="hospitalizedMonth" class="text" />
-					</div>
-				</div>
-
-				<div class="line">
-					<div align="left" class="leftDiv">入院日：</div>
-					<div align="left" class="rightDiv">
-						<input id="hospitalizedDay" type="text" name="hospitalizedDay" class="text" />
-					</div>
+					<div align="left" class="leftDiv">入院日期：</div>
+					<input type="date" id="inDate" name="inDate" />
 				</div>
 
 				<div class="line">

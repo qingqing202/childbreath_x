@@ -59,13 +59,24 @@ public class RecordDataHandle {
 			System.out.print("update record");
 			MongoDAO dao = MongoDAO.GetInstance();
 			System.out.print("update record1");
+			Document existing = new Document();
+			existing.append("admission_number", exist_record.getAdmission_number());
 
-			//deleteOne not working!!!
-			dao.GetCollection("records").deleteOne(new Document(exist_record.getDocMap()));
+			long num = dao.GetCollection("records").deleteMany(existing).getDeletedCount();
+			System.out.print("remove record number = " + num );
 
-			dao.GetCollection("records").insertOne(new Document(new_record.getDocMap()));
-			//dao.GetCollection("records").updateOne(new Document(exist_record.getDocMap()),
-			//		new Document(new_record.getDocMap()));
+			try{
+				Map<String, Object> docMap = new_record.getDocMap();
+				docMap.put("inHospital", true);
+				docMap.put("leaveHospital", false);
+				docMap.put("followup", false);
+				dao.GetCollection("records").insertOne(new Document(docMap));
+			} catch (Exception e) {
+				e.printStackTrace();
+				logger.error(e.toString());
+				return false;
+			}
+
 			System.out.print("update record2");
 		} catch(Exception e){
 			e.printStackTrace();
@@ -83,13 +94,10 @@ public class RecordDataHandle {
 		try {
 			System.out.print("add new record begin");
 
-			if (this.isRecordNameExists(rec.getName())) {
-				System.out.print("has record with same name");
-				record exist_record = this.GetRecord(rec.getAdmission_number());
-				if (exist_record != null) {
-					System.out.print("has record with same id");
-					return this.updateRecord(exist_record, rec);
-				}
+			record exist_record = this.GetRecord(rec.getAdmission_number());
+			if (exist_record != null) {
+				System.out.print("has record with same id");
+				return this.updateRecord(exist_record, rec);
 			}
 			return this.insertRecord(rec);
 		}catch(Exception e){
@@ -118,8 +126,15 @@ public class RecordDataHandle {
 				fol.setName( doc.getString("name"));
 				fol.setWeixin_openid( doc.getString("weixin_openid"));
 				fol.setInTime( doc.getDate("inTime") );
+
+				System.out.print("\nname             = " + fol.getName());
+				System.out.print("\nadmission_number = " + fol.getAdmission_number());
+				System.out.print("\nweixin_openid    = " + fol.getWeixin_openid());
+				System.out.print("\nintime           = " + fol.getInTime());
 				list.add( fol );
+				System.out.print("add to list finished");
 			}
+			System.out.print("list ready");
 			return list;
 		}catch(Exception e){
 			e.printStackTrace();

@@ -1,4 +1,5 @@
-function validLogin(){
+
+	function validLogin(){
 	if( $('#name').val().length == 0 ){
 		$('#name').focus();
 		$('#tipMsg').text('请填写患儿姓名');

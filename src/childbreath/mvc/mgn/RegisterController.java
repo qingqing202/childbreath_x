@@ -1,5 +1,8 @@
 package childbreath.mvc.mgn;
+import java.lang.String;
 import java.util.Date;
+import java.text.SimpleDateFormat;
+
 
 import datahandle.RecordDataHandle;
 import datahandle.UserDataHandle;
@@ -12,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import javax.inject.Inject;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.text.SimpleDateFormat;
+
 
 @Controller
 @RequestMapping("/mgn")
@@ -30,28 +33,29 @@ public class RegisterController {
 		try{
 			request.setCharacterEncoding("UTF-8");
 			String name = request.getParameter("name");
-			int birthyear= 0;
-			try {
-				birthyear=Integer.parseInt(request.getParameter("birthyear"));
-			}catch(Exception e){}
-			int birthmonth= 0;
-			try {
-				birthmonth=Integer.parseInt(request.getParameter("birthmonth"));
-			}catch(Exception e){}
-			int birthday = 0;
-			try {
-				birthmonth=Integer.parseInt(request.getParameter("birthday"));
-			}catch(Exception e){}
 
-			String dateString = birthyear+"-"+birthmonth+"-"+birthday;
+			String indate = request.getParameter("inDate");
+			System.out.print("in date1= " + indate);
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+			System.out.print("in date2= " + indate);
 			Date inTime = null;
-			try { inTime= sdf.parse(dateString); } catch (Exception e) {
+			try { inTime= sdf.parse(indate); } catch (Exception e) {
+				e.printStackTrace();
+				return null;
+			}
+			System.out.print("in date3= " + indate);
+
+			String birthdate = request.getParameter("birthDay");
+			System.out.print("in date4= " + indate);
+
+			Date birthDay= null;
+			SimpleDateFormat sdf2 = new SimpleDateFormat("yyyy-MM-dd");
+			try { birthDay= sdf2.parse(birthdate); } catch (Exception e) {
 				e.printStackTrace();
 				return null;
 			}
 
-
+			System.out.print("in date = " + indate);
 
 			String telNum = request.getParameter("telNum");
 			String admission_number = request.getParameter("hospitalId");
@@ -61,10 +65,13 @@ public class RegisterController {
 			record cur_record = new record();
 			cur_record.setAdmission_number(admission_number);
 			cur_record.setName(name);
+			cur_record.setSex(sex);
 			cur_record.setWeixin_openid(weixin_openid);
 			cur_record.setInTime(inTime);
+			cur_record.setBirthDay(birthDay);
 			cur_record.setTelNumber(telNum);
 
+			System.out.print(cur_record.toString());
 
 			if (recordDataHandle.addNewRecord(cur_record)) {
 				return "register";
