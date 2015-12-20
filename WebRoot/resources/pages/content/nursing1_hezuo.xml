@@ -2,13 +2,13 @@
 <content_home>
     <title>
         <name>
-            儿科病房介绍
+            儿科护理知识介绍
         </name>
     </title>
 
     <content>
         <type>img</type>
-        <src>resources/img/bingfang.jpg</src>
+        <src>resources/img/hulizhishi.jpg</src>
     </content>
     <content>
         <type>html</type>
@@ -19,8 +19,6 @@
         </detail>
     </content>
 
-
-
     <content>
         <type>html</type>
         <detail>
@@ -28,24 +26,27 @@
 
 <div class="list-group">
 
-  <a href="#" class="list-group-item active disabled list-group-item-danger">
-  <strong>病房设施介绍</strong>
+  <a href="#" class="list-group-item active disabled list-group-item-info">
+  <strong>以家庭为中心的合作性照顾</strong>
   </a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=anquan" class="list-group-item">
-  住院安全宣教
+  <a href="../../resources/pages/detail_content.jsp?name=anquanpian" class="list-group-item">
+  安全篇
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=shuixiang" class="list-group-item">
-  自动水箱使用注意事项
+  <a href="../../resources/pages/detail_content.jsp?name=zhiliaopian" class="list-group-item">
+  治疗篇
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=mwoven" class="list-group-item">
-  微波炉注意事项
+  <a href="../../resources/pages/detail_content.jsp?name=yingyangpian" class="list-group-item">
+  营养篇
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=chufang" class="list-group-item">
-  厨房安全告示
+  <a href="../../resources/pages/detail_content.jsp?name=weishengpian" class="list-group-item">
+  卫生篇
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=huodongpian" class="list-group-item">
+  活动篇
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
 </div>
@@ -69,10 +70,10 @@
     </content>
 
     <content>
-        <type>html</type>
-        <detail>
-            <![CDATA[ <br /> ]]>
-        </detail>
+    <type>html</type>
+    <detail>
+        <![CDATA[ <br /> ]]>
+    </detail>
     </content>
 
 </content_home>

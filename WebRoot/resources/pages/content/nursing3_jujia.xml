@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            儿科护理知识介绍
+        </name>
+    </title>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/hulizhishi.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+<div class="list-group">
+
+  <a href="#" class="list-group-item active disabled list-group-item-success">
+  <strong>居家护理知识</strong>
+  </a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=chuyuanhou" class="list-group-item">
+  患儿出院注意事项
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=fever" class="list-group-item">
+              孩子发烧了怎么办?
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=jujiawuhua" class="list-group-item">
+          居家雾化指南(视频)
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=xiyang" class="list-group-item">
+  吸氧机的使用
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=xiyangvideo" class="list-group-item">
+ 吸氧机的使用(视频)
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=bishi" class="list-group-item">
+  如何在家鼻饲
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=bishivideo" class="list-group-item">
+                              如何在家鼻饲(视频)
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=pifu" class="list-group-item">
+  婴幼儿皮肤护理
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=fushi" class="list-group-item">
+  如何添加辅食
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=chouchu" class="list-group-item">
+  如何应对婴幼儿抽搐
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=xitan" class="list-group-item">
+  如何在家吸痰
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+</div>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <hr/>
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+
+    <content>
+    <type>html</type>
+    <detail>
+        <![CDATA[ <br /> ]]>
+    </detail>
+    </content>
+
+</content_home>
+
