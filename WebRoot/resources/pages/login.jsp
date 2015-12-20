@@ -46,7 +46,19 @@
 			</div>	
 		</div>
 	</div>
-	
+
+	<div id="finished">
+		<c:choose>
+			<c:when test="${empty registerFinish}"></c:when>
+			<c:otherwise>
+				register finished
+			</button>
+
+			</c:otherwise>
+		</c:choose>
+		</div>
+
+
 	<%@ include file="include/footer.jsp" %>
   	<script src="<%=request.getContextPath()%>/resources/js/login/login.js"></script>
 </body>

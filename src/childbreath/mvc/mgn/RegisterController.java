@@ -28,34 +28,18 @@ public class RegisterController {
 	private RecordDataHandle recordDataHandle;
 	
 	@RequestMapping(value="/register")
-	public String register(@RequestParam("name") String userName,
-						Model model,HttpServletRequest request, HttpServletResponse response){
+	public String register(Model model,HttpServletRequest request, HttpServletResponse response){
 		try{
 			request.setCharacterEncoding("UTF-8");
 			String name = request.getParameter("name");
 
-			String indate = request.getParameter("inDate");
-			System.out.print("in date1= " + indate);
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
-			System.out.print("in date2= " + indate);
-			Date inTime = null;
-			try { inTime= sdf.parse(indate); } catch (Exception e) {
-				e.printStackTrace();
-				return null;
-			}
-			System.out.print("in date3= " + indate);
+
+			String indate = request.getParameter("inDate");
+			Date inTime= sdf.parse(indate);
 
 			String birthdate = request.getParameter("birthDay");
-			System.out.print("in date4= " + indate);
-
-			Date birthDay= null;
-			SimpleDateFormat sdf2 = new SimpleDateFormat("yyyy-MM-dd");
-			try { birthDay= sdf2.parse(birthdate); } catch (Exception e) {
-				e.printStackTrace();
-				return null;
-			}
-
-			System.out.print("in date = " + indate);
+			Date birthDay= sdf.parse(birthdate);
 
 			String telNum = request.getParameter("telNum");
 			String admission_number = request.getParameter("hospitalId");
@@ -71,11 +55,16 @@ public class RegisterController {
 			cur_record.setBirthDay(birthDay);
 			cur_record.setTelNumber(telNum);
 
-			System.out.print(cur_record.toString());
+			System.out.print("add new record" + cur_record.toString());
 
 			if (recordDataHandle.addNewRecord(cur_record)) {
+				model.addAttribute("registerFailed", 1);
+				model.addAttribute("tipMsg", null);
+				System.out.print("add new record succeed");
 				return "register";
 			} else {
+				model.addAttribute("registerFailed", -1);
+				System.out.print("add new record failed");
 				return "register";
 			}
 

@@ -1,5 +1,4 @@
-
-	function validLogin(){
+function validLogin(){
 	if( $('#name').val().length == 0 ){
 		$('#name').focus();
 		$('#tipMsg').text('请填写患儿姓名');
@@ -20,6 +19,14 @@
 		$('#tipMsg').text('请填写联系电话');
 		return false;
 	}
+	if( $('#birthDay').val().length == 0) {
+		$('#tipMsg').text('请填写出生日期');
+		return false;
+	}
+	if( $('#inDate').val().length == 0) {
+		$('#tipMsg').text('请填写入院日期');
+		return false;
+	}
 
 	var val=$('input:radio[name="sex"]:checked').val();
 	if(val==null) {
@@ -29,3 +36,4 @@
 
 	return true;
 }
+

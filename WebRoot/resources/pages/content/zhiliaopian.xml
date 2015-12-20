@@ -6,10 +6,10 @@
         </name>
     </title>
     <content>
-        <type>h1</type>
+        <type>html</type>
         <detail>
             <![CDATA[
-            以家庭为中心的合作性照顾：治疗篇<a href="top"> </a>
+            <h3 class="text-center">以家庭为中心的合作性照顾:治疗篇</h3><a href="top"> </a>
             ]]>
             </detail>
     </content>

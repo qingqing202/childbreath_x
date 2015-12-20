@@ -49,12 +49,9 @@ $('#addDiseaseModal').on('show.bs.modal', function(event){
 				call : function(data){
 					if( data ){
 						if( 1 == data.result){
-							showAlert('添加成功');
 							getDiseases();
-							modal.modal('hide');							
 						}else if( 2 == data.result){
 							showAlert('此疾病种类已存在，无需重复添加');
-							modal.modal('hide');
 						}else{
 							showAlert('添加失败');
 						}						
@@ -80,7 +77,7 @@ function deleteDisease(name){
 				call : function(data){
 					if( data ){
 						if(data.result){
-							showAlert('删除成功');
+							//showAlert('删除成功');
 							getDiseases();						
 						}else{
 							showAlert('删除失败');

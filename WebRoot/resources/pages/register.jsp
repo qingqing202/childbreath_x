@@ -11,14 +11,28 @@
 </head>
 <body>
 
+<script type="text/javascript">
+	function disp_alert()
+	{
+		alert("我是警告框！！")
+	}
+</script>
 
 <div class="container ">
 	<form onsubmit="return validLogin();" action="<%=request.getContextPath()%>/mgn/register" method="POST">
 		<div align="center">
 			<br/>
 			<fieldset style="width:80%">
+				<!--
 				<legend>请填写患儿个人信息</legend><br/>
-                <span id="tipMsg"></span>
+				-->
+                <label id="tipMsg">请填写个人信息：</label>
+				<c:choose>
+					<c:when test="${registerFailed > 0}"> confirm("注册成功") </c:when>
+					<c:when test="${registerFailed < 0}"> confirm("注册失败")</c:when>
+					<c:otherwise>
+					</c:otherwise>
+				</c:choose>
 
 				<div class="line">
 					<div align="left" class="leftDiv">姓名：</div>
@@ -82,35 +96,6 @@
 
 </div>
 
-<!--
-	<div id="content" class="gradient1">
-		<div class="container ">
-			<div class="loginFormBox center-block-form" id="loginform">
-				<form class="form" onsubmit="return validLogin();" action="<%=request.getContextPath()%>/mgn/login" method="post">
-					<div class="form-group input-group input-group-lg col-xs-10 col-xs-offset-1">
-						<label id="tipMsg" >
-							用户名或密码错误,请重新输入
-						</label>
-					</div>					
-					<div class="form-group input-group input-group-lg col-xs-10 col-xs-offset-1">
-						<label class="control-label sr-only" for="name">name</label>
-						<span class="input-group-addon glyphicon glyphicon-user"></span>			
-						<input type="text" id="name" name="name" autofocus="autofocus" class="form-control" placeholder="请输入用户名" />
-					</div>
-					<div class="form-group input-group input-group-lg col-xs-10 col-xs-offset-1 ">
-						<label class="control-label sr-only" for="pwd">password</label>
-						<span class="input-group-addon glyphicon glyphicon-lock"></span>
-						<input type="password" id="pwd" name="pwd" class="form-control" placeholder="请输入密码" />
-					</div>	
-					<div class="form-group input-group input-group-lg col-xs-10 col-xs-offset-1">
-						<button id="submitBtn" type="submit" class="btn btn-primary btn-lg btn-block">登录</button>
-			  		</div>	
-				</form>
-			</div>	
-		</div>
-	</div>
-	
-  	-->
 	<%@ include file="include/footer.jsp" %>
   	<script src="<%=request.getContextPath()%>/resources/js/register/register.js"></script>
 </body>
