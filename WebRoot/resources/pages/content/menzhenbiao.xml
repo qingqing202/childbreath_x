@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            上海儿童医学中心呼吸专科医生门诊一览表
+        </name>
+    </title>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <h2 class="text-center">
+            上海儿童医学中心呼吸科
+            <br/>专科医生门诊一览表
+            </h2>
+            ]]>
+            </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+
+    <table class="table table-bordered table-condensed">
+      <thead>
+        <tr>
+          <th>门诊名称</th>
+          <th>出诊时间</th>
+          <th>专科性质</th>
+          <th>挂号费(元)</th>
+          <th>医师</th>
+          <th>职称</th>
+          <th>出诊诊区</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">呼吸哮喘</th>
+          <td>周一上午</td>
+          <td>特需</td>
+          <td>208</td>
+          <td>岳孟源</td>
+          <td>副主任</td>
+          <td>二楼十二诊区</td>
+        </tr>
+        <tr class="active">
+          <th scope="row">慢性咳嗽专病</th>
+          <td>周一下午</td>
+          <td>专科</td>
+          <td>14</td>
+          <td>张磊</td>
+          <td>主治医</td>
+          <td>二楼八诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">呼吸哮喘</th>
+          <td>周一上午</td>
+          <td>副主任</td>
+          <td>17</td>
+          <td>王薇</td>
+          <td>副主任</td>
+          <td>二楼九诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">呼吸哮喘</th>
+          <td>周二上午</td>
+          <td>特需</td>
+          <td>208</td>
+          <td>王薇</td>
+          <td>副主任</td>
+          <td>二楼十二诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">哮喘</th>
+          <td>周二上午</td>
+          <td>专科</td>
+          <td>14</td>
+          <td>钟文伟</td>
+          <td>主治医</td>
+          <td>二楼八诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">呼吸哮喘</th>
+          <td>周二下午</td>
+          <td>副主任</td>
+          <td>17</td>
+          <td>周拥</td>
+          <td>副主任</td>
+          <td>二楼九诊区</td>
+        </tr>
+        <tr class="active">
+          <th scope="row">呼吸哮喘</th>
+          <td>周三上午</td>
+          <td>副主任</td>
+          <td>17</td>
+          <td>殷勇</td>
+          <td>副主任</td>
+          <td>二楼九诊区</td>
+        </tr>
+        <tr class="active">
+          <th scope="row">呼吸哮喘</th>
+          <td>周三上午</td>
+          <td>特需</td>
+          <td>208</td>
+          <td>张皓</td>
+          <td>副主任</td>
+          <td>二楼十二诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">呼吸哮喘</th>
+          <td>周三下午</td>
+          <td>副主任</td>
+          <td>17</td>
+          <td>王薇</td>
+          <td>副主任</td>
+          <td>二楼九诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">肺功能门诊</th>
+          <td>周三下午</td>
+          <td>副主任</td>
+          <td>17</td>
+          <td>张皓</td>
+          <td>副主任</td>
+          <td>一楼肺功能室</td>
+        </tr>
+        <tr>
+          <th scope="row">呼吸哮喘</th>
+          <td>周四上午</td>
+          <td>特需</td>
+          <td>208</td>
+          <td>王薇</td>
+          <td>副主任</td>
+          <td>二楼十二诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">哮喘</th>
+          <td>周四上午</td>
+          <td>专科</td>
+          <td>14</td>
+          <td>钟文伟</td>
+          <td>主治医</td>
+          <td>二楼八诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">呼吸哮喘</th>
+          <td>周四下午</td>
+          <td>专科</td>
+          <td>14</td>
+          <td>袁姝华</td>
+          <td>主治医</td>
+          <td>二楼八诊区</td>
+        </tr>
+        <tr class="active">
+          <th scope="row">呼吸哮喘</th>
+          <td>周四下午</td>
+          <td>副主任</td>
+          <td>17</td>
+          <td>张皓</td>
+          <td>副主任</td>
+          <td>二楼九诊区</td>
+        </tr>
+        <tr class="active">
+          <th scope="row">呼吸哮喘</th>
+          <td>周五全天</td>
+          <td>特需</td>
+          <td>208</td>
+          <td>殷勇</td>
+          <td>副主任</td>
+          <td>二楼十二诊区</td>
+        </tr>
+        <tr class="active">
+          <th scope="row">呼吸哮喘</th>
+          <td>周五下午</td>
+          <td>专科</td>
+          <td>14</td>
+          <td>张静</td>
+          <td>主治医</td>
+          <td>二楼八诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">肺功能门诊</th>
+          <td>周五下午</td>
+          <td>副主任</td>
+          <td>17</td>
+          <td>张皓</td>
+          <td>副主任</td>
+          <td>一楼肺功能室</td>
+        </tr>
+        <tr>
+          <th scope="row">呼吸哮喘</th>
+          <td>周六上午</td>
+          <td>特需</td>
+          <td>208</td>
+          <td>张皓</td>
+          <td>副主任</td>
+          <td>二楼十二诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">哮喘</th>
+          <td>周六上午</td>
+          <td>照顾特需</td>
+          <td>58</td>
+          <td>轮流</td>
+          <td>副主任/主治医</td>
+          <td>二楼八诊区</td>
+        </tr>
+      </tbody>
+    </table>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <ul>
+            <li>上表仅供参考，具体安排以实际为准。</li>
+            <li>表格中“灰色部分”为推荐出院后门诊随访时间和医生信息。</li>
+            <li>法定节假日门诊暂停。</li>
+            <li>在极少情况下会遇到医生临时有事暂停当天门诊，我院便民服务中心会通知您取消门诊，
+            再预约其他时间的门诊。</li>
+            </ul>
+            ]]>
+        </detail>
+    </content>
+
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

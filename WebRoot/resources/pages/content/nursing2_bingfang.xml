@@ -29,31 +29,39 @@
   <strong>病房护理知识</strong>
   </a>
   <a href="../../resources/pages/detail_content.jsp?name=zhuyuanxuanjiao" class="list-group-item">
-  呼吸科住院宣教
+  呼吸科入科宣教
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=zhuankexuanjiao" class="list-group-item">
+  呼吸科专科宣教
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
   <a href="../../resources/pages/detail_content.jsp?name=gaozhishu" class="list-group-item">
   病房陪护探视告知书
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=wuhua" class="list-group-item">
-  储雾罐使用指南
+  <a href="../../resources/pages/detail_content.jsp?name=zhuyuanjijin" class="list-group-item">
+  如何办理少儿住院基金
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=wuhuavideo" class="list-group-item">
-  储雾罐使用指南(视频）
+  <a href="../../resources/pages/detail_content.jsp?name=chuyuan" class="list-group-item">
+  如何办理出院
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
   <a href="../../resources/pages/detail_content.jsp?name=paitan" class="list-group-item">
   如何拍背排痰
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
   <a href="../../resources/pages/detail_content.jsp?name=ganran" class="list-group-item">
   如何预防住院交叉感染
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="../../resources/pages/detail_content.jsp?name=biaoxian" class="list-group-item">
-  住院患儿表现及应对
-  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
   <a href="../../resources/pages/detail_content.jsp?name=liuzhi" class="list-group-item">
   静脉留置针的护理知识
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=biaoxian" class="list-group-item">
+  住院患儿表现及应对
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
 </div>

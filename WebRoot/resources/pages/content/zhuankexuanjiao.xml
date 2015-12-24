@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            呼吸科住院专科宣教
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>
+            <![CDATA[
+            呼吸科住院专科宣教<a href="top"> </a>
+            ]]>
+            </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>title_green</type>
+        <detail>
+            <![CDATA[
+            各位亲爱的家长:
+            <br/>
+            <br/>
+            呼吸科医护团队精心为您准备了专科护理知识，希望能帮助您更好的照顾宝宝，并通过我们的治疗和精心护理，
+            让宝宝可以尽早出院！
+            ]]>
+        </detail>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+<div class="list-group">
+  <a href="#" class="list-group-item active disabled list-group-item-danger">
+  <strong>这里将向您介绍以下方面:</strong>
+  </a>
+  <a href="#1" class="list-group-item">
+  正确的拍背排痰方法
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#2" class="list-group-item">
+  雾化吸入的注意事项
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#3" class="list-group-item">
+ 预防交叉感染
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+</div>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>squre_box</type>
+        <detail>
+            <![CDATA[
+           一、正确的拍背排痰方法<a name="1">:</a>
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+    <type>dot_box</type>
+    <detail>
+        <![CDATA[
+            拍背排痰是通过胸壁震动气道，使附着在肺、毛细支气管内的分泌物脱落，通过体位引流，
+            使分泌物到达支气管、气管，最后通过患儿咳嗽排出体外。适用于无力咳嗽，痰液过多不易咳出的患儿。
+            <br/>
+            <br/>
+            下面我们将向您介绍拍背排痰所需的工具和操作步骤。
+            ]]>
+    </detail>
+</content>
+
+<content>
+<type>panel_red</type>
+<title>设备</title>
+<body>
+    <![CDATA[
+             <li>手掌：手掌弓起如杯状，手腕保持放松，做上下叩击动作。</li>
+             <li>拍痰杯</li>
+             ]]>
+</body>
+</content>
+
+<content>
+<type>img</type>
+<src>resources/img/paitan/手掌.jpg</src>
+</content>
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+<content>
+<type>img</type>
+<src>resources/img/paitan/排痰杯.jpg</src>
+</content>
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+
+<content>
+<type>panel_green</type>
+<title>拍背排痰步骤：</title>
+<body>
+    <![CDATA[
+    <li>协助患儿侧躺，拍背时患儿的皮肤需一薄层的衣服即可。 </li>
+    <li>拍背排痰时机：患儿饭前或饭后1小时后执行，以防呕吐（雾化吸入后效果最佳）。</li>
+    <li>拍背排痰时间：一天2到3次，每次10分钟左右，可视情况增加次数。拍背频率为40-60次/分。</li>
+    <li>在肺区移动性地叩击。                </li>
+             ]]>
+</body>
+</content>
+
+<content>
+<type>img</type>
+<src>resources/img/paitan/拍背.jpg</src>
+</content>
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+
+<content>
+<type>panel_green</type>
+<title>注意事项：</title>
+<body>
+    <![CDATA[
+    <li>勿拍打在骨凸处，如：脊柱、胸骨、肩胛骨以及腹部、后腰肾脏处。</li>
+    <li>拍背时患儿的皮肤不宜盖厚质料的衣物如毛毯、毛巾、毛衣，会吸收振动，减弱拍背排痰的效果。</li>
+    <li>如有下列情节时勿叩击：肺部外伤、脊柱骨折、肺出血、肺血栓症、肋骨有转移性病灶、哮喘发作、<strong class="text-danger">肺脓肿、异物</strong>、颅内压增高等。</li>
+    <li>患儿卧位时拍背效果更佳。
+             ]]>
+</body>
+</content>
+
+
+<content>
+<type>panel_yellow</type>
+<title>教导有效咳痰的方法：</title>
+<body>
+    <![CDATA[
+    拍背后鼓励患儿以鼻子慢慢深吸气，吸饱气后屏住气，几秒后接连2-3次咳嗽动作将痰液咳出（如患儿太虚弱，则于拍背后请护理人员吸痰）。
+         <br/>
+         <br/>
+    <strong class="text-danger">太粘稠的痰液，很难只靠排痰排出，应请医生加以评估决定辅助方式。</strong>
+    ]]>
+</body>
+</content>
+
+    <content>
+        <type>squre_box</type>
+        <detail>
+            <![CDATA[
+           二、雾化吸入的注意事项<a name="2">:</a>
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>雾化吸入治疗是指将药物通过雾化装置变成细微的雾状颗粒，随着自然呼吸直接将药物吸入呼吸道，达到治疗的目的。
+        雾化吸入不需要孩子的主动配合，可用于任何年龄和状体的患儿，是目前治疗呼吸系统疾病给药途径之一</detail>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>雾化吸入治疗注意事项：</title>
+        <body>
+            <![CDATA[
+            <li>吸入前请不要抹油性面霜；</li>
+            <li>雾化时请患儿进行慢而深的吸气，吸气末稍停片刻，使雾滴吸入更深；</li>
+            <li>雾化吸入后应及时漱口，减少药物在口咽部沉积；</li>
+            <li>使用面罩吸入后请洗脸；</li>
+            <li>为了更好的让婴幼儿配合雾化治疗，建议喂奶或安抚入睡后进行雾化治疗；</li>
+            <li>雾化面罩必须紧贴口鼻部，避免漏气造成疗效下降。</li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>如何正确使用雾化装置</title>
+        <body>
+            <![CDATA[
+            <li>使用面罩式吸入方法：</li>
+            <ol>
+            <li>根据儿童的姿势，调整角度和位置；</li>
+            <li>喷雾器要一直保持竖直向上，倾斜角度不要超过45°，防止药液从杯口溢出，从而影响治疗效果；</li>
+            <li>把面罩罩住口鼻，用力适当。</li>
+            </ol>
+            <hr/>
+            <li>学习正确的呼吸节律:</li>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在进行吸入治疗的最初阶段，很多儿童会感觉很难把握正确的呼吸节律，很容易由于呼吸过快(换气
+            过度)导致眩晕或恶心。在这种情况下，可以拿开喷雾器用鼻部轻松呼吸几次，待不适感觉消失后再继续
+            进行治疗。此种方法也适用于在吸入治疗过程中突然想要咳嗽的儿童。
+            <hr/>
+            <li><strong class="text-danger">注意：每次的雾化液为2-5毫升，通常每次雾化吸入的时间大约为5-10分钟。</strong></li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>雾化器的清洁步骤</title>
+        <body>
+            <![CDATA[
+            <strong class="text-danger">为防止药物结晶堵塞喷追，使用完毕后，一定要及时清洗雾化器，具体步骤如下:</strong>
+            <ol>
+            <li>将使用完毕的雾化器橙色内芯打开，连同面罩一起用清水冲洗干净；</li>
+            <li>将雾化器与面罩放入干净的盒内用温水泡五分钟后晾干；</li>
+            <li>雾化器完全干燥后将导管外壁擦拭干净，放入盒内备用；</li>
+            <li>清洗及浸泡时请用温水，注意连接管不需清洗。</li>
+            <hr/>
+            <strong class="text-danger">注意:每次到医院就诊前，请带上雾化装置以备使用。</strong>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>清洁和保管面罩</title>
+        <body>
+            <![CDATA[
+           雾化面罩使用后请您及时清洗浸泡晾干（无需浸泡），并装进袋子里，勿悬挂在外。
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuankexuanjiao/1.png</src>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhuankexuanjiao/2.png</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>squre_box</type>
+        <detail>
+            <![CDATA[
+           三、防交叉感染宣教<a name="3">:</a>
+           ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            您宝宝住院的病房主要是以感染性疾病为主
+            大部分均有发热、咳嗽和喘息症状。儿童免疫屏障功能处于生理性低下期，
+            在住院期间很容易有再次感染或交叉感染的可能，如何减少再次感染或交叉感染，
+            避免二次伤害，危及生命？请各位家长从自身做起，请遵守医院的规章制度：
+            <strong class="text-danger">一人陪客制</strong>。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>请认真阅读入科宣教单</title>
+        <img_body>
+            resources/img/zhuankexuanjiao/3.png
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title>注意保持病室环境整洁</title>
+        <img_body>
+            resources/img/zhuankexuanjiao/4.jpg
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>合理安排床头柜</title>
+        <img_body>
+            resources/img/ganran/5.jpg
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>毛巾请挂于床头柜侧面的挂钩上
+        </title>
+        <img_body>
+            resources/img/ganran/4.jpg
+        </img_body>
+    </content>
+
+
+    <content>
+        <type>panel_green</type>
+        <title>请保持窗台整洁
+        </title>
+        <img_body>
+            resources/img/zhuankexuanjiao/5.jpg
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>接触宝宝前一定要洗手，应急时可用免洗液
+        </title>
+        <img_body>
+            resources/img/ganran/8.jpg
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_red</type>
+        <title>戴口罩时一定要罩住口鼻</title>
+        <img_body>
+            resources/img/ganran/9.jpg
+        </img_body>
+    </content>
+
+    <content>
+        <type>panel_green</type>
+        <title> 用流动水洗手时，请使用具有消毒作用的洗手液</title>
+        <img_body>
+            resources/img/ganran/10.jpg
+        </img_body>
+    </content>
+
+
+    <content>
+        <type>panel_blue</type>
+        <title>在走廊的墙壁上也可以看到陪护、探视注意事项。</title>
+        <img_body>
+            resources/img/ganran/11.jpg
+        </img_body>
+    </content>
+    <content>
+        <type>panel_red</type>
+        <title>其他事项：</title>
+        <body>
+            <![CDATA[
+            <li><strong>
+            每位患儿陪护一人，陪护人员加强洗手，接触患儿前请洗手，并自觉戴口罩做好防护措施。
+            </strong></li>
+            <li><strong class="text-danger">
+            8:30-11:00为查房时间，谢绝家长进入病房探视（如需病情咨询，建议下午询问床位医生或主治医生。）
+            </strong></li>
+            <li><strong>
+             为了您宝宝的健康，减少交叉感染，谢谢配合。探视时注意文明用语，避免打扰他人休息。
+            </strong></li>
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

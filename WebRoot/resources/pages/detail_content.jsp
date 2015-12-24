@@ -76,7 +76,7 @@
 %>
   <tb>
     <tr>
-      <img class="img-responsive" class="center-block" width=100% src="<%=basePath%><%=hash_for_content.get("src")%>">
+      <img width=90% src="<%=basePath%><%=hash_for_content.get("src")%>" class="img-rounded img-thumbnail">
         <% if (hash_for_content.containsKey("url") ) {%>
       </a>
       <%}%>
@@ -194,7 +194,7 @@
          } else if ( hash_for_content.get("type").equals("img_with_intro")) {
          %>
                 <p><%=hash_for_content.get("detail")%></p>
-                <img class="img-responsive" class="center-block" width=100% src="<%=basePath%><%=hash_for_content.get("src")%>">
+                <img width=90% src="<%=basePath%><%=hash_for_content.get("src")%>" class="img-rounded img-thumbnail">
         <%
         } else if ( hash_for_content.get("type").equals("dot_box")) {
         %>
@@ -207,6 +207,35 @@
                 </section>
                 <br/>
          <%
+         }else if ( hash_for_content.get("type").equals("squre_box")) { %>
+                <section class="wxqq Powered-by-WeixinQuanquan.com">
+                    <section style="border: none rgb(255, 129, 36); margin-top: 0.5em; margin-bottom: 0.5em; text-align: center; font-family: inherit; font-weight: inherit; text-decoration: inherit; color: rgb(255, 129, 36); box-sizing: border-box; background-color: rgb(245, 238, 232);" class="tn-Powered-by-Weixinquanquan">
+                        <section style="width: 100%; display: inline-block; vertical-align: top; box-sizing: border-box;" class="tn-Powered-by-Weixinquanquan" data-width="100%">
+                            <section style="width: 100%; box-sizing: border-box;" class="tn-Powered-by-Weixinquanquan" data-width="100%">
+                                <section style="width: 0px; border-top-width: 1em; border-top-style: solid; border-top-color: #00bbec; float: left; border-left-width: 1em; border-left-style: solid; border-left-color: #00bbec; border-right-width: 1em !important; border-right-style: solid !important; border-right-color: transparent !important; border-bottom-width: 1em !important; border-bottom-style: solid !important; border-bottom-color: transparent !important; box-sizing: border-box;" class="tn-Powered-by-Weixinquanquan wxqq-borderLeftColor wxqq-borderTopColor">
+                                </section>
+                                <section style="width: 0px; border-top-width: 1em; border-top-style: solid; border-top-color: rgb(207, 190, 120); float: right; border-right-width: 1em; border-right-style: solid; border-right-color: rgb(207, 190, 120); border-left-width: 1em !important; border-left-style: solid !important; border-left-color: transparent !important; border-bottom-width: 1em !important; border-bottom-style: solid !important; border-bottom-color: transparent !important; box-sizing: border-box;" class="tn-Powered-by-Weixinquanquan">
+                                </section>
+                            </section>
+                            <section style="width: 100%; padding-top: 2em; padding-right: 0.5em; padding-left: 0.5em; box-sizing: border-box;" class="tn-Powered-by-Weixinquanquan" data-width="100%">
+                                <p style="box-sizing: border-box;">
+                                    <%=hash_for_content.get("detail")%>
+                                </p>
+                            </section>
+                            <section style="display: inline-block; vertical-align: top; width: 100%; box-sizing: border-box;" class="tn-Powered-by-Weixinquanquan" data-width="100%">
+                                <section style="width: 0px; float: left; border-left-width: 1em; border-left-style: solid; border-left-color: rgb(207, 190, 120); border-bottom-width: 1em; border-bottom-style: solid; border-bottom-color: rgb(207, 190, 120); border-top-width: 1em !important; border-top-style: solid !important; border-top-color: transparent !important; border-right-width: 1em !important; border-right-style: solid !important; border-right-color: transparent !important; box-sizing: border-box;" class="tn-Powered-by-Weixinquanquan">
+                                </section>
+                                <section style="width: 0px; float: right; display: inline-block; border-right-width: 1em; border-right-style: solid; border-right-color: #00bbec; border-bottom-width: 1em; border-bottom-style: solid; border-bottom-color: #00bbec; border-top-width: 1em !important; border-top-style: solid !important; border-top-color: transparent !important; border-left-width: 1em !important; border-left-style: solid !important; border-left-color: transparent !important; box-sizing: border-box;" class="tn-Powered-by-Weixinquanquan wxqq-borderRightColor wxqq-borderBottomColor">
+                                </section>
+                            </section>
+                        </section>
+                        <section style="width: 0px; height: 0px; clear: both;">
+                        </section>
+                    </section>
+                </section>
+
+
+                <%
         } else if ( hash_for_content.get("type").equals("collapse")) {
             boolean first_collapse = false;
                 if (hash_for_content_all.containsKey(String.valueOf(i-1))) {

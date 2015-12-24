@@ -28,7 +28,7 @@
     </content>
 
     <content>
-        <type>dot_box</type>
+        <type>title_blue</type>
         <detail>
             <![CDATA[
             各位亲爱的家长:
@@ -42,45 +42,48 @@
 
 
     <content>
-        <type>panel_red</type>
-        <title>这里将向您介绍以下方面</title>
-        <body>
+        <type>html</type>
+        <detail>
             <![CDATA[
 
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#1">
-        环境介绍
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
+<div class="list-group">
+  <a href="#" class="list-group-item active disabled list-group-item-danger">
+  <strong>这里将向您介绍以下方面:</strong>
+  </a>
+
+  <a href="#1" class="list-group-item">
+              环境介绍
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#2" class="list-group-item">
+              饮食介绍
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#3" class="list-group-item">
+              安全宣教
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#4" class="list-group-item">
+  护理配合注意事项
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#5" class="list-group-item">
+  检查指导
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#6" class="list-group-item">
+  病情咨询
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#7" class="list-group-item">
+  友情提示
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#8" class="list-group-item">
+  便民服务
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+</div>
 
 
-            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#2">饮食介绍
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#3">安全宣教
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#4">护理配合注意事项
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#5">检查指导
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#6">病情咨询
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#7">友情提示
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-            <ul class="nav nav-tabs nav-stacked"><li><a tabindex="1" href="#8">便民服务
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
             ]]>
-        </body>
+        </detail>
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            一、环境介绍<a name="1">:</a>
@@ -150,7 +153,7 @@
             <![CDATA[
             <li>
             在3081治疗室的隔壁是茶水间，24小时供应热水和温水。
-            为了宝宝的安全，请不要让您的孩子进入茶水间。住院期间<code>禁止</code>带入热水瓶，以免造成烫伤事故:
+            为了宝宝的安全，请不要让您的孩子进入茶水间。住院期间<strong class="text-danger">禁止</strong>带入热水瓶，以免造成烫伤事故:
             </li>
             ]]>
         </detail>
@@ -240,7 +243,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            二、饮食介绍<a name="2">:</a>
@@ -274,7 +277,7 @@
         </detail>
     </content>
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            三、安全介绍<a name="3">:</a>
@@ -319,7 +322,7 @@
         <type>img_with_intro</type>
         <detail>
             <![CDATA[
-            <li> 请<code>不要</code>让宝宝在床上蹦跳！ </li>
+            <li> 请<strong class="text-danger">不要</strong>让宝宝在床上蹦跳！ </li>
             <li> 会走路的孩子以下床活动为主!</li>
             ]]>
         </detail>
@@ -330,11 +333,11 @@
         <type>img_with_intro</type>
         <detail>
             <![CDATA[
-            <li> <code>任何盛有开水的容器</code>一律置于宝宝触不到的地方，
-            <code>切记！</code> </li>
-            <li><code>杜绝将开水带到病房！</code></li>
-            <li>防烫伤<code>自己的宝宝</code>，也要防烫伤
-            <code>其他住院患儿！</code></li>
+            <li> <strong class="text-danger">任何盛有开水的容器</strong>一律置于宝宝触不到的地方，
+            <strong class="text-danger">切记！</strong> </li>
+            <li><strong class="text-danger">杜绝将开水带到病房！</strong></li>
+            <li>防烫伤<strong class="text-danger">自己的宝宝</strong>，也要防烫伤
+            <strong class="text-danger">其他住院患儿！</strong></li>
             ]]>
         </detail>
         <src>resources/img/zhuyuanxuanjiao/22.jpg</src>
@@ -404,7 +407,7 @@
         </detail>
     </content>
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            四、护理配合注意事项<a name="4">:</a>
@@ -457,7 +460,7 @@
             抽血或打针后请您保持按压出血点10分钟。
             </li>
             <li>
-            如果您的宝宝需要用青霉素治疗，我们会为您的宝宝做青霉素皮试，<code>20分钟</code>后需观看皮试结果。所以请勿
+            如果您的宝宝需要用青霉素治疗，我们会为您的宝宝做青霉素皮试，<strong class="text-danger">20分钟</strong>后需观看皮试结果。所以请勿
             在这段时间内将宝宝带离病房，逾时需重新再做青霉素皮试。
             </li>
             ]]>
@@ -472,7 +475,7 @@
         </detail>
     </content>
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
           五、检查指导<a name="5">:</a>
@@ -513,7 +516,7 @@
         </detail>
     </content>
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            六、病情咨询<a name="6">:</a>
@@ -544,7 +547,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            七、友情提示<a name="7">:</a>
@@ -643,7 +646,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            八、便民服务<a name="8">:</a>

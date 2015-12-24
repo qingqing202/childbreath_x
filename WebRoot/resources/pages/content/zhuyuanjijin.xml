@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            少儿住院基金办理流程
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>
+            <![CDATA[
+            少儿住院基金办理流程
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>title_green</type>
+        <detail>
+            <![CDATA[
+            各位亲爱的家长：
+            <br/>
+            <br/>
+            如果您的孩子已经缴纳上海少儿住院基金，请在宝宝入院后<strong class="text-danger">尽快办理</strong>上海少儿住院基金手续。具体办理流程如下：
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <detail>
+            <![CDATA[
+            <ol>
+            <li>护士站提供<strong class="text-info">"入院申请单"</strong><strong class="text-danger">原件</strong>。</li>
+
+            <li>凭<strong class="text-danger">原件</strong>至
+            <strong class="text-info">门诊大楼</strong><strong class="text-danger">一楼商务中心</strong>复印。</li>
+
+            <li><strong class="text-info">"入院申请单"</strong><strong class="text-danger">原件</strong>归还病区护士。</li>
+
+            <li>凭<strong class="text-info">"入院申请单"</strong><strong class="text-danger">复印件</strong>
+            到<strong class="text-info">"少儿基金购买处"</strong><strong class="text-danger">(社区服务中心/幼儿园/学校)</strong>
+            开相应证明。
+            </li>
+
+
+            <li><strong class="text-info">"少儿住院基金证明"</strong>交至<strong class="text-info">出入院处6号窗口。</strong>
+            <strong class="text-danger">(跨区域住院患儿如需转院申请在规定时间内办理)</strong>
+            </ol>
+            备注：<strong class="text-info">转院单</strong>需至<strong class="text-info">户籍所在地</strong>
+            <strong class="text-danger">二级医院</strong>办理转院手续。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>panel_blue</type>
+        <title>您也可以在走廊墙壁上找到办理手续介绍</title>
+        <img_body>
+                resources/img/jijin/jijin.jpg
+        </img_body>
+    </content>
+
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <hr /> ]]>
+</detail>
+</content>
+<content>
+<type>img</type>
+<src>resources/img/qcode.jpg</src>
+</content>
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+</content_home>

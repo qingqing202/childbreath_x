@@ -28,7 +28,7 @@
     </content>
 
     <content>
-        <type>dot_box</type>
+        <type>title_blue</type>
         <detail>
             <![CDATA[
             尊敬的家长:
@@ -41,62 +41,45 @@
         </detail>
     </content>
 
+
     <content>
         <type>html</type>
         <detail>
             <![CDATA[
-            <br/>
+
+<div class="list-group">
+  <a href="#" class="list-group-item active disabled list-group-item-danger">
+  <strong>这里将向您介绍以下方面:</strong>
+  </a>
+
+  <a href="#1" class="list-group-item">
+              0-6月龄婴儿喂养指南
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#2" class="list-group-item">
+              6-12月龄婴儿喂养指南
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#3" class="list-group-item">
+              1-3岁幼儿喂养指南
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#4" class="list-group-item">
+  学龄前儿童膳食指南
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#5" class="list-group-item">
+  儿童青少年膳食指南
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#6" class="list-group-item">
+              如何给患儿喂食/水
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#7" class="list-group-item">
+  婴儿乳瓶喂乳法
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+</div>
             ]]>
         </detail>
     </content>
 
     <content>
-        <type>panel_red</type>
-        <title>这里将向您介绍：</title>
-        <body>
-            <![CDATA[
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#1">
-            0-6月龄婴儿喂养指南
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#2">
-            6-12月龄婴儿喂养指南
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#3">
-            1-3岁幼儿喂养指南
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#4">
-            学龄前儿童膳食指南
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#5">
-            儿童青少年膳食指南
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#6">
-            如何给患儿喂食/水
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#7">
-            婴儿乳瓶喂乳法
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-            ]]>
-        </body>
-    </content>
-
-    <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            一、<a name="1"></a>0月～6月龄婴儿喂养指南
@@ -135,7 +118,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="2"></a>二、6月～12月龄婴儿喂养指南
@@ -192,7 +175,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="3"></a>三、1岁～3岁幼儿喂养指南
@@ -229,7 +212,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="4"></a>四、学龄前儿童膳食指南
@@ -266,7 +249,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="5"></a> 五、儿童青少年膳食指南
@@ -293,7 +276,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="6"></a> 六、如何给患病的孩子喂食/水
@@ -330,7 +313,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="7"></a> 七、婴儿奶瓶喂养法

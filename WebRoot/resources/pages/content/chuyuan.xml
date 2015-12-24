@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            上海儿童医学中心呼吸科出院告知书
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>
+            <![CDATA[
+            上海儿童医学中心呼吸科出院告知书
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>title_green</type>
+        <detail>
+            <![CDATA[
+            各位亲爱的家长：
+            <br/>
+            <br/>
+            您好！您的孩子经过我科治疗后，目前符合出院条件，准备予以出院，现向您告知相关出院手续办理流程以及出院后复查呼吸专科门诊的预约步骤。
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>half_box_red</type>
+        <detail>
+            <![CDATA[
+            <ol>
+            <li>医生查房通知出院时间以及大致的随访日期（一般为1-2周，特殊情况例外）</li>
+            <li>床位护士告知办理出院流程，指导出院后药物治疗及相关注意事项</li>
+            <li>护士台文员处预约出院后呼吸门诊随访的日期和具体医生（必须在结账前办理）
+（预约医生门诊时间采取自愿与指定相结合的原则，部分患儿可能不需要随访）
+</li>
+            <li>出院当天，携带医保卡（上海）或磁卡（外地或自费病人）和住院押金单
+到门诊大楼一楼出入院处结账（不需要呼吸科提供额外的证明）
+</li>
+            <li>返回病区护士台，退回陪客证，返还押金，签收和领取出院小结</li>
+            <li>出院后按医嘱用药，按照预约的时间就诊
+请在就诊当日带好出院小结，在指定的门诊区域就诊，不是到病房就诊
+如有变动提前告知38626161*83677（至少提前1天）
+如有爽约，可能会被取消今后的预约权
+</li>
+            </ol>
+
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <a class="btn btn-default" href="../../resources/pages/detail_content.jsp?name=menzhenbiao" role="button">
+            点击查看上海儿童医学中心呼吸专科医生门诊一览表。
+            </a>
+             ]]>
+        </detail>
+    </content>
+
+
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <hr /> ]]>
+</detail>
+</content>
+<content>
+<type>img</type>
+<src>resources/img/qcode.jpg</src>
+</content>
+<content>
+<type>html</type>
+<detail>
+    <![CDATA[ <br /> ]]>
+</detail>
+</content>
+</content_home>

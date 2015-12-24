@@ -28,7 +28,7 @@
     </content>
 
     <content>
-        <type>dot_box</type>
+        <type>title_green</type>
         <detail>
             <![CDATA[
             尊敬的家长:
@@ -50,42 +50,36 @@
     </content>
 
     <content>
-        <type>panel_red</type>
-        <title>这里将向您介绍以下方面</title>
-        <body>
+        <type>html</type>
+        <detail>
             <![CDATA[
+<div class="list-group">
+  <a href="#" class="list-group-item active disabled list-group-item-danger">
+  <strong>这里将向您介绍以下方面:</strong>
+  </a>
 
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#1">
-            正确的喂药技巧
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#2">
-            喂药的常见误区
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#3">
-            静脉留置期间注意事项
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#4">
-            测量体温
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#5">
-            雾化给药配合事项
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
+  <a href="#1" class="list-group-item">
+              正确的喂药技巧
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#2" class="list-group-item">
+              喂药的常见误区
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#3" class="list-group-item">
+              静脉留置期间注意事项
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#4" class="list-group-item">
+  测量体温
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#5" class="list-group-item">
+  雾化给药配合事项
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+</div>
             ]]>
-        </body>
+        </detail>
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            一、<a name="1"></a>正确的喂药技巧
@@ -182,7 +176,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="2"></a>二、喂药的常见误区
@@ -244,7 +238,7 @@
         </detail>
     </content>
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="3"></a>三、静脉留置期间的注意事项
@@ -281,11 +275,11 @@
 </li>
 <li>有静脉留置侧的手或脚不要用力过猛和扭转，以免引起留置针滑脱，影响第二天的输液。
 </li>
-<li>注意保持穿刺部位的清洁和干燥，洗澡时<code>不可</code>浸于水中。
+<li>注意保持穿刺部位的清洁和干燥，洗澡时<strong class="text-danger">不可</strong>浸于水中。
 </li>
 <li>补液结束后手脚部位的留置针可用小毛巾包裹，防止留置针被碰撞和被拉出。
 </li>
-<li>输液过程中请<code>不要</code>自行调节滴速，以免太快造成心脏负荷，或太慢造成血液凝固堵住管子。
+<li>输液过程中请<strong class="text-danger">不要</strong>自行调节滴速，以免太快造成心脏负荷，或太慢造成血液凝固堵住管子。
 </li>
 <li>液过程中，如下床活动，输液袋至注射部位距离应与床上输液时距离相当，以免影响滴速。请不要倒转输液袋，以免点滴不畅或进入空气。
 </li>
@@ -318,7 +312,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="4"></a>四、测量体温
@@ -412,7 +406,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="5"></a> 五、雾化给药配合事项

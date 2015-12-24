@@ -38,35 +38,37 @@
               孩子发烧了怎么办?
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=jujiawuhua" class="list-group-item">
-          居家雾化指南(视频)
-  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-
-  <a href="../../resources/pages/detail_content.jsp?name=xiyang" class="list-group-item">
-  吸氧机的使用
-  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="../../resources/pages/detail_content.jsp?name=xiyangvideo" class="list-group-item">
- 吸氧机的使用(视频)
-  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="../../resources/pages/detail_content.jsp?name=bishi" class="list-group-item">
-  如何在家鼻饲
-  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="../../resources/pages/detail_content.jsp?name=bishivideo" class="list-group-item">
-                              如何在家鼻饲(视频)
-  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
   <a href="../../resources/pages/detail_content.jsp?name=pifu" class="list-group-item">
   婴幼儿皮肤护理
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
   <a href="../../resources/pages/detail_content.jsp?name=fushi" class="list-group-item">
   如何添加辅食
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=bishi" class="list-group-item">
+  居家护理篇:鼻饲
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=bishivideo" class="list-group-item">
+  居家护理篇:鼻饲(视频)
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=xiyang" class="list-group-item">
+  居家护理篇:吸氧
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=xiyangvideo" class="list-group-item">
+ 居家护理篇:吸氧(视频)
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="../../resources/pages/detail_content.jsp?name=xitan" class="list-group-item">
+  居家护理篇:吸痰
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=jujiawuhua" class="list-group-item">
+  居家护理篇:雾化(视频)
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
   <a href="../../resources/pages/detail_content.jsp?name=chouchu" class="list-group-item">
   如何应对婴幼儿抽搐
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="../../resources/pages/detail_content.jsp?name=xitan" class="list-group-item">
-  如何在家吸痰
-  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-
 </div>
             ]]>
         </detail>

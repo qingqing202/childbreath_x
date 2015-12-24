@@ -28,7 +28,7 @@
     </content>
 
     <content>
-        <type>dot_box</type>
+        <type>title_green</type>
         <detail>
             <![CDATA[
             尊敬的家长:
@@ -41,44 +41,38 @@
     </content>
 
     <content>
-        <type>panel_red</type>
-        <title>这里将向您介绍以下方面</title>
-        <body>
+        <type>html</type>
+        <detail>
             <![CDATA[
+<div class="list-group">
+  <a href="#" class="list-group-item active disabled list-group-item-danger">
+  <strong>这里将向您介绍以下方面:</strong>
+  </a>
+
+  <a href="#1" class="list-group-item">
+              住院期间预防跌倒/跌落
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#2" class="list-group-item">
+  在家中预防孩子跌落
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#3" class="list-group-item">
+             预防烫伤（0-5岁儿童）
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#4" class="list-group-item">
+             预防孩子窒息
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#5" class="list-group-item">
+             如何防止交叉感染
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+</div>
 
 
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#1">
-            住院期间预防跌倒/跌落
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#2">
-            在家中预防孩子跌落
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#3">
-            预防烫伤（0-5岁儿童）
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#4">
-            预防孩子窒息
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#5">
-            如何防止交叉感染
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
             ]]>
-        </body>
+        </detail>
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            一、<a name="1"></a>住院期间预防跌倒/跌落:
@@ -117,7 +111,7 @@
         <detail>
             <![CDATA[
             <li>
-            <code>不要</code>跨越床栏
+            <strong class="text-danger">不要</strong>跨越床栏
             </li>
             ]]>
         </detail>
@@ -141,7 +135,7 @@
         <detail>
             <![CDATA[
             <li>
-            <code>不与</code>孩子同睡儿童床
+            <strong class="text-danger">不与</strong>孩子同睡儿童床
             </li>
             ]]>
         </detail>
@@ -197,7 +191,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="2"></a>二、在家中如何预防孩子跌落（0-5岁):
@@ -267,7 +261,7 @@
         </detail>
     </content>
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="3"></a>三、预防孩子烫伤
@@ -350,7 +344,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="4"></a>四、预防孩子窒息
@@ -443,7 +437,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="5"></a> 五、如何防止交叉感染

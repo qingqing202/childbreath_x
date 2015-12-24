@@ -31,10 +31,6 @@
   食品与药物的相互作用
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=digaoxin" class="list-group-item">
-  地高辛药物出院宣教
-  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-
   <a href="../../resources/pages/detail_content.jsp?name=sunerning" class="list-group-item">
   顺尔宁药物出院宣教
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
@@ -44,6 +40,22 @@
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
   <a href="../../resources/pages/detail_content.jsp?name=suli" class="list-group-item">
               舒利迭使用方法(视频)
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=suli" class="list-group-item">
+              舒利迭使用方法(视频)
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=wuhua" class="list-group-item">
+  储雾罐使用指南
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=wuhuavideo" class="list-group-item">
+  储雾罐使用指南(视频）
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=jujiawuhua" class="list-group-item">
+  家庭雾化操作指南(视频)
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
             ]]>

@@ -30,11 +30,16 @@
     </content>
 
     <content>
-        <type>panel_red</type>
-        <title>什么胸部物理治疗</title>
-        <body>胸部物理治疗(Chest Physiotherapy, CPT)是指用物理方法来预防或改善气道内分泌物的瘀滞，
+        <type>dot_box</type>
+        <detail>
+            <![CDATA[
+            胸部物理治疗(Chest Physiotherapy, CPT)是指用物理方法来预防或改善气道内分泌物的瘀滞，
         从而防止或逆转其所导致的病理过程的治疗方法。传统方法包括体位引流、胸部叩拍以及呼吸锻炼等，
-        新技术有气道内排击、机械吸呼治疗等。</body>
+        新技术有气道内排击、机械吸呼治疗等。
+        <hr/>
+        我们为您准备了胸部理疗的相关资料，希望能帮助您的宝宝尽快康复。
+        ]]>
+        </detail>
     </content>
 
     <content>

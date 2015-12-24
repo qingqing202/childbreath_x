@@ -28,7 +28,7 @@
     </content>
 
     <content>
-        <type>dot_box</type>
+        <type>title_green</type>
         <detail>
             <![CDATA[
             尊敬的家长:
@@ -44,67 +44,46 @@
         <type>html</type>
         <detail>
             <![CDATA[
-            <br/>
+
+<div class="list-group">
+  <a href="#" class="list-group-item active disabled list-group-item-danger">
+  <strong>这里将向您介绍以下方面:</strong>
+  </a>
+
+  <a href="#1" class="list-group-item">
+              如何给孩子洗脸
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#2" class="list-group-item">
+  如何协助孩子口腔清洁
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#3" class="list-group-item">
+             如何给生病的孩子擦身
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#4" class="list-group-item">
+             如何帮患儿更换衣服
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#5" class="list-group-item">
+             婴儿沐浴注意事项
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#6" class="list-group-item">
+             如何给婴儿更换尿布
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#7" class="list-group-item">
+             会阴部的清洁
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#8" class="list-group-item">
+             肛周清洁
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#9" class="list-group-item">
+             足部清洁
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+</div>
             ]]>
         </detail>
     </content>
 
     <content>
-        <type>panel_red</type>
-        <title>这里将向您介绍以下方面</title>
-        <body>
-            <![CDATA[
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#1">
-            如何给孩子洗脸
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#2">
-            如何协助孩子口腔清洁
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#3">
-            如何给生病的孩子擦身
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#4">
-            如何帮患儿更换衣服
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#5">
-            婴儿沐浴注意事项
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#6">
-            如何给婴儿更换尿布
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#7">
-            会阴部的清洁
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#8">
-            肛周清洁
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#9">
-            足部清洁
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-            ]]>
-        </body>
-    </content>
-
-    <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            一、<a name="1"></a>如何给孩子洗脸
@@ -147,7 +126,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="2"></a>二、如何协助孩子口腔清洁
@@ -231,7 +210,7 @@
         </detail>
     </content>
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="3"></a>三、如何给生病的孩子擦身
@@ -300,7 +279,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="4"></a>四、如何帮生病的孩子更换衣服
@@ -352,7 +331,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="5"></a> 五、婴儿沐浴注意事项
@@ -434,7 +413,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="6"></a> 六、更换尿布
@@ -489,7 +468,7 @@
 
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="7"></a> 七、会阴清洁
@@ -544,7 +523,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="8"></a> 八、肛周清洁
@@ -558,7 +537,7 @@
             <![CDATA[
 物品准备：
             <ul>
-<li>温水<code>（水温控制在380C ～420C）</code>、面盆、软纸巾或干毛巾、必要时备复方新霉素软膏、无菌棉签
+<li>温水<strong class="text-danger">（水温控制在380C ～420C）</strong>、面盆、软纸巾或干毛巾、必要时备复方新霉素软膏、无菌棉签
 </li>
 </ul>
 环境准备：
@@ -588,7 +567,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>squre_box</type>
         <detail>
             <![CDATA[
            <a name="9"></a> 九、足部清洁
