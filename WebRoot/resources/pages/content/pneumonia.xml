@@ -6,7 +6,7 @@
         </name>
     </title>
     <content>
-        <type>img</type>
+        <type>img_no_border</type>
         <src>/resources/img/pneumonia/肺炎.jpg</src>
     </content>
     <content>

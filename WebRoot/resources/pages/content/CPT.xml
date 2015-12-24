@@ -12,7 +12,7 @@
     </content>
 
     <content>
-        <type>img</type>
+        <type>img_no_border</type>
         <src>/resources/img/CPT/CPT.jpg</src>
     </content>
     <content> <type>signature</type>

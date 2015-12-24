@@ -74,14 +74,17 @@
 <%
     } else if (hash_for_content.get("type").equals("img")) {
 %>
-  <tb>
-    <tr>
-      <img width=90% src="<%=basePath%><%=hash_for_content.get("src")%>" class="img-rounded img-thumbnail">
+      <img width=90% src="<%=basePath%><%=hash_for_content.get("src")%>" class="img-rounded img-thumbnail center-block">
         <% if (hash_for_content.containsKey("url") ) {%>
       </a>
       <%}%>
-    </tr>
-  </tb>
+<%
+    } else if (hash_for_content.get("type").equals("img_no_border")) {
+%>
+    <img class="img-responsive" class="center-block" width=100% src="<%=basePath%><%=hash_for_content.get("src")%>">
+        <% if (hash_for_content.containsKey("url") ) {%>
+    </a>
+        <%}%>
 <%
     } else if (hash_for_content.get("type").equals("paragraph")) {
 %>
@@ -91,7 +94,7 @@
 <%
     } else if (hash_for_content.get("type").equals("h1")) {
 %>
-  <h1 class="text-center"><%=hash_for_content.get("detail")%></h1>
+  <h2 class="text-center"><%=hash_for_content.get("detail")%></h2>
 <%
     } else if (hash_for_content.get("type").equals("html")) {
 %>
@@ -194,7 +197,7 @@
          } else if ( hash_for_content.get("type").equals("img_with_intro")) {
          %>
                 <p><%=hash_for_content.get("detail")%></p>
-                <img width=90% src="<%=basePath%><%=hash_for_content.get("src")%>" class="img-rounded img-thumbnail">
+                <img width=90% src="<%=basePath%><%=hash_for_content.get("src")%>" class="img-rounded img-thumbnail center-block">
         <%
         } else if ( hash_for_content.get("type").equals("dot_box")) {
         %>

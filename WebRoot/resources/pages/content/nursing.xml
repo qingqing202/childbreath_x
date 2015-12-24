@@ -7,7 +7,7 @@
     </title>
 
     <content>
-        <type>img</type>
+        <type>img_no_border</type>
         <src>resources/img/hulizhishi.jpg</src>
     </content>
     <content>

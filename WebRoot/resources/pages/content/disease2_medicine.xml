@@ -7,7 +7,7 @@
     </title>
 
     <content>
-        <type>img</type>
+        <type>img_no_border</type>
         <src>resources/img/jibingketang.jpg</src>
     </content>
     <content>
@@ -37,9 +37,6 @@
 
   <a href="../../resources/pages/detail_content.jsp?name=dubao" class="list-group-item">
               都保使用方法（视频）
-  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="../../resources/pages/detail_content.jsp?name=suli" class="list-group-item">
-              舒利迭使用方法(视频)
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
   <a href="../../resources/pages/detail_content.jsp?name=suli" class="list-group-item">
