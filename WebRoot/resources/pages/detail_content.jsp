@@ -28,21 +28,17 @@
   HashMap<String, String> hash_for_title = (HashMap)hash_for_all.get("title");
   HashMap<String, Object> hash_for_content_all= (HashMap)hash_for_all.get("content");
 %>
-<head></head>
-<!--
-<link href="http://v3.bootcss.com/assets/css/docs.min.css" rel="stylesheet">
-<link href="//basePath%>/resources/css/dialogbox.css" rel="stylesheet">
--->
 <head>
 <%@ include file="include/html_head.jsp" %>
-<title><%=hash_for_title.get("name")%></title>
-    <style type="text/css">
-        #backgrd {background: #fffbfb;}
+        <title><%=hash_for_title.get("name")%></title>
+
+        <style type="text/css">
+        #top{background: #fffbfb;}
     </style>
 </head>
 
-<body id="backgrd">
-<div class="container ">
+<body id="top">
+<div class="container">
 <%
     int content_size = hash_for_content_all.size();
     int collapse_group_id = 0;
@@ -236,7 +232,28 @@
                         </section>
                     </section>
                 </section>
+                <%
+                    } else if (hash_for_content.get("type").equals("media")) {
+                %>
 
+                <div class="list-group">
+                    <% if (hash_for_content.containsKey("link")) { %>
+                    <a href="<%=basePath + hash_for_content.get("link")%>" class="list-group-item">
+                        <% } else if (hash_for_content.containsKey("outlink")){ %>
+                    <a href="<%=hash_for_content.get("outlink")%>" class="list-group-item">
+                        <%}%>
+
+                        <div class="media">
+                            <div class="media-left media-middle">
+                                <img class="media-object img-rounded" src="<%=basePath+hash_for_content.get("img_src")%>">
+                            </div>
+                            <div class="media-body">
+                                <h4><%=hash_for_content.get("title")%></h4>
+                                <h4 class="small"><%=hash_for_content.get("body")%></h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
 
                 <%
         } else if ( hash_for_content.get("type").equals("collapse")) {
@@ -312,5 +329,6 @@
 %>
 
             </div>
+
     </body>
 </html>

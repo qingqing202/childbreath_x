@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            哮喘知识
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>哮喘知识</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>media</type>
+        <link>resources/pages/detail_content.jsp?name=asthma</link>
+        <img_src>resources/img/xiaochuan_all/asthma.jpg</img_src>
+        <title>专家话哮喘</title>
+        <body>上海儿童医学中心呼吸科殷勇教授在接受中国医院协会红围巾关爱行动专题节目采访时，为大家介绍了儿童哮喘的诱因与预防...</body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MjM5ODA4MTYwMA==&mid=400701301&idx=1&sn=8a7387475b27dfbf9eaf83eb221981c1&scene=1&srcid=1128lfhvtbSmayR9CJygmBIC&from=singlemessage&isappinstalled=0#wechat_redirect
+            ]]>
+            </outlink>
+        <img_src>resources/img/xiaochuan_all/zhenduan.jpg</img_src>
+        <title>诊断哮喘时，这些病因都考虑了么？(转载)</title>
+        <body>5%-10%的人群受累于哮喘，或者大约2.34千万人，其中包括7百万儿童。WHO报道，每年约25万人死于哮喘...</body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzA3OTA4MjcwOA==&mid=400932364&idx=7&sn=b75df78354ba77738a58d3d76add15e4&scene=1&srcid=1128HBOeZWv8e5oOdQpA1oTp&from=singlemessage&isappinstalled=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/xiaochuan_all/jishu.jpg</img_src>
+        <title>儿童哮喘何必谈"激"色变？(转载)</title>
+        <body>激素到底是个什么鬼？看了下面一段小视频，让您对激素有一个全新的认识！...</body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MjM5OTEzOTUxOQ==&mid=208880784&idx=3&sn=f444c43e6c1a7b8a5771734994c1e8a0&scene=1&srcid=1216UtkAUnz6HhF3NzNuWE7g&from=singlemessage&isappinstalled=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/xiaochuan_all/shangyunxiao.jpg</img_src>
+        <title>规范全身糖皮质激素在儿童哮喘中的应用(转载)</title>
+        <body>对于儿童支气管哮喘（以下简称“哮喘”）等气道慢性炎症性疾病，糖皮质激素作为目前最为有效的抗炎药物在其治疗中具有非常重要的地位...</body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MjM5OTEzOTUxOQ==&mid=208804539&idx=3&sn=7c095a36d46c9a42572084d0a50ffc86&scene=1&srcid=12166w9plCLsoQjWYaSrfPnv&from=singlemessage&isappinstalled=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/xiaochuan_all/shengkun.jpg</img_src>
+        <title>申昆玲教授访谈： 我国儿童哮喘管理进展(转载)</title>
+        <body>中华医学会儿科分会哮喘协作组分别在1990年、2000年和2010年进行了3次流行病学调查，结果显示，我国儿童哮喘患病率不断增加，2010年已达3%...</body>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

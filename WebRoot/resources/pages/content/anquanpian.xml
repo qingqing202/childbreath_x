@@ -517,4 +517,14 @@
             <![CDATA[ <br /> ]]>
         </detail>
     </content>
+
+    <content>
+        <type>media</type>
+        <img_src>resources/img/blogo1.jpg</img_src>
+        <link>#1</link>
+        <title>test</title>
+        <body>testtttttttttttttt</body>
+    </content>
+
+
 </content_home>
