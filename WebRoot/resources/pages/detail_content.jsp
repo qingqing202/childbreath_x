@@ -243,13 +243,16 @@
                     <a href="<%=hash_for_content.get("outlink")%>" class="list-group-item">
                         <%}%>
 
+                        <h4><%=hash_for_content.get("title")%></h4>
+                        <hr style="margin:0"/>
                         <div class="media">
                             <div class="media-left media-middle">
-                                <img class="media-object img-rounded" src="<%=basePath+hash_for_content.get("img_src")%>">
+                                <img class="media-object img-rounded" height="70px" width="70px" src="<%=basePath+hash_for_content.get("img_src")%>">
                             </div>
                             <div class="media-body">
-                                <h4><%=hash_for_content.get("title")%></h4>
-                                <h4 class="small"><%=hash_for_content.get("body")%></h4>
+                                <h4>
+                                <small><%=hash_for_content.get("body")%></small>
+                                    </h4>
                             </div>
                         </div>
                     </a>

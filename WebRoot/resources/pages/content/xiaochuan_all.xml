@@ -35,12 +35,29 @@
         <type>media</type>
         <outlink>
             <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=402332230&idx=1&sn=6337159d93cd8e56859bb8dbfad177ec&scene=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/xiaochuan_all/manxingkeshou.jpg</img_src>
+        <title>儿童慢性咳嗽诊断与治疗</title>
+        <body>咳嗽是气道重要的防御反射。咳嗽能产生强大的呼气气流，对清除气道黏液和异物是有益的...</body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
             http://mp.weixin.qq.com/s?__biz=MjM5ODA4MTYwMA==&mid=400701301&idx=1&sn=8a7387475b27dfbf9eaf83eb221981c1&scene=1&srcid=1128lfhvtbSmayR9CJygmBIC&from=singlemessage&isappinstalled=0#wechat_redirect
             ]]>
             </outlink>
         <img_src>resources/img/xiaochuan_all/zhenduan.jpg</img_src>
-        <title>诊断哮喘时，这些病因都考虑了么？(转载)</title>
-        <body>5%-10%的人群受累于哮喘，或者大约2.34千万人，其中包括7百万儿童。WHO报道，每年约25万人死于哮喘...</body>
+        <title>诊断哮喘时，这些病因都考虑了么？</title>
+        <body>
+            <![CDATA[
+            (转载自医脉通呼吸科微信公众号)<br/>
+            5%-10%的人群受累于哮喘，或者大约2.34千万人，其中包括7百万儿童...
+            ]]>
+            </body>
     </content>
 
     <content>
@@ -51,8 +68,12 @@
             ]]>
         </outlink>
         <img_src>resources/img/xiaochuan_all/jishu.jpg</img_src>
-        <title>儿童哮喘何必谈"激"色变？(转载)</title>
-        <body>激素到底是个什么鬼？看了下面一段小视频，让您对激素有一个全新的认识！...</body>
+        <title>儿童哮喘何必谈"激"色变？</title>
+        <body>
+            <![CDATA[
+            (转载自医学界儿科频道微信公众号)<br/>激素到底是个什么鬼？看了下面一段小视频...
+            ]]>
+        </body>
     </content>
 
     <content>
@@ -63,8 +84,12 @@
             ]]>
         </outlink>
         <img_src>resources/img/xiaochuan_all/shangyunxiao.jpg</img_src>
-        <title>规范全身糖皮质激素在儿童哮喘中的应用(转载)</title>
-        <body>对于儿童支气管哮喘（以下简称“哮喘”）等气道慢性炎症性疾病，糖皮质激素作为目前最为有效的抗炎药物在其治疗中具有非常重要的地位...</body>
+        <title>规范全身糖皮质激素在儿童哮喘中的应用</title>
+        <body>
+            <![CDATA[
+            (转载自中国医学论坛报微信公众号)<br/>对于儿童支气管哮喘等气道慢性炎症性疾病，糖皮质激素...
+            ]]>
+            </body>
     </content>
 
     <content>
@@ -75,8 +100,12 @@
             ]]>
         </outlink>
         <img_src>resources/img/xiaochuan_all/shengkun.jpg</img_src>
-        <title>申昆玲教授访谈： 我国儿童哮喘管理进展(转载)</title>
-        <body>中华医学会儿科分会哮喘协作组分别在1990年、2000年和2010年进行了3次流行病学调查，结果显示，我国儿童哮喘患病率不断增加，2010年已达3%...</body>
+        <title>申昆玲教授访谈： 我国儿童哮喘管理进展</title>
+        <body>
+            <![CDATA[
+            (转载自中国医学论坛报微信公众号)<br/>中华医学会哮喘协作组进行的3次调查显示我国儿童哮喘患病率不断增加...
+            ]]>
+        </body>
     </content>
 
     <content>

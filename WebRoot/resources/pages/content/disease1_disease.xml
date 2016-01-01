@@ -28,8 +28,12 @@
   <strong>疾病知识介绍</strong>
   </a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=asthma" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=xiaochuan_all" class="list-group-item">
   哮喘
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=shanghuxidao_all" class="list-group-item">
+  上呼吸道感染
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
   <a href="../../resources/pages/detail_content.jsp?name=pneumonia" class="list-group-item">

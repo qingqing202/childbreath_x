@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            上呼吸道感染
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>上呼吸道感染的防治</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=402351527&idx=1&sn=a82ab1937089371e5d51c8caa1c7c71e&scene=0#wechat_redirect
+            ]]>
+            </outlink>
+        <img_src>resources/img/shanghuxidao_all/shanghuxi.jpg</img_src>
+        <title>儿童上呼吸道感染的防治
+        </title>
+        <body>呼吸系统疾病是儿童时期的常见病，发病率居儿科疾病首位，其中以急性呼吸道感染最为常见...</body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=402351527&idx=2&sn=742b1e2e161074ff6a8df0d001605a1e&scene=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/shanghuxidao_all/fare.png</img_src>
+        <title>儿童流感防治，你问我答
+        </title>
+        <body>近日，上海儿童专科医院全部爆棚，儿童医院、儿科医院纷纷创下就诊历史纪录...</body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzA3OTA4MjcwOA==&mid=400932364&idx=6&sn=b561b0cf81662270254d3efb23bffa3b&scene=1&srcid=1128sG6p4ZErqPQdcQCj4ItK&from=singlemessage&isappinstalled=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/shanghuxidao_all/shanghuxi2.jpg</img_src>
+        <title>上呼吸道感染的表现及治疗误区
+        </title>
+        <body>
+            <![CDATA[
+             (转载自医学界儿科频道微信公众号)<br/>上呼吸道感染是呼吸内科门诊最常见的疾病，病人到门诊后往往要求输液...
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MjM5NTA5NzYyMA==&mid=401310549&idx=3&sn=5813744ff509462a398201beaf4af392&scene=1&srcid=1127loCy2P5eaqR0GbzKnA6G&from=singlemessage&isappinstalled=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/shanghuxidao_all/shanghuxi3.jpg</img_src>
+        <title>儿科专家教你避开感冒咳嗽诊治5大误区
+        </title>
+        <body>
+            <![CDATA[
+            (转载自上海发布微信公众号)<br/>这几天寒潮来袭，大幅降温，不少医院的儿科门诊人满为患，爸爸妈妈们很着急吧...
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>
