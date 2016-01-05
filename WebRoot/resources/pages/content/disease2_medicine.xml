@@ -24,34 +24,34 @@
         <detail>
             <![CDATA[
 
-  <a href="#" class="list-group-item active disabled list-group-item-success">
+  <a href="#" class="list-group-item active disabled list-group-item-success opacity75">
   <strong>药品使用宣教</strong>
   </a>
-  <a href="../../resources/pages/detail_content.jsp?name=shipin" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=shipin" class="list-group-item opacity35">
   食品与药物的相互作用
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=sunerning" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=sunerning" class="list-group-item opacity35">
   顺尔宁药物出院宣教
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=dubao" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=dubao" class="list-group-item opacity35">
               都保使用方法（视频）
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=suli" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=suli" class="list-group-item opacity35">
               舒利迭使用方法(视频)
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=wuhua" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=wuhua" class="list-group-item opacity35">
   储雾罐使用指南
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=wuhuavideo" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=wuhuavideo" class="list-group-item opacity35">
   储雾罐使用指南(视频）
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=jujiawuhua" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=jujiawuhua" class="list-group-item opacity35">
   家庭雾化操作指南(视频)
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 

@@ -33,7 +33,8 @@
         <title><%=hash_for_title.get("name")%></title>
 
         <style type="text/css">
-        #top{background: #fffbfb;}
+        #top{background-image:url(<%=basePath+"/resources/img/background.jpg"%>);background-position:center; }
+        #top{background-image:url(<%=basePath+"/resources/img/background.jpg"%>);background-position:center; }
     </style>
 </head>
 
@@ -77,7 +78,7 @@
 <%
     } else if (hash_for_content.get("type").equals("img_no_border")) {
 %>
-    <img class="img-responsive" class="center-block" width=100% src="<%=basePath%><%=hash_for_content.get("src")%>">
+    <img class="img-rounded center-block" width=100% src="<%=basePath%><%=hash_for_content.get("src")%>">
         <% if (hash_for_content.containsKey("url") ) {%>
     </a>
         <%}%>
@@ -151,23 +152,23 @@
      } else if(hash_for_content.get("type").contains("panel_")) {
             if(hash_for_content.get("type").equals("panel_gray")) {
          %>
-        <div class="panel panel-default">
+        <div class="panel panel-default opacity35">
           <%
             } else if(hash_for_content.get("type").equals("panel_red")) {
           %>
-        <div class="panel panel-danger">
+        <div class="panel panel-danger opacity35">
         <%
             } else if(hash_for_content.get("type").equals("panel_green")) {
         %>
-            <div class="panel panel-success">
+            <div class="panel panel-success opacity35">
         <%
             } else if(hash_for_content.get("type").equals("panel_blue")) {
         %>
-            <div class="panel panel-info">
+            <div class="panel panel-info opacity35">
         <%
             } else if(hash_for_content.get("type").equals("panel_yellow")) {
         %>
-            <div class="panel panel-warning">
+            <div class="panel panel-warning opacity35">
         <%
             } else {
                 return;
@@ -238,13 +239,13 @@
 
                 <div class="list-group">
                     <% if (hash_for_content.containsKey("link")) { %>
-                    <a href="<%=basePath + hash_for_content.get("link")%>" class="list-group-item">
+                    <a href="<%=basePath + hash_for_content.get("link")%>" class="list-group-item opacity50">
                         <% } else if (hash_for_content.containsKey("outlink")){ %>
-                    <a href="<%=hash_for_content.get("outlink")%>" class="list-group-item">
+                    <a href="<%=hash_for_content.get("outlink")%>" class="list-group-item opacity50">
                         <%}%>
 
                         <h4><%=hash_for_content.get("title")%></h4>
-                        <hr style="margin:0"/>
+                        <hr style="margin:0"  />
                         <div class="media">
                             <div class="media-left media-middle">
                                 <img class="media-object img-rounded" height="70px" width="70px" src="<%=basePath+hash_for_content.get("img_src")%>">

@@ -24,30 +24,30 @@
         <detail>
             <![CDATA[
 
-  <a href="#" class="list-group-item active disabled list-group-item-danger">
+  <a href="#" class="list-group-item active disabled list-group-item-danger opacity35">
   <strong>疾病知识介绍</strong>
   </a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=xiaochuan_all" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=xiaochuan_all" class="list-group-item opacity35">
   哮喘
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=shanghuxidao_all" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=shanghuxidao_all" class="list-group-item opacity35">
   上呼吸道感染
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=pneumonia" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=pneumonia" class="list-group-item opacity35">
   肺炎
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=xianxinfeiyan" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=xianxinfeiyan" class="list-group-item opacity35">
   先心肺炎
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=CPT" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=CPT" class="list-group-item opacity35">
   胸部理疗
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="../../resources/pages/detail_content.jsp?name=yanxue" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=yanxue" class="list-group-item opacity35">
   验血小知识
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
             ]]>

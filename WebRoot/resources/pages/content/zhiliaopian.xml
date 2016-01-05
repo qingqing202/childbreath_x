@@ -58,19 +58,19 @@
   <strong>这里将向您介绍以下方面:</strong>
   </a>
 
-  <a href="#1" class="list-group-item">
+  <a href="#1" class="list-group-item opacity35">
               正确的喂药技巧
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#2" class="list-group-item">
+  <a href="#2" class="list-group-item opacity35">
               喂药的常见误区
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#3" class="list-group-item">
+  <a href="#3" class="list-group-item opacity35">
               静脉留置期间注意事项
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#4" class="list-group-item">
+  <a href="#4" class="list-group-item opacity35">
   测量体温
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#5" class="list-group-item">
+  <a href="#5" class="list-group-item opacity35">
   雾化给药配合事项
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 </div>

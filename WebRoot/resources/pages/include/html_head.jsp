@@ -10,7 +10,8 @@
 		var rootPath = "${rootPath}";
 	</script>
 	<link rel="stylesheet" href="<%=basePath%>/resources/css/docs.min.css"/>
-	<link rel="stylesheet" href="<%=basePath%>/resources/css/bootstrap.min.3.3.5.css" />
+	<!--<link rel="stylesheet" href="<%=basePath%>/resources/css/bootstrap.min.3.3.5.css" />-->
+<link rel="stylesheet" href="<%=basePath%>/resources/css/bootstrap.min.3.3.5.css" />
 	<link rel="stylesheet" href="<%=basePath%>/resources/css/style.css" />
 	<link rel="stylesheet" href="<%=basePath%>/resources/css/font-awesome.min.css" />
     <link rel="stylesheet" href="<%=basePath%>/resources/css/font.css" />

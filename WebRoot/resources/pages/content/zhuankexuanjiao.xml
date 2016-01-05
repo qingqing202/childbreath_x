@@ -49,13 +49,13 @@
   <a href="#" class="list-group-item active disabled list-group-item-danger">
   <strong>这里将向您介绍以下方面:</strong>
   </a>
-  <a href="#1" class="list-group-item">
+  <a href="#1" class="list-group-item opacity35">
   正确的拍背排痰方法
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#2" class="list-group-item">
+  <a href="#2" class="list-group-item opacity35">
   雾化吸入的注意事项
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#3" class="list-group-item">
+  <a href="#3" class="list-group-item opacity35">
  预防交叉感染
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 </div>

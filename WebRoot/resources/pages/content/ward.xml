@@ -32,19 +32,19 @@
   <strong>病房设施介绍</strong>
   </a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=anquan" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=anquan" class="list-group-item opacity35">
   住院安全宣教
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=shuixiang" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=shuixiang" class="list-group-item opacity35">
   自动水箱使用注意事项
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=mwoven" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=mwoven" class="list-group-item opacity35">
   微波炉注意事项
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
-  <a href="../../resources/pages/detail_content.jsp?name=chufang" class="list-group-item">
+  <a href="../../resources/pages/detail_content.jsp?name=chufang" class="list-group-item opacity35">
   厨房安全告示
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 

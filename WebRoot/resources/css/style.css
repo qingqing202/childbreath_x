@@ -152,7 +152,7 @@ fieldset[disabled] .customBtn {
 
 .hcenter-block-form {  
 	position:absolute;
-	float: none;  
+	float: none;
     display: block;
     
     width: 560px;
@@ -258,4 +258,27 @@ fieldset[disabled] .customBtn {
 
 .question-mgr button{
 	margin:0px 4px 8px 4px;
+}
+
+.opacity25 { /* 75% opaque */
+    background:rgba(255,255,255,0.25);
+}
+.opacity35 { /* 75% opaque */
+    background:rgba(255,255,255,0.35);
+}
+.opacity50 { /* 75% opaque */
+    background:rgba(255,255,255,0.50);
+}
+.opacity60 { /* 75% opaque */
+    background:rgba(255,255,255,0.60);
+}
+.opacity75 { /* 75% opaque */
+    background:rgba(255,255,255,0.75);
+}
+.opacity100 { /* 75% opaque */
+    background:rgba(255,255,255,1);
+}
+
+.opacity75_r { /* 75% opaque */
+    background: rgba(217, 255, 190, 0.75);
 }

@@ -51,28 +51,28 @@
   <strong>这里将向您介绍以下方面:</strong>
   </a>
 
-  <a href="#1" class="list-group-item">
+  <a href="#1" class="list-group-item opacity35">
               环境介绍
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#2" class="list-group-item">
+  <a href="#2" class="list-group-item opacity35">
               饮食介绍
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#3" class="list-group-item">
+  <a href="#3" class="list-group-item opacity35">
               安全宣教
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#4" class="list-group-item">
+  <a href="#4" class="list-group-item opacity35">
   护理配合注意事项
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#5" class="list-group-item">
+  <a href="#5" class="list-group-item opacity35">
   检查指导
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#6" class="list-group-item">
+  <a href="#6" class="list-group-item opacity35">
   病情咨询
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#7" class="list-group-item">
+  <a href="#7" class="list-group-item opacity35">
   友情提示
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#8" class="list-group-item">
+  <a href="#8" class="list-group-item opacity35">
   便民服务
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 </div>

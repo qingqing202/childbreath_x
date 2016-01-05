@@ -50,10 +50,10 @@
   <strong>这里将向您介绍以下方面:</strong>
   </a>
 
-  <a href="#1" class="list-group-item">
+  <a href="#1" class="list-group-item opacity35">
               如何协助孩子上下床
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#2" class="list-group-item">
+  <a href="#2" class="list-group-item opacity35">
   协助孩子坐轮椅
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 </div>

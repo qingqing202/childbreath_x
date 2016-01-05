@@ -25,6 +25,37 @@
 
     <content>
         <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MjM5OTEzOTUxOQ==&mid=208804539&idx=3&sn=7c095a36d46c9a42572084d0a50ffc86&scene=1&srcid=12166w9plCLsoQjWYaSrfPnv&from=singlemessage&isappinstalled=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/xiaochuan_all/shengkun.jpg</img_src>
+        <title>申昆玲教授访谈： 我国儿童哮喘管理进展</title>
+        <body>
+            <![CDATA[
+            (转载自中国医学论坛报微信公众号)<br/>中华医学会哮喘协作组进行的3次调查显示我国儿童哮喘患病率不断增加...
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MjM5OTEzOTUxOQ==&mid=208880784&idx=3&sn=f444c43e6c1a7b8a5771734994c1e8a0&scene=1&srcid=1216UtkAUnz6HhF3NzNuWE7g&from=singlemessage&isappinstalled=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/xiaochuan_all/shangyunxiao.jpg</img_src>
+        <title>规范全身糖皮质激素在儿童哮喘中的应用</title>
+        <body>
+            <![CDATA[
+            (转载自中国医学论坛报微信公众号)<br/>对于儿童支气管哮喘等气道慢性炎症性疾病，糖皮质激素...
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
         <link>resources/pages/detail_content.jsp?name=asthma</link>
         <img_src>resources/img/xiaochuan_all/asthma.jpg</img_src>
         <title>专家话哮喘</title>
@@ -72,38 +103,6 @@
         <body>
             <![CDATA[
             (转载自医学界儿科频道微信公众号)<br/>激素到底是个什么鬼？看了下面一段小视频...
-            ]]>
-        </body>
-    </content>
-
-    <content>
-        <type>media</type>
-        <outlink>
-            <![CDATA[
-            http://mp.weixin.qq.com/s?__biz=MjM5OTEzOTUxOQ==&mid=208880784&idx=3&sn=f444c43e6c1a7b8a5771734994c1e8a0&scene=1&srcid=1216UtkAUnz6HhF3NzNuWE7g&from=singlemessage&isappinstalled=0#wechat_redirect
-            ]]>
-        </outlink>
-        <img_src>resources/img/xiaochuan_all/shangyunxiao.jpg</img_src>
-        <title>规范全身糖皮质激素在儿童哮喘中的应用</title>
-        <body>
-            <![CDATA[
-            (转载自中国医学论坛报微信公众号)<br/>对于儿童支气管哮喘等气道慢性炎症性疾病，糖皮质激素...
-            ]]>
-            </body>
-    </content>
-
-    <content>
-        <type>media</type>
-        <outlink>
-            <![CDATA[
-            http://mp.weixin.qq.com/s?__biz=MjM5OTEzOTUxOQ==&mid=208804539&idx=3&sn=7c095a36d46c9a42572084d0a50ffc86&scene=1&srcid=12166w9plCLsoQjWYaSrfPnv&from=singlemessage&isappinstalled=0#wechat_redirect
-            ]]>
-        </outlink>
-        <img_src>resources/img/xiaochuan_all/shengkun.jpg</img_src>
-        <title>申昆玲教授访谈： 我国儿童哮喘管理进展</title>
-        <body>
-            <![CDATA[
-            (转载自中国医学论坛报微信公众号)<br/>中华医学会哮喘协作组进行的3次调查显示我国儿童哮喘患病率不断增加...
             ]]>
         </body>
     </content>

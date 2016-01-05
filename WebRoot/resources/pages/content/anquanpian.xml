@@ -49,19 +49,19 @@
   <strong>这里将向您介绍以下方面:</strong>
   </a>
 
-  <a href="#1" class="list-group-item">
+  <a href="#1" class="list-group-item opacity35">
               住院期间预防跌倒/跌落
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#2" class="list-group-item">
+  <a href="#2" class="list-group-item opacity35">
   在家中预防孩子跌落
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#3" class="list-group-item">
+  <a href="#3" class="list-group-item opacity35">
              预防烫伤（0-5岁儿童）
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#4" class="list-group-item">
+  <a href="#4" class="list-group-item opacity35">
              预防孩子窒息
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-  <a href="#5" class="list-group-item">
+  <a href="#5" class="list-group-item opacity35">
              如何防止交叉感染
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 </div>
@@ -517,14 +517,5 @@
             <![CDATA[ <br /> ]]>
         </detail>
     </content>
-
-    <content>
-        <type>media</type>
-        <img_src>resources/img/blogo1.jpg</img_src>
-        <link>#1</link>
-        <title>test</title>
-        <body>testtttttttttttttt</body>
-    </content>
-
 
 </content_home>
