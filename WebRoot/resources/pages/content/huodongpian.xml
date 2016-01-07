@@ -104,7 +104,7 @@
 
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_red</type>
         <head>注意事项：</head>
         <detail>
             <![CDATA[
@@ -134,7 +134,7 @@
     </content>
 
     <content>
-        <type>half_box_brown</type>
+        <type>half_box_green</type>
         <head>步骤：</head>
         <detail>
             <![CDATA[
@@ -154,8 +154,6 @@
 <li>妥善安置孩子，固定各种管道（管道固定需要得到护士的确认和指导）。
 </li>
 </ul>
-
-
 
             ]]>
         </detail>

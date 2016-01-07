@@ -145,7 +145,7 @@
 
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_green</type>
         <head>新生儿：</head>
         <detail>
             <![CDATA[
@@ -219,7 +219,7 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_brown</type>
         <head>擦身前：</head>
         <detail>
             <![CDATA[
@@ -236,7 +236,7 @@
     </content>
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_brown</type>
         <head>擦身中：</head>
         <detail>
             <![CDATA[
@@ -288,7 +288,7 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_red</type>
         <detail>
             <![CDATA[
 物品准备：
@@ -356,7 +356,7 @@
 
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_green</type>
         <head>沐浴前：</head>
         <detail>
             <![CDATA[
@@ -395,7 +395,7 @@
     </detail>
     </content>
     <content>
-        <type>half_box_brown</type>
+        <type>half_box_green</type>
         <head>沐浴后：</head>
         <detail>
             <![CDATA[
@@ -426,7 +426,7 @@
     </content>
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_brown</type>
         <detail>
             <![CDATA[
 物品准备：
@@ -477,7 +477,7 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_red</type>
         <detail>
             <![CDATA[
 物品准备：
@@ -532,7 +532,7 @@
     </content>
 
     <content>
-        <type>half_box_brown</type>
+        <type>half_box_green</type>
         <detail>
             <![CDATA[
 物品准备：
@@ -576,7 +576,7 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_brown</type>
         <detail>
             <![CDATA[
 物品准备：

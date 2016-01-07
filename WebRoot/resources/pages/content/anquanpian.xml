@@ -111,7 +111,7 @@
         <detail>
             <![CDATA[
             <li>
-            <strong class="text-danger">不要</strong>跨越床栏
+            <strong class="large text-danger">不要</strong>跨越床栏
             </li>
             ]]>
         </detail>
@@ -217,7 +217,7 @@
     </content>
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_brown</type>
         <head>小于1岁的孩子：</head>
         <detail>
             <![CDATA[
@@ -233,7 +233,7 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_brown</type>
         <head>1-5岁的儿童：</head>
         <detail>
             <![CDATA[
@@ -288,7 +288,7 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_red</type>
         <head>烫伤预防措施：</head>
         <detail>
             <![CDATA[
@@ -379,7 +379,7 @@
     </content>
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_green</type>
         <head>窒息的预防措施：</head>
         <detail>
             <![CDATA[
@@ -401,7 +401,7 @@
     </content>
 
     <content>
-        <type>half_box_brown</type>
+        <type>half_box_green</type>
         <head>窒息的表现：</head>
         <detail>
             <![CDATA[
@@ -447,7 +447,7 @@
 
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_brown</type>
         <head>洗手：</head>
         <detail>
             <![CDATA[
@@ -472,7 +472,7 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_brown</type>
         <head>不要与其他孩子交换物品，不要窜房：</head>
         <detail>
             <![CDATA[
@@ -491,7 +491,7 @@
     </content>
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_brown</type>
         <head>腹泻病人处理：</head>
         <detail>
             <![CDATA[

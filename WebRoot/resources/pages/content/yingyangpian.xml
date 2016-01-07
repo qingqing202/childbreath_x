@@ -343,7 +343,7 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_red</type>
         <head>喂奶中</head>
         <detail>
             <![CDATA[
@@ -364,7 +364,7 @@
     </content>
 
     <content>
-        <type>half_box_brown</type>
+        <type>half_box_red</type>
         <head>喂奶后</head>
         <detail>
             <![CDATA[
