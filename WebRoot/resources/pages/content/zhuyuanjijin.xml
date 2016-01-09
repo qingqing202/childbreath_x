@@ -39,28 +39,50 @@
         </detail>
     </content>
 
+
     <content>
-        <type>half_box_red</type>
+        <type>flowChart</type>
         <detail>
             <![CDATA[
-            <ol>
-            <li>护士站提供<strong class="text-info">"入院申请单"</strong><strong class="text-danger">原件</strong>。</li>
-
-            <li>凭<strong class="text-danger">原件</strong>至
-            <strong class="text-info">门诊大楼</strong><strong class="text-danger">一楼商务中心</strong>复印。</li>
-
-            <li><strong class="text-info">"入院申请单"</strong><strong class="text-danger">原件</strong>归还病区护士。</li>
-
-            <li>凭<strong class="text-info">"入院申请单"</strong><strong class="text-danger">复印件</strong>
-            到<strong class="text-info">"少儿基金购买处"</strong><strong class="text-danger">(社区服务中心/幼儿园/学校)</strong>
+            护士站提供<strong class="text-danger">"入院申请单"原件</strong>。
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>flowChart</type>
+        <detail>
+            <![CDATA[
+            凭<strong class="text-danger">原件</strong>至
+            <strong class="text-danger">门诊大楼一楼商务中心</strong>复印。
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>flowChart</type>
+        <detail>
+            <![CDATA[
+            <strong class="text-danger">"入院申请单"原件</strong>归还病区护士。
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>flowChart</type>
+        <detail>
+            <![CDATA[
+            凭<strong class="text-danger">"入院申请单"</strong><strong class="text-danger">复印件</strong>
+            到<strong class="text-danger">"少儿基金购买处"</strong><strong class="text-danger">(社区服务中心/幼儿园/学校)</strong>
             开相应证明。
-            </li>
-
-
-            <li><strong class="text-info">"少儿住院基金证明"</strong>交至<strong class="text-info">出入院处6号窗口。</strong>
+            ]]>
+        </detail>
+    </content>
+    <content>
+        <type>flowChart_end</type>
+        <detail>
+            <![CDATA[
+            <strong class="text-danger">"少儿住院基金证明"</strong>交至<strong class="text-danger">出入院处6号窗口。</strong>
             <strong class="text-danger">(跨区域住院患儿如需转院申请在规定时间内办理)</strong>
-            </ol>
-            备注：<strong class="text-info">转院单</strong>需至<strong class="text-info">户籍所在地</strong>
+            <br/>
+            备注：<strong class="text-danger">转院单</strong>需至<strong class="text-danger">户籍所在地</strong>
             <strong class="text-danger">二级医院</strong>办理转院手续。
             ]]>
         </detail>

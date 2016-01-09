@@ -258,6 +258,31 @@
                         </div>
                     </a>
                 </div>
+                <%
+                    } else if (hash_for_content.get("type").equals("flowChart")) {
+                %>
+
+                <section class="aimeibian" style="border: 0px none;" data-ele="imb">
+                    <section style="margin: 5px auto;">
+                        <section style="padding-top: 5px; padding-bottom: 5px; word-wrap: break-word; word-break: normal; font-family: 微软雅黑; text-align: center; color: rgb(255, 255, 255); border-radius: 5px; background-color: rgb(0, 187, 236);">
+                            <%=hash_for_content.get("detail")%>
+                        </section>
+                            <section style="margin-right: auto; margin-left: auto; border-left-width: 20px; border-left-style: solid; border-left-color: transparent; border-right-width: 20px; border-right-style: solid; border-right-color: transparent; border-top-width: 20px; border-top-style: solid; border-top-color: rgb(0, 187, 236); width: 0px; height: 0px;">
+                        </section>
+                    </section>
+                </section>
+                <%
+                } else if (hash_for_content.get("type").equals("flowChart_end")) {
+                %>
+                <section class="aimeibian" style="border: 0px none;" data-ele="imb">
+                    <section style="margin: 5px auto;">
+                        <section style="padding-top: 5px; padding-bottom: 5px; word-wrap: break-word; word-break: normal; font-family: 微软雅黑; text-align: center; color: rgb(255, 255, 255); border-radius: 5px; background-color: rgb(0, 187, 236);">
+                            <%=hash_for_content.get("detail")%>
+                        </section>
+                        </section>
+                    </section>
+                </section>
+                <br />
 
                 <%
         } else if ( hash_for_content.get("type").equals("collapse")) {
@@ -334,5 +359,9 @@
 
             </div>
 
-    </body>
+
+
+
+
+</body>
 </html>
