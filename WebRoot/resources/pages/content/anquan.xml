@@ -25,7 +25,7 @@
 
 
     <content>
-        <type>title_blue</type>
+        <type>opacity_box</type>
         <head>防止孩子跌落</head>
         <detail>
             <![CDATA[

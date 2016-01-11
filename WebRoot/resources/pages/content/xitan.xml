@@ -66,7 +66,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>opacity_box</type>
         <detail>
             <![CDATA[
             <strong><div class="text-center">操作步骤</div></strong>

@@ -66,19 +66,19 @@
         <detail>blockquote detail</detail>
     </content>
     <content>
-        <type>title_red</type>
+        <type>opacity_box</type>
         <detail>title red detail</detail>
     </content>
     <content>
-        <type>title_green</type>
+        <type>opacity_box</type>
         <detail>title green detail</detail>
     </content>
     <content>
-        <type>title_yellow</type>
+        <type>opacity_box</type>
         <detail>title yellow detail</detail>
     </content>
     <content>
-        <type>title_blue</type>
+        <type>opacity_box</type>
         <detail>title blue detail</detail>
     </content>
     <content>

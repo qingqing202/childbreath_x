@@ -24,7 +24,7 @@
     </content>
 
     <content>
-        <type>title_green</type>
+        <type>opacity_box</type>
         <detail>
             <![CDATA[
             各位家长：
@@ -47,9 +47,7 @@
             <li>公共财物，请您爱惜，如有损坏，照价赔偿。</li>
             </ol>
             <br/>
-            以上注意事项请各位家长自觉遵守。
-            <br/>
-            <br/>
+            <p>以上注意事项请各位家长自觉遵守。</p>
             <div class="pull-right">上海儿童医学中心呼吸科</div>
             <br/>
             ]]>

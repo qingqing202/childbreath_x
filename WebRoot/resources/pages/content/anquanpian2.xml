@@ -6,12 +6,12 @@
         </name>
     </title>
     <content>
-        <type>h1</type>
+        <type>html</type>
         <detail>
             <![CDATA[
-            以家庭为中心的合作性照顾：安全篇<a href="top"> </a>
+            <h3 class="text-center">以家庭为中心的合作性照顾:安全篇</h3><a href="top"> </a>
             ]]>
-        </detail>
+            </detail>
     </content>
     <content>
         <type>html</type>
@@ -28,7 +28,7 @@
     </content>
 
     <content>
-        <type>dot_box</type>
+        <type>opacity_box</type>
         <detail>
             <![CDATA[
             尊敬的家长:
@@ -41,49 +41,43 @@
     </content>
 
     <content>
-        <type>panel_red</type>
-        <title>这里将向您介绍以下方面</title>
-        <body>
+        <type>html</type>
+        <detail>
             <![CDATA[
+<div class="list-group">
+  <a href="#" class="list-group-item active disabled list-group-item-danger">
+  <strong>这里将向您介绍以下方面:</strong>
+  </a>
+
+  <a href="#1" class="list-group-item opacity35">
+              住院期间预防跌倒/跌落
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#2" class="list-group-item opacity35">
+  在家中预防孩子跌落
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#3" class="list-group-item opacity35">
+             预防烫伤（0-5岁儿童）
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#4" class="list-group-item opacity35">
+             预防孩子窒息
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+  <a href="#5" class="list-group-item opacity35">
+             如何防止交叉感染
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+</div>
 
 
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#1">
-            住院期间预防跌倒/跌落
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#2">
-            在家中预防孩子跌落
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#3">
-            预防烫伤（0-5岁儿童）
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#4">
-            预防孩子窒息
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
-    <ul class="nav nav-tabs nav-stacked">
-        <li><a tabindex="1" href="#5">
-            如何防止交叉感染
-        <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a></li>
-        </ul>
             ]]>
-        </body>
+        </detail>
     </content>
 
     <content>
-        <type>opacity_box</type>
-        <detail>
+        <type>block_1_begin</type>
+        <title>
             <![CDATA[
            一、<a name="1"></a>住院期间预防跌倒/跌落:
            ]]>
-        </detail>
+        </title>
     </content>
 
     <content>
@@ -117,7 +111,7 @@
         <detail>
             <![CDATA[
             <li>
-            <strong class="text-danger">不要</strong>跨越床栏
+            <strong class="large text-danger">不要</strong>跨越床栏
             </li>
             ]]>
         </detail>
@@ -194,15 +188,19 @@
         </detail>
     </content>
 
+    <content>
+        <type>block_1_end</type>
+    </content>
+
 
 
     <content>
-        <type>opacity_box</type>
-        <detail>
+        <type>block_1_begin</type>
+        <title>
             <![CDATA[
            <a name="2"></a>二、在家中如何预防孩子跌落（0-5岁):
            ]]>
-        </detail>
+        </title>
     </content>
 
     <content>
@@ -223,7 +221,7 @@
     </content>
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_brown</type>
         <head>小于1岁的孩子：</head>
         <detail>
             <![CDATA[
@@ -239,7 +237,7 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_brown</type>
         <head>1-5岁的儿童：</head>
         <detail>
             <![CDATA[
@@ -261,18 +259,22 @@
     </content>
 
     <content>
+        <type>block_1_end</type>
+    </content>
+
+    <content>
         <type>html</type>
         <detail>
             <![CDATA[ <br /> ]]>
         </detail>
     </content>
     <content>
-        <type>opacity_box</type>
-        <detail>
+        <type>block_1_begin</type>
+        <title>
             <![CDATA[
            <a name="3"></a>三、预防孩子烫伤
            ]]>
-        </detail>
+        </title>
     </content>
 
     <content>
@@ -294,7 +296,7 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_red</type>
         <head>烫伤预防措施：</head>
         <detail>
             <![CDATA[
@@ -348,14 +350,17 @@
         <src>resources/img/anquanpian/image033.jpg</src>
     </content>
 
+    <content>
+        <type>block_1_end</type>
+    </content>
 
     <content>
-        <type>opacity_box</type>
-        <detail>
+        <type>block_1_begin</type>
+        <title>
             <![CDATA[
            <a name="4"></a>四、预防孩子窒息
            ]]>
-        </detail>
+        </title>
     </content>
 
     <content>
@@ -385,7 +390,7 @@
     </content>
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_green</type>
         <head>窒息的预防措施：</head>
         <detail>
             <![CDATA[
@@ -407,7 +412,7 @@
     </content>
 
     <content>
-        <type>half_box_brown</type>
+        <type>half_box_green</type>
         <head>窒息的表现：</head>
         <detail>
             <![CDATA[
@@ -443,17 +448,21 @@
     </content>
 
     <content>
-        <type>opacity_box</type>
-        <detail>
+        <type>block_1_end</type>
+    </content>
+
+    <content>
+        <type>block_1_begin</type>
+        <title>
             <![CDATA[
            <a name="5"></a> 五、如何防止交叉感染
            ]]>
-        </detail>
+        </title>
     </content>
 
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_brown</type>
         <head>洗手：</head>
         <detail>
             <![CDATA[
@@ -478,13 +487,13 @@
     </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>half_box_brown</type>
         <head>不要与其他孩子交换物品，不要窜房：</head>
         <detail>
             <![CDATA[
             不同床位的病人，病人家属之间不要互相走动，不要交换患儿使用的物品（包括玩具、碗、勺等）。
             ]]>
-        </detail>
+    </detail>
     </content>
     <content>
         <type>half_box_brown</type>
@@ -497,13 +506,17 @@
     </content>
 
     <content>
-        <type>half_box_red</type>
+        <type>half_box_brown</type>
         <head>腹泻病人处理：</head>
         <detail>
             <![CDATA[
             腹泻病人避免将分泌物污染周围环境，一旦污染请立即告诉病区护士或护工进行清洁消毒处理。
             ]]>
         </detail>
+    </content>
+
+    <content>
+        <type>block_1_end</type>
     </content>
 
     <content>
@@ -523,58 +536,5 @@
             <![CDATA[ <br /> ]]>
         </detail>
     </content>
-</content_home>
 
-    <!--
-    <title>
-        <name>
-            常见儿童呼吸系统疾病
-        </name>
-    </title>
-    <content>
-        <type>img</type>
-        <src>resources/img/jibingketang.jpg</src>
-    </content>
-    <content>
-        <type>collapse</type>
-        <title>test</title>
-        <detail>
-            test
-        </detail>
-    </content>
-    <content>
-        <type>media</type>
-        <name>哮喘</name>
-        <intro>一种严重影响小儿身心健康的最常见呼吸道疾病，我国有1000多万哮喘病患儿。</intro>
-        <src>resources/img/blogo1.jpg</src>
-        <url>../../resources/pages/detail_content.jsp?name=asthma</url>
-    </content>
-    <content>
-        <type>media</type>
-        <name>肺炎</name>
-        <intro>小儿肺炎是婴幼儿时期的常见病，以冬春季多见。</intro>
-        <src>resources/img/blogo1.jpg</src>
-        <url>../../resources/pages/detail_content.jsp?name=pneumonia</url>
-    </content>
-    <content>
-        <type>media</type>
-        <name>胸部理疗</name>
-        <intro>胸部物理治疗是指一系列辅助治疗肺炎的物理方法。</intro>
-        <src>resources/img/blogo1.jpg</src>
-        <url>../../resources/pages/detail_content.jsp?name=CPT</url>
-    </content>
-    <content>
-        <type>media</type>
-        <name>孩子为什么要验血？</name>
-        <intro>孩子为什么要验血？</intro>
-        <src>resources/img/blogo1.jpg</src>
-        <url>../../resources/pages/detail_content.jsp?name=yanxue</url>
-    </content>
-    <content>
-        <type>media</type>
-        <name>先心肺炎</name>
-        <intro>由于心脏结构的缺失导致肺循环血量过多，先心患儿更容易肺部感染。</intro>
-        <src>resources/img/blogo1.jpg</src>
-        <url>../../resources/pages/detail_content.jsp?name=xianxinfeiyan</url>
-    </content>
-    -->
+</content_home>

@@ -28,7 +28,7 @@
     </content>
 
     <content>
-        <type>title_green</type>
+        <type>opacity_box</type>
         <detail>
             <![CDATA[
             尊敬的家长:
@@ -188,8 +188,6 @@
         </detail>
     </content>
 
-
-
     <content>
         <type>squre_box</type>
         <detail>
@@ -253,6 +251,7 @@
             ]]>
         </detail>
     </content>
+
 
     <content>
         <type>html</type>
@@ -436,6 +435,7 @@
         </detail>
     </content>
 
+
     <content>
         <type>squre_box</type>
         <detail>
@@ -499,6 +499,7 @@
             ]]>
         </detail>
     </content>
+
 
     <content>
         <type>html</type>

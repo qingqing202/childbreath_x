@@ -34,7 +34,7 @@
     </content>
 
     <content>
-    <type>title_red</type>
+    <type>opacity_box</type>
     <detail>【一】住院期间请保持病房环境整洁</detail>
     </content>
 
@@ -127,7 +127,7 @@
     </content>
 
     <content>
-    <type>title_red</type>
+    <type>opacity_box</type>
     <detail>【二】勤洗手</detail>
     </content>
 
@@ -157,7 +157,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>opacity_box</type>
         <detail>【三】接触宝宝时请戴上口罩</detail>
     </content>
     <content>
@@ -201,7 +201,7 @@
     </content>
 
     <content>
-        <type>title_red</type>
+        <type>opacity_box</type>
         <detail>【四】限制陪客人数，减少探视</detail>
     </content>
     <content>

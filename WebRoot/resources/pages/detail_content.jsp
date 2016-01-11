@@ -113,12 +113,39 @@
         }
     </script>
     <%
-    } else if (hash_for_content.get("type").equals("grave_box")) {
+    } else if (hash_for_content.get("type").equals("opacity_box")) {
     %>
-    <div class="highlight"><pre>
-        <%=hash_for_content.get("detail")%>
-    </pre>
-    </div>
+
+    <section><section><section><section><section><section>
+        <br  />
+    </section></section></section></section></section></section>
+    <section class="aimeibian" style="border: 0px none;" data-ele="imb"><section style="margin-top: 10px; margin-bottom: 10px; border: 0px; box-sizing: border-box; font-family: 微软雅黑;">
+        <section style="max-width: 100%; height: 1em; box-sizing: border-box; word-wrap: break-word !important;">
+            <section style="max-width:100%; border-top:0.4em solid rgb(234,101,23); border-left:0.4em solid rgb(234,101,23); height:20px; width:20px; float:left">
+            </section>
+            <section style="max-width:100%; border-top:0.4em solid rgb(234,101,23); border-right:0.4em solid rgb(234,101,23); height:20px; width:20px; float:right">
+            </section></section><section style="border: 1px solid rgb(234, 101, 23); max-width: 100%; box-sizing: border-box; margin-top: -0.8em; margin-right: 0.1em; margin-left: 0.2em; padding: 20px; word-wrap: break-word !important;">
+        <section style="word-wrap: break-word; border: none; line-height: 1.5; word-break: break-all; font-size: 14px; background-image: none;">
+            <p>
+                            <span style="color:inherit;">
+                                <%=hash_for_content.get("detail")%>
+                            </span>
+            </p>
+        </section>
+    </section>
+        <section style="max-width: 100%; margin-top: -18px; height: 1em; box-sizing: border-box; word-wrap: break-word !important;">
+            <section style="max-width:100%; border-bottom:0.4em solid rgb(234,101,23); border-left:0.4em solid rgb(234,101,23); height:20px; width:20px; float:left">
+            </section>
+            <section style="max-width:100%; border-bottom:0.4em solid rgb(234,101,23); border-right:0.4em solid rgb(234,101,23); height:20px; width:20px; float:right">
+            </section>
+        </section>
+    </section>
+    </section>
+
+
+
+
+
 <%
     } else if ( hash_for_content.get("type").equals("blockquote") ) {
 %>
@@ -218,7 +245,7 @@
                                 </section>
                             </section>
                             <section style="width: 100%; padding-top: 2em; padding-right: 0.5em; padding-left: 0.5em; box-sizing: border-box;" class="tn-Powered-by-Weixinquanquan" data-width="100%">
-                                <p style="box-sizing: border-box;">
+                                <p style="font-size: 20px;">
                                     <%=hash_for_content.get("detail")%>
                                 </p>
                             </section>
@@ -258,6 +285,47 @@
                         </div>
                     </a>
                 </div>
+                <%
+                    } else if (hash_for_content.get("type").equals("block_1_begin")){
+                %>
+
+                <section class="aimeibian" style="border: 0px none;">
+                    <section style="margin-right: auto; margin-left: auto;">
+                        <section class="aimeibian" style="border: 0px none;">
+                            <section style="text-align: center;">
+                                <section style="padding-right: 15px; padding-left: 15px; min-width: 2em; height: 30px; line-height: 30px; color: rgb(255, 255, 255); display: inline-block; border-radius: 0px 0px 10px 10px; font-size: 18px; font-weight: bold; background: rgb(243, 202, 48);">
+                                    <section>
+                                        <span style="color:inherit">
+                                            <% if (hash_for_content.get("title").equals(null)) { %>
+                                            <%=hash_for_content.get("detail")%>
+                                            <% } else { %>
+                                            <%=hash_for_content.get("title")%>
+                                            <% } %>
+                                        </span>
+                                    </section>
+                                </section>
+                            </section>
+                        </section>
+                        <section class="aimeibian" style="border: 0px none;" data-ele="imb">
+                            <section style="margin-top: -20px; margin-right: 10px; margin-left: 10px; padding-top: 18px; padding-bottom: 18px; color: rgb(51, 120, 155); border-radius: 10px 10px 0px 0px; background: rgb(252, 239, 215);">
+                                <section class="aimeibian" style="border: 0px none;" data-ele="">
+                                    <section style="margin-top: 10px; padding-right: 10px; padding-left: 20px; color: rgb(0, 0, 0);">
+                                        <p style="color:inherit; line-height:1.5em; font-size:14px">
+                                            <span style="font-size: 18px;">
+                <%
+                    } else if (hash_for_content.get("type").equals("block_1_end")) {
+                %>
+                                            </span>
+                                        </p>
+                                    </section>
+                                </section>
+                            </section>
+                        </section>
+                    </section>
+                </section>
+                <p><br/></p>
+
+
                 <%
                     } else if (hash_for_content.get("type").equals("flowChart")) {
                 %>

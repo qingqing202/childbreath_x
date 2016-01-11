@@ -61,11 +61,12 @@
   <a href="../../resources/pages/detail_content.jsp?name=xitan" class="list-group-item opacity35">
   居家护理篇:吸痰
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-
+  <a href="../../resources/pages/detail_content.jsp?name=xitanvideo" class="list-group-item opacity35">
+  居家护理篇:吸痰(视频)
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
   <a href="../../resources/pages/detail_content.jsp?name=jujiawuhua" class="list-group-item opacity35">
   居家护理篇:雾化(视频)
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
-
   <a href="../../resources/pages/detail_content.jsp?name=chouchu" class="list-group-item opacity35">
   如何应对婴幼儿抽搐
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>

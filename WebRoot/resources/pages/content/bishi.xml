@@ -296,7 +296,7 @@
 
     <content>
         <type>img</type>
-        <src>resources/img/bisi/image038.jpg</src>
+        <src>resources/img/bisi/image039.jpg</src>
     </content>
 
     <content>
@@ -472,7 +472,11 @@
 
     <content>
         <type>video</type>
-        <detail>http://player.youku.com/embed/XMTI5NjA2ODQxMg==</detail>
+        <detail>
+            <![CDATA[
+            http://v.qq.com/iframe/player.html?vid=a018073e19w&tiny=0&auto=0
+            ]]>
+        </detail>
     </content>
 
 <content>
