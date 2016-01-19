@@ -31,10 +31,12 @@
         <type>opacity_box</type>
         <detail>
             <![CDATA[
+            <p>
             各位亲爱的家长：
-            <br/>
-            <br/>
+            <p>
+                        <p style="text-indent:2em">
             如果您的孩子已经缴纳上海少儿住院基金，请在宝宝入院后<strong class="text-danger">尽快办理</strong>上海少儿住院基金手续。具体办理流程如下：
+            </p>
             ]]>
         </detail>
     </content>

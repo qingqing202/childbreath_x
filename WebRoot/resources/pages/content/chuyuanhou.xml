@@ -27,12 +27,12 @@
         <type>opacity_box</type>
         <detail>
             <![CDATA[
+            <p>
             尊敬的家长您好，
-            <br/>
-            <br/>
+            </p>
+                        <p style="text-indent:2em">
             刚刚出院的患儿身体可能还未完全恢复。为了孩子尽快完全恢复，请您注意一下几点：
-            <br/>
-            <br/>
+            </p>
 
             <ol>
             <li>指导患儿加强营养、增强体质。进食高蛋白、高维生素饮食。</li>

@@ -31,12 +31,14 @@
         <type>opacity_box</type>
         <detail>
             <![CDATA[
+            <p>
             尊敬的家长:
-            <br/>
-            <br/>
+            </p>
+                        <p style="text-indent:2em">
             儿童在不同的成长阶段需要补充不同的营养。如何正确的为孩子补充营养是
             每个家长都会碰到的问题。我们为您准备了儿童饮食营养指南，希望
             能对您有所帮助。
+            </p>
             ]]>
         </detail>
     </content>

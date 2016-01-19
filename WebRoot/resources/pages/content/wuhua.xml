@@ -27,14 +27,9 @@
         <src>resources/img/wuhua/卡通储雾罐.jpg</src>
     </content>
     <content>
-        <type>half_box_red</type>
-        <head>储雾罐是一种辅助吸入设备，可以用来连接抛射剂及定量吸入器以便治疗呼吸道疾病。
-            </head>
-        <detail>储雾罐可以用于：
-            <![CDATA[ <br /> ]]>
-            ——减少使用定量吸入器时手口不配合的错误。
-            <![CDATA[ <br /> ]]>
-            ——防止过量药物运送到口腔、咽产生副作用。
+        <type>opacity_box</type>
+        <detail>储雾罐是一种辅助吸入设备，可以用来连接抛射剂及定量吸入器以便治疗呼吸道疾病。
+        储雾罐可以用于减少使用定量吸入器时手口不配合的错误;防止过量药物运送到口腔、咽产生副作用。
             </detail>
     </content>
 

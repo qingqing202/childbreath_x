@@ -126,7 +126,7 @@
             <section style="max-width:100%; border-top:0.4em solid rgb(234,101,23); border-right:0.4em solid rgb(234,101,23); height:20px; width:20px; float:right">
             </section></section><section style="border: 1px solid rgb(234, 101, 23); max-width: 100%; box-sizing: border-box; margin-top: -0.8em; margin-right: 0.1em; margin-left: 0.2em; padding: 20px; word-wrap: break-word !important;">
         <section style="word-wrap: break-word; border: none; line-height: 1.5; word-break: break-all; font-size: 14px; background-image: none;">
-            <p>
+            <p style="text-indent: 2em";>
                             <span style="color:inherit;">
                                 <%=hash_for_content.get("detail")%>
                             </span>
@@ -207,7 +207,6 @@
                     <strong><%=hash_for_content.get("title")%></strong></h3>
                 </div>
                 <div class="panel-body">
-
                     <%if (hash_for_content.containsKey("body")) {%>
                     <%=hash_for_content.get("body")%>
                 <%}if ( hash_for_content.containsKey("img_body")) {%>
@@ -225,11 +224,16 @@
         <%
         } else if ( hash_for_content.get("type").equals("dot_box")) {
         %>
-                <section class="tn-Powered-by-XIUMI" style="white-space: normal; border: 0px; max-width: 100%; margin: 0.5em 0px 0px; padding: 0px 0.5em 0.5em 0px; box-sizing: border-box;">
-                    <section class="tn-Powered-by-XIUMI" style="border: 2px dotted white; padding: 10px; border-top-left-radius: 8px 64px; border-top-right-radius: 48px 8px; border-bottom-right-radius: 8px 16px; border-bottom-left-radius: 0px 48px; box-shadow: rgb(225, 225, 225) 8px 8px 3px; line-height: 1.4; font-size: 1em; font-family: inherit; text-decoration: inherit; color: rgb(255, 255, 255); background-color: rgb(72, 189, 193); box-sizing: border-box; word-wrap: break-word !important;">
-                        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+
+                <section class="aimeibian" style="border: 0px none; padding: 0px;">
+                    <section style="margin: 10px 0; color: white;  text-align: justify; white-space: normal; border: 0px;">
+                        <section style="padding: 10px; border: 2px dotted white; border-radius:5px; box-shadow: rgb(225, 225, 225) 8px 8px 3px; font-family: inherit; font-weight: inherit; text-align: inherit; text-decoration: inherit; background-color: rgb(95, 156, 239);">
+                            <p style="font-family: inherit; font-weight: inherit; text-align:justify; text-decoration: inherit; color: rgb(255,255,255); line-height: 1.5em; text-indent: 2em;">
+                                <span style="color:inherit; ">
                             <%=hash_for_content.get("detail")%>
-                    </section>
+                                </span>
+                            </p>
+                        </section>
                     </section>
                 </section>
                 <br/>
@@ -351,6 +355,12 @@
                     </section>
                 </section>
                 <br />
+                <%
+
+                    } else if ( hash_for_content.get("type").equals("section1_begin")) {
+                %>
+
+
 
                 <%
         } else if ( hash_for_content.get("type").equals("collapse")) {
@@ -424,6 +434,42 @@
     }
   }
 %>
+
+                <!--
+
+
+                <section class="aimeibian" style="border: 0px none; padding: 0px;">
+                    <section style="margin: 0px auto; padding: 0px;">
+                        <section class="aimeibian" style="border: 0px none; padding: 0px;">
+                            <section style="margin:0; padding:0; text-align:center">
+                                <section style="margin:0; padding:0 15px; min-width:2em; height:30px; line-height:30px; background:rgb(243,202,48); color:rgb(255,255,255);display:inline-block; border-radius:0 0 10px 10px; font-size:18px; font-weight:bold">
+                                    <section style="margin:0; padding:0; text-align:center">
+                                        <span style="color:inherit">可单独换色</span>
+                                    </section>
+                                </section>
+                            </section>
+                        </section>
+                        <section class="aimeibian" style="border: 0px none; padding: 0px;" data-ele="">
+                            <section style="margin:-20px 10px 0 10px; padding:18px 0px; background:rgb(252,239,215); color:rgb(51,120,155);border-radius:10px 10px 0 0;">
+                                <section class="aimeibian" style="border: 0px none; padding: 0px;" data-ele="">
+                                    <section style="margin-top:10px; padding:0 10px 0 20px; color:rgb(0,0,0); ">
+                                        <p style="color:inherit; line-height:1.5em; text-indent:2em;">
+                                            <span style="color: inherit; line-height: 1.5em; text-align: center; ">
+                                                不够可以复制，点击在后边插入空行再点击复制然后粘贴......
+                                            </span>
+                                        </p>
+                                        <p style="color:inherit; line-height:1.5em; text-indent:2em;">
+                                            <span style="color: inherit; line-height: 1.5em; text-align: center; ">
+                                                不够可以复制，点击在后边插入空行再点击复制然后粘贴......
+                                            </span>
+                                        </p>
+                                    </section>
+                                </section>
+                            </section>
+                        </section>
+                    </section>
+                </section>
+                -->
 
             </div>
 

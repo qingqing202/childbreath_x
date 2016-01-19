@@ -31,11 +31,14 @@
         <type>opacity_box</type>
         <detail>
             <![CDATA[
+            <p>
             尊敬的家长:
-            <br/>
-            <br/>
+            </p>
+
+                        <p style="text-indent:2em">
             宝宝的免疫系统尚未发育完备，为宝宝保持良好的卫生状况对孩子的身心发展非常关键。下面我们将向您介绍如何正确的给孩子
             维护个人卫生。希望能对您有所帮助。
+            </p>
             ]]>
         </detail>
     </content>

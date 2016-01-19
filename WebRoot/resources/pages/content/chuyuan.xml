@@ -31,10 +31,12 @@
         <type>opacity_box</type>
         <detail>
             <![CDATA[
+            <p>
             各位亲爱的家长：
-            <br/>
-            <br/>
+            </p>
+                        <p style="text-indent:2em">
             您好！您的孩子经过我科治疗后，目前符合出院条件，准备予以出院，现向您告知相关出院手续办理流程以及出院后复查呼吸专科门诊的预约步骤。
+            </p>
             ]]>
         </detail>
     </content>
