@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+           儿童雾化专题
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>儿童雾化专题</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=402825470&idx=1&sn=cb288c419ea1f3278ca3fceee1a1d48a&scene=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/wuhua_all/1.jpg</img_src>
+        <title>儿童哮喘家庭雾化</title>
+        <body>
+            <![CDATA[
+            吸入型糖皮质激素是目前治疗慢性气道炎症常用、有效的药物，由于可以直接作用于气道黏膜，局部作用强，疗效确切...
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=402825470&idx=2&sn=a08de8e6bd3eed5e9479607b0f0fc5a3&scene=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/wuhua_all/19.png</img_src>
+        <title>糖皮质激素雾化吸入治疗适用于哪些儿科疾病？</title>
+        <body>
+            <![CDATA[
+            雾化吸入治疗是将药物或水经吸入装置分散成悬浮于气体中的雾粒或微粒，通过吸入的方式沉积于呼吸道和（或）肺部，从而达到呼吸道局部治疗的作用...
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=402825470&idx=3&sn=71f34f44586758b35b931b5ab0f6d111&scene=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/wuhua_all/20.png</img_src>
+        <title>儿童哮喘雾化吸入——药物篇</title>
+        <body>
+            <![CDATA[
+            儿童哮喘作为儿童呼吸系统最常见的慢性疾病，雾化吸入治疗已成为主流的治疗模式之一...
+            ]]>
+        </body>
+    </content>
+
+
+    <content>
+        <type>media</type>
+        <title>儿童哮喘雾化吸入——装置篇</title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=402825470&idx=4&sn=5cc829b2f6ea94e011b0d7ba2d3c84a8&scene=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/wuhua_all/41.png</img_src>
+        <body>
+            雾化吸入是使用专门的装置将药物溶液雾化为细小的雾粒或微粒，这些雾粒或微粒悬浮于气体中随着患者的吸气过程进入呼吸道和肺部并沉积，从而达到治疗作用...
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <title>儿童哮喘雾化吸入治疗的常见误区</title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=402825470&idx=5&sn=79f9aad6523b7a55474915b588d1c5a6&scene=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/wuhua_all/51.png</img_src>
+        <body>
+            我国哮喘患病率近年来持续增长，儿童哮喘发展为成人哮喘的比率也逐年升高。儿童哮喘需要及时诊断、及时预防和及时治疗...
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <title>居家雾化操作指南（视频）</title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=402825470&idx=7&sn=4430680d7f22002ff95786a18010cc5a&scene=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/wuhua_all/xiao.png</img_src>
+        <body>
+            雾化吸入器主要用于治疗各种上下呼吸系统疾病，如咳嗽、哮喘等支气管、肺泡、胸腔内所发生的疾病...
+        </body>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

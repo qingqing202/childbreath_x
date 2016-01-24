@@ -179,6 +179,23 @@
     </content>
 
     <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=402825470&idx=6&sn=e6e008011a1eb5e6b2391b0bfc260ac0&scene=0#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/xiaochuan_all/20130609041642266.jpg</img_src>
+        <title>哮喘儿童季节交替时的强化管理</title>
+        <body>
+            <![CDATA[
+            (转载自医学界儿科频道微信公众号)<br/>儿童哮喘的发作具有季节性特征，在秋冬季高发...
+            ]]>
+        </body>
+    </content>
+
+
+    <content>
         <type>html</type>
         <detail>
             <![CDATA[ <hr /> ]]>
