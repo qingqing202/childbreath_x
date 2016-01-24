@@ -74,10 +74,10 @@
     </content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
-           一、<a name="1"></a>住院期间预防跌倒/跌落:
+           一、<a name="1"></a>住院期间预防跌倒/跌落
            ]]>
         </detail>
     </content>
@@ -97,12 +97,14 @@
     </content>
 
     <content>
+    <type>red_bar</type>
+    </content>
+
+    <content>
         <type>img_with_intro</type>
         <detail>
             <![CDATA[
-            <li>
-            孩子需要持续有人照看
-            </li>
+            孩子需要持续有人照看。
             ]]>
         </detail>
         <src>resources/img/anquanpian/image005.jpg</src>
@@ -112,9 +114,7 @@
         <type>img_with_intro</type>
         <detail>
             <![CDATA[
-            <li>
-            <strong class="large text-danger">不要</strong>跨越床栏
-            </li>
+            <strong class="large text-danger">不要</strong>跨越床栏。
             ]]>
         </detail>
         <src>resources/img/anquanpian/image003.jpg</src>
@@ -124,9 +124,7 @@
         <type>img_with_intro</type>
         <detail>
             <![CDATA[
-            <li>
-            离开孩子请拉床栏
-            </li>
+            离开孩子请拉床栏。
             ]]>
         </detail>
         <src>resources/img/anquanpian/image009.jpg</src>
@@ -136,9 +134,7 @@
         <type>img_with_intro</type>
         <detail>
             <![CDATA[
-            <li>
-            <strong class="text-danger">不与</strong>孩子同睡儿童床
-            </li>
+            <strong class="text-danger">不与</strong>孩子同睡儿童床。
             ]]>
         </detail>
         <src>resources/img/anquanpian/image007.jpg</src>
@@ -148,15 +144,9 @@
         <type>img_with_intro</type>
         <detail>
             <![CDATA[
-            <li>
-离开病区请拉床栏并交班
-            </li>
-            <li>
-曾有跌落请特别留意拉床栏
-            </li>
-            <li>
-孩子睡着也要拉上床栏
-            </li>
+离开病区请拉床栏并交班;
+曾有跌落请特别留意拉床栏;
+孩子睡着也要拉上床栏。
             ]]>
         </detail>
         <src>resources/img/anquanpian/image011.jpg</src>
@@ -166,35 +156,24 @@
         <type>img_with_intro</type>
         <detail>
             <![CDATA[
-            <li>
-疲劳瞌睡时请不要抱孩子
-            </li>
-            <li>
-孩子放婴儿车内须系安全带
-            </li>
-            <li>
-给孩子穿合适的鞋子
-            </li>
-            <li>
-不要让孩子在病区和走廊内奔跑
-            </li>
+疲劳瞌睡时请不要抱孩子；
+孩子放婴儿车内须系安全带；
+给孩子穿合适的鞋子；
+不要让孩子在病区和走廊内奔跑。
             ]]>
         </detail>
         <src>resources/img/anquanpian/image013.jpg</src>
     </content>
 
     <content>
-        <type>html</type>
-        <detail>
-            <![CDATA[ <br /> ]]>
-        </detail>
+        <type>end_bar</type>
     </content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
-           <a name="2"></a>二、在家中如何预防孩子跌落（0-5岁):
+           <a name="2"></a>二、在家中如何预防孩子跌落
            ]]>
         </detail>
     </content>
@@ -215,54 +194,54 @@
             ]]>
         </detail>
     </content>
-
     <content>
-        <type>half_box_brown</type>
-        <head>小于1岁的孩子：</head>
-        <detail>
-            <![CDATA[
-            <ul>
-<li>不要留孩子一个人在沙发上、床上、桌子上、柜台上或其它高的地方</li>
-<li>当更换尿布或衣服时必须至少一个手要抓住孩子</li>
-<li>婴儿车必须是稳定的，并且放置的位置是孩子和车子不会翻倒的地方</li>
-<li>保持婴儿床的床栏拉上，并且当孩子长大时降低被褥的高度。把一些杂物和玩具移开，这样能防止孩子用这些作为台阶越过床栏。</li>
-<li>当使用学步车，高的椅子，秋千，婴儿车或购物车时，请系好安全带</li>
-              </ul>
-            ]]>
-        </detail>
+        <type>brown_bar</type>
     </content>
-
-    <content>
-        <type>half_box_brown</type>
-        <head>1-5岁的儿童：</head>
-        <detail>
-            <![CDATA[
-            <ul>
-<li>在楼梯的上下安装坚固的门</li>
-<li>安装窗的防护装置，在窗前空开一定空间，不要放置家具</li>
-<li>保持通向阳台及防火梯的门锁住</li>
-<li>运动/游戏场地的表面必须是柔软的，运用防震的材料如木屑或碎的橡胶</li>
-<li>运动/游戏场地的设备必须是得到很好的维护和设备是年龄相适应的</li>
-<li>当孩子在玩秋千、滑梯、和跷跷板时需要在旁密切监护</li>
-<li>当孩子在爬楼梯或乘电梯时拉住孩子的手；教导孩子拉好扶手防止跌倒</li>
-<li>儿童自行车必须有好的防护并且是适合孩子年龄大小的</li>
-<li>让孩子骑车时戴好安全帽</li>
-<li>当孩子同大人一起骑在车上时，孩子必须有后置式座椅并且戴头盔</li>
-<li>有缺陷的孩子需要更多的关注和监护来预防跌落</li>
-              </ul>
-            ]]>
-        </detail>
-    </content>
-
 
     <content>
         <type>html</type>
         <detail>
-            <![CDATA[ <br /> ]]>
+            <![CDATA[
+        <h4>小于1岁的孩子：</h4>
+            <p style="text-indent: 2em;">
+不要留孩子一个人在沙发上、床上、桌子上、柜台上或其它高的地方。
+当更换尿布或衣服时必须至少一个手要抓住孩子。
+婴儿车必须是稳定的，并且放置的位置是孩子和车子不会翻倒的地方。
+保持婴儿床的床栏拉上，并且当孩子长大时降低被褥的高度。把一些杂物和玩具移开，这样能防止孩子用这些作为台阶越过床栏。
+当使用学步车，高的椅子，秋千，婴儿车或购物车时，请系好安全带。
+</p>
+              <br/>
+            ]]>
         </detail>
     </content>
+
     <content>
-        <type>squre_box</type>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+        <h4>1-5岁的儿童：</h4>
+            <p style="text-indent: 2em;">
+在楼梯的上下安装坚固的门。
+安装窗的防护装置，在窗前空开一定空间，不要放置家具。
+保持通向阳台及防火梯的门锁住。
+运动/游戏场地的表面必须是柔软的，运用防震的材料如木屑或碎的橡胶。
+运动/游戏场地的设备必须是得到很好的维护和设备是年龄相适应的。
+当孩子在玩秋千、滑梯、和跷跷板时需要在旁密切监护。
+当孩子在爬楼梯或乘电梯时拉住孩子的手；教导孩子拉好扶手防止跌倒。
+儿童自行车必须有好的防护并且是适合孩子年龄大小的。
+让孩子骑车时戴好安全帽。
+当孩子同大人一起骑在车上时，孩子必须有后置式座椅并且戴头盔。
+有缺陷的孩子需要更多的关注和监护来预防跌落。
+              </p>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>end_bar</type>
+    </content>
+    <content>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="3"></a>三、预防孩子烫伤
@@ -287,65 +266,85 @@
             ]]>
         </detail>
     </content>
+    <content>
+        <type>green_bar</type>
+    </content>
 
     <content>
-        <type>half_box_red</type>
-        <head>烫伤预防措施：</head>
+        <type>html</type>
         <detail>
             <![CDATA[
-            <ul>
-<li>使用热水袋：热水袋外边用毛巾包裹，手摸上去不烫为宜。
-注意拧紧盖子，检查无误才能放置于包被外。定时更换温水。</li>
-<li>给孩子洗澡：先放冷水后再兑热水，水温不高于40℃。热水器水温需要设置在48℃以下。</li>
-<li>暖气和火炉的周围一定要设围栏，以防孩子进入</li>
-<li>将厨房的门上锁，不要让孩子轻易进入厨房</li>
-<li>将可能造成烫伤的危险品移开或加上防护措施，如热水瓶不要放在桌子上，熨斗等电器用具要放在孩子够不到的地方。</li>
-<li>桌子上不要摆放桌布，防止孩子拉下桌布，弄倒桌上的热的饭碗、暖瓶而烫着自己。</li>
-<li>在靠近孩子的地方喝热的液体或使用热水时需要格外小心，因为他们可能会用手或脚去碰倒热水容器。</li>
-<li>不要抱着孩子并且拿着热的饮料或和热的液体。</li>
-<li>不要边吸烟边照看孩子</li>
-              </ul>
+            <h4>烫伤预防措施：</h4>
+            <p style="text-indent: 2em;">
+使用热水袋时，热水袋外边用毛巾包裹，手摸上去不烫为宜。
+注意拧紧盖子，检查无误才能放置于包被外。定时更换温水。
+</p>
+
+            <p style="text-indent: 2em;">
+给孩子洗澡时，先放冷水后再兑热水，水温不高于40℃。热水器水温需要设置在48℃以下。
+</p>
+            <p style="text-indent: 2em;">
+暖气和火炉的周围一定要设围栏，以防孩子进入。
+将厨房的门上锁，不要让孩子轻易进入厨房。
+</p>
+            <p style="text-indent: 2em;">
+将可能造成烫伤的危险品移开或加上防护措施，如热水瓶不要放在桌子上，熨斗等电器用具要放在孩子够不到的地方。
+桌子上不要摆放桌布，防止孩子拉下桌布，弄倒桌上的热的饭碗、暖瓶而烫着自己。
+在靠近孩子的地方喝热的液体或使用热水时需要格外小心，因为他们可能会用手或脚去碰倒热水容器。
+不要抱着孩子并且拿着热的饮料或和热的液体。
+不要边吸烟边照看孩子。
+              </p>
+              <br/>
             ]]>
         </detail>
     </content>
 
     <content>
-        <type>half_box_red</type>
-        <head>轻度烫伤紧急处理：</head>
+        <type>html</type>
         <detail>
             <![CDATA[
+        <h4>轻度烫伤紧急处理：</h4>
+            <p style="text-indent: 2em;">
             应立即把孩子拎到水龙头下用冷水冲洗，使皮肤冷却，防止形成水疱。
             如果水疱已形成，不要弄破水疱，也不要往患处涂任何药膏或药水，
             只要在上面置一块清洁、无绒毛的纱布固定，再到医院外科或急诊室作进一步处理。
+            </p>
             ]]>
         </detail>
-    </content>
-
-    <content>
-        <type>half_box_red</type>
-        <head>严重伤紧急处理：</head>
-        <detail>
-            <![CDATA[
-            首先不要强行脱衣，要十分小心地用剪刀剪开衣服，慢慢取下。
-            不要碰到烫伤的皮肤，然后立即将烫伤处浸泡在冷水中，
-            或者用浸透冷水的被单或毛巾敷在烫伤处，注意不要摩擦皮肤，
-            随后尽快到医院急诊室或外科救治
-            ]]>
-        </detail>
-    </content>
-
-    <content>
-        <type>img</type>
-        <src>resources/img/anquanpian/image027.jpg</src>
     </content>
     <content>
         <type>img</type>
         <src>resources/img/anquanpian/image033.jpg</src>
     </content>
 
+    <content>
+        <type>img</type>
+        <src>resources/img/anquanpian/image027.jpg</src>
+    </content>
 
     <content>
-        <type>squre_box</type>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <br/>
+        <h4>严重伤紧急处理：</h4>
+            <p style="text-indent: 2em;">
+            首先不要强行脱衣，要十分小心地用剪刀剪开衣服，慢慢取下。
+            不要碰到烫伤的皮肤，然后立即将烫伤处浸泡在冷水中，
+            或者用浸透冷水的被单或毛巾敷在烫伤处，注意不要摩擦皮肤，
+            随后尽快到医院急诊室或外科救治
+            </p>
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>end_bar</type>
+    </content>
+
+
+    <content>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="4"></a>四、预防孩子窒息
@@ -364,82 +363,80 @@
             ]]>
         </detail>
     </content>
+    <content>
+        <type>red_bar</type>
+    </content>
 
     <content>
-        <type>half_box_green</type>
+        <type>html</type>
         <head>窒息的原因：</head>
         <detail>
             <![CDATA[
-            <ul>
-<li>年幼孩子的气道发育不完善</li>
-<li>年幼孩子的咀嚼和吞咽食物的能力不发达。孩子不能完成充分咀嚼直到4岁，所以他们会尝试把食物整个咽下去</li>
-<li>把一些物体放入口中是年幼的孩子探索环境的方式之一</li>
-              </ul>
-            ]]>
-        </detail>
-    </content>
+        <h4>窒息的原因：</h4>
+            <p style="text-indent: 2em;">
+年幼孩子的气道发育不完善。
+年幼孩子的咀嚼和吞咽食物的能力不发达。孩子不能完成充分咀嚼直到4岁，所以他们会尝试把食物整个咽下去。
+把一些物体放入口中是年幼的孩子探索环境的方式之一。
+              </p>
+              <br/>
+        <h4>窒息的预防措施：</h4>
+            <p style="text-indent: 2em;">
+小于四岁的孩子尽量避免给予葡萄、爆米花、坚果、果冻、硬糖果等。
+让孩子坐下吃东西，吃切成小块的食物，当嘴巴有食物的时候不要讲话或大笑。
+咀嚼口香糖对年幼孩子是不合适的。
+捡起任何在地板上可能让孩子拿到嘴里的小物件：如笔套、硬币、纽扣电池、电池、珠子、漏气的气球、玩具掉落的小部件等，避免误食引起窒息。
+</p>
 
-    <content>
-        <type>half_box_green</type>
-        <head>窒息的预防措施：</head>
-        <detail>
-            <![CDATA[
-            <ul>
-<li>小于四岁的孩子尽量避免给予葡萄、爆米花、坚果、果冻、硬糖果等。</li>
-<li>让孩子坐下吃东西，吃切成小块的食物，当嘴巴有食物的时候不要讲话或大笑。</li>
-<li>咀嚼口香糖对年幼孩子是不合适的。</li>
-<li>捡起任何在地板上可能让孩子拿到嘴里的小物件：如笔套、硬币、纽扣电池、电池、珠子、漏气的气球、玩具掉落的小部件等，避免误食引起窒息。</li>
-<li>避免把一些东西如绳子或围巾等绕在孩子的头颈。去除衣服上小的装饰品。</li>
-<li>选用透气的枕头、被单、床单，避免孩子在睡觉时不慎被闷住</li>
-<li>婴儿每次喂奶后立即抱起，轻拍后背，打嗝后再轻轻放下并侧卧。</li>
-<li>将药品、杀虫剂、清洁剂这类含有毒性物质的产品放置在孩子拿不到的高处或可上锁的橱柜内，避免孩子随手取得而误食。</li>
-<li>洗完澡后，应立刻将澡盆或浴缸的水全部放掉。不要让孩子接近大型的、装有水的容器，比如浴缸或水桶。</li>
-<li>尽量将塑料袋放在高处或孩子拿不到的地方</li>
-<li>窗帘的绳子应该捆好置于高处，以避免孩子拉着绳子玩</li>
-            </ul>
-            ]]>
-        </detail>
-    </content>
+            <p style="text-indent: 2em;">
+避免把一些东西如绳子或围巾等绕在孩子的头颈。去除衣服上小的装饰品。
+选用透气的枕头、被单、床单，避免孩子在睡觉时不慎被闷住。
+</p>
 
-    <content>
-        <type>half_box_green</type>
-        <head>窒息的表现：</head>
-        <detail>
-            <![CDATA[
+            <p style="text-indent: 2em;">
+婴儿每次喂奶后立即抱起，轻拍后背，打嗝后再轻轻放下并侧卧。
+</p>
+
+            <p style="text-indent: 2em;">
+将药品、杀虫剂、清洁剂这类含有毒性物质的产品放置在孩子拿不到的高处或可上锁的橱柜内，避免孩子随手取得而误食。
+洗完澡后，应立刻将澡盆或浴缸的水全部放掉。不要让孩子接近大型的、装有水的容器，比如浴缸或水桶。
+尽量将塑料袋放在高处或孩子拿不到的地方。
+窗帘的绳子应该捆好置于高处，以避免孩子拉着绳子玩。
+</p>
+<br/>
+        <h4>窒息的表现：</h4>
+            <p style="text-indent: 2em;">
             窒息是一个威胁生命的紧急状况。
             当一个孩子窒息时，她/他会表现出：突发的，开始喘气或喘息；
             不能讲话，哭或发出声音；脸色开始发青；
             掐住她/他自己的喉咙或挥舞手臂；出现惊慌失措。
+            </p>
+            <br/>
+        <h4>窒息的紧急处理：</h4>
+            <p style="text-indent: 2em;">
+如果受过专门的窒息急救训练，立即使用Heimlich手法（腹部压法）进行急救。
+如果不知道正确的手法，呼救，因为不正确的手法可能会伤害孩子。
+</p>
+
+            <p style="text-indent: 2em;">
+不要尝试进到孩子口中深处抠取物体或直接拍击后背，因为这可能会使物品进入更深的位置。
+误吸异物后一定不要给孩子喝水，这样非但不会把异物冲下去，还可能引起再次呛咳
+</p>
+
+            <p style="text-indent: 2em;">
+如果孩子只是有呛咳但能呼吸和讲话，那说明气道没有完全梗阻，观察孩子咳嗽情况。一般孩子在咳嗽停止后就恢复了。
+如果孩子窒息了并且没有意识、不能呼吸，马上拨打急救电话。如果受过CPR培训，可以先进行CPR。
+如果孩子经历过严重的窒息状态，尤其是有持续的咳嗽或喘息，或者有严重的呼吸和吞咽困难，需要带孩子马上去医院检查。
+</p>
             ]]>
         </detail>
     </content>
-
     <content>
-        <type>half_box_green</type>
-        <head>窒息的紧急处理：</head>
-        <detail>
-            <![CDATA[
-            <ul>
-<li>如果受过专门的窒息急救训练，立即使用Heimlich手法（腹部压法）进行急救。
-如果不知道正确的手法，呼救，因为不正确的手法可能会伤害孩子。</li>
-<li>不要尝试进到孩子口中深处抠取物体或直接拍击后背，因为这可能会使物品进入更深的位置。
-</li>
-<li>误吸异物后一定不要给孩子喝水，这样非但不会把异物冲下去，还可能引起再次呛咳
-</li>
-<li>如果孩子只是有呛咳但能呼吸和讲话，那说明气道没有完全梗阻，观察孩子咳嗽情况。一般孩子在咳嗽停止后就恢复了。
-</li>
-<li>如果孩子窒息了并且没有意识、不能呼吸，马上拨打急救电话。如果受过CPR培训，可以先进行CPR。
-</li>
-<li>如果孩子经历过严重的窒息状态，尤其是有持续的咳嗽或喘息，或者有严重的呼吸和吞咽困难，需要带孩子马上去医院检查。
-</li>
-</ul>
-            ]]>
-        </detail>
+        <type>end_bar</type>
     </content>
 
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="5"></a> 五、如何防止交叉感染
@@ -447,67 +444,47 @@
         </detail>
     </content>
 
-
     <content>
-        <type>half_box_brown</type>
-        <head>洗手：</head>
-        <detail>
-            <![CDATA[
-           洗手是最有效的预防疾病传播的方法。我们每天都用手来做各种各样的事情，
-           在此同时，我们的手也会接触到数以百万计的细菌。所以，我们每天都应该进行彻底地洗手来去除细菌和保护自己和相接触的人。
-           <br/>
-           <br/>
-            <ul>
-            <li>
-给孩子喂水喂食前，给孩子拿取食物前，泡制配方奶前，给孩子洗脸前
-</li>
-            <li>
-换取尿布后，协助孩子大小便后，处理过垃圾后，接触过较脏的物品后
-</li>
-            <li>
-家属或亲戚朋友探访时，在进入病房接触孩子前、后都要洗手
-</li>
-
-            </ul>
-            ]]>
-        </detail>
+        <type>brown_bar</type>
     </content>
-
-    <content>
-        <type>half_box_brown</type>
-        <head>不要与其他孩子交换物品，不要窜房：</head>
-        <detail>
-            <![CDATA[
-            不同床位的病人，病人家属之间不要互相走动，不要交换患儿使用的物品（包括玩具、碗、勺等）。
-            ]]>
-    </detail>
-    </content>
-    <content>
-        <type>half_box_brown</type>
-        <head>注意咳嗽、打喷嚏时的卫生：</head>
-        <detail>
-            <![CDATA[
-            有呼吸道感染时，咳嗽或打喷嚏时要用纸巾或手帕捂住口，避开直接对着他人；在离开自己床单位时请主动戴上口罩。
-            ]]>
-        </detail>
-    </content>
-
-    <content>
-        <type>half_box_brown</type>
-        <head>腹泻病人处理：</head>
-        <detail>
-            <![CDATA[
-            腹泻病人避免将分泌物污染周围环境，一旦污染请立即告诉病区护士或护工进行清洁消毒处理。
-            ]]>
-        </detail>
-    </content>
-
 
     <content>
         <type>html</type>
         <detail>
-            <![CDATA[ <hr /> ]]>
+            <![CDATA[
+        <h4>洗手：</h4>
+            <p style="text-indent: 2em;">
+           洗手是最有效的预防疾病传播的方法。我们每天都用手来做各种各样的事情，
+           在此同时，我们的手也会接触到数以百万计的细菌。所以，我们每天都应该进行彻底地洗手来去除细菌和保护自己和相接触的人。
+        </p>
+            <p style="text-indent: 2em;">
+给孩子喂水喂食前，给孩子拿取食物前，泡制配方奶前，给孩子洗脸前;
+换取尿布后，协助孩子大小便后，处理过垃圾后，接触过较脏的物品后;
+家属或亲戚朋友探访时，在进入病房接触孩子前、后都要洗手。
+</p>
+<br/>
+        <h4>不要与其他孩子交换物品，不要窜房：</h4>
+        <detail>
+            <![CDATA[
+            <p style="text-indent: 2em;">
+            不同床位的病人，病人家属之间不要互相走动，不要交换患儿使用的物品（包括玩具、碗、勺等）。
+            </p>
+            <br/>
+        <h4>注意咳嗽、打喷嚏时的卫生：</h4>
+            <p style="text-indent: 2em;">
+            有呼吸道感染时，咳嗽或打喷嚏时要用纸巾或手帕捂住口，避开直接对着他人；在离开自己床单位时请主动戴上口罩。
+            </p>
+            <br/>
+        <h4>腹泻病人处理：</h4>
+            <p style="text-indent: 2em;">
+            腹泻病人避免将分泌物污染周围环境，一旦污染请立即告诉病区护士或护工进行清洁消毒处理。
+            </p>
+            ]]>
         </detail>
+    </content>
+
+    <content>
+        <type>end_bar</type>
     </content>
 
     <content>

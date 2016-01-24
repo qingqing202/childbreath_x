@@ -81,7 +81,7 @@
     </content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            一、<a name="1"></a>0月～6月龄婴儿喂养指南
@@ -89,11 +89,12 @@
         </detail>
     </content>
 
+    <content><type>red_bar</type></content>
+
     <content>
-        <type>half_box_red</type>
+        <type>html</type>
         <detail>
             <![CDATA[
-            <ul>
 <li>纯母乳喂养，母乳是6个月龄之内婴儿最理想的天然食品。
 </li>
 <li>产后尽早开奶，初乳营养最好
@@ -109,7 +110,6 @@
 <li>辅食添加：1-3月---水果汁、菜汤、鱼肝油制剂；
 4-6月---米汤、米糊、稀粥、蛋黄、鱼泥、豆腐、动物血、菜泥、水果
 </li>
-            </ul>
             ]]>
         </detail>
     </content>
@@ -118,9 +118,10 @@
         <src>resources/img/yingyangpian/image093.jpg</src>
     </content>
 
+    <content><type>end_bar</type></content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="2"></a>二、6月～12月龄婴儿喂养指南
@@ -128,8 +129,10 @@
         </detail>
     </content>
 
+    <content><type>green_bar</type></content>
+
     <content>
-        <type>half_box_green</type>
+        <type>html</type>
         <detail>
             <![CDATA[
 <li>奶类优先，继续母乳喂养，建议每天应首先保证600毫升～800毫升的奶量，母乳仍是婴儿的首选食品。
@@ -175,9 +178,14 @@
             ]]>
         </detail>
     </content>
-
     <content>
-        <type>squre_box</type>
+        <type>img</type>
+        <src>resources/img/yingyangpian/53ab553d6d84e9bb10a4ed5a96f44932.jpg</src>
+    </content>
+
+    <content><type>end_bar</type></content>
+    <content>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="3"></a>三、1岁～3岁幼儿喂养指南
@@ -186,8 +194,9 @@
     </content>
 
 
+    <content><type>brown_bar</type></content>
     <content>
-        <type>half_box_brown</type>
+        <type>html</type>
         <detail>
             <![CDATA[
             <ul>
@@ -211,10 +220,16 @@
             ]]>
         </detail>
     </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/yingyangpian/2abd0e1373a4b04776e76728dac1ac6d.jpg</src>
+    </content>
+
+    <content><type>end_bar</type></content>
 
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="4"></a>四、学龄前儿童膳食指南
@@ -251,7 +266,7 @@
     </content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="5"></a> 五、儿童青少年膳食指南
@@ -278,7 +293,7 @@
     </content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="6"></a> 六、如何给患病的孩子喂食/水
@@ -315,19 +330,21 @@
     </content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="7"></a> 七、婴儿奶瓶喂养法
            ]]>
         </detail>
     </content>
+    <content><type>red_bar</type></content>
 
     <content>
-        <type>half_box_red</type>
+        <type>html</type>
         <head>喂奶前</head>
         <detail>
             <![CDATA[
+        <h4>喂奶前</h4>
             <ul>
 <li>建议喂奶前为孩子更换干净尿布，以减少喂奶后的搬动。
 </li>
@@ -340,15 +357,7 @@
 <li>斜抱起孩子，将孩子头部枕于肘窝处，或置孩子半卧位头偏向一侧，置小毛巾于孩子颈部。注意保暖。
 </li>
             </ul>
-            ]]>
-        </detail>
-    </content>
-
-    <content>
-        <type>half_box_red</type>
-        <head>喂奶中</head>
-        <detail>
-            <![CDATA[
+        <h4>喂奶中</h4>
             <ul>
 <li>奶嘴要充满奶液，不能有空气，以免吸入过多的空气引起腹胀，影响消化。
 </li>
@@ -361,15 +370,7 @@
 <li>如有孩子窒息应立即头低脚高位，侧卧，拍背部，同时呼叫护士。
 </li>
             </ul>
-            ]]>
-        </detail>
-    </content>
-
-    <content>
-        <type>half_box_red</type>
-        <head>喂奶后</head>
-        <detail>
-            <![CDATA[
+        <h4>喂奶后</h4>
             <ul>
 <li>喂奶完毕，抱起孩子，轻拍背部驱气，然后放回床上，让孩子右侧卧位，减少溢奶和呛咳的风险。
 </li>
@@ -385,6 +386,11 @@
             ]]>
         </detail>
     </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/yingyangpian/f763c6fbf5e52444a1fd2b6c1efe76ef.jpg</src>
+    </content>
+    <content><type>end_bar</type></content>
 
     <content>
         <type>html</type>

@@ -236,7 +236,6 @@
                         </section>
                     </section>
                 </section>
-                <br/>
          <%
          }else if ( hash_for_content.get("type").equals("squre_box")) { %>
                 <section class="wxqq Powered-by-WeixinQuanquan.com">
@@ -328,8 +327,22 @@
                     </section>
                 </section>
                 <p><br/></p>
-
-
+                <%
+                } else if (hash_for_content.get("type").equals("red_bar")) {
+                %>
+                <div class="bs-callout bs-callout-danger">
+                <%
+                } else if (hash_for_content.get("type").equals("brown_bar")) {
+                %>
+                <div class="bs-callout bs-callout-warning">
+                <%
+                } else if (hash_for_content.get("type").equals("green_bar")) {
+                %>
+                <div class="bs-callout bs-callout-info">
+                <%
+                } else if (hash_for_content.get("type").equals("end_bar")) {
+                %>
+                   </div>
                 <%
                     } else if (hash_for_content.get("type").equals("flowChart")) {
                 %>
@@ -360,6 +373,55 @@
                     } else if ( hash_for_content.get("type").equals("section1_begin")) {
                 %>
 
+                <section class="aimeibian" style="border: 0px none; padding: 0px;">
+                    <section style="margin: 0px auto; padding: 0px;">
+                        <section class="aimeibian" style="border: 0px none; padding: 0px;">
+                            <section style="margin:0; padding:0; text-align:center">
+                                <section style="margin:0; padding:0 15px; min-width:2em; height:30px; line-height:30px; background:rgb(243,202,48); color:rgb(255,255,255);display:inline-block; border-radius:0 0 10px 10px; font-size:18px; font-weight:bold">
+                                    <section style="margin:0; padding:0; text-align:center">
+                                        <span style="color:inherit">
+                                            <%=hash_for_content.get("title")%>
+                                        </span>
+                                    </section>
+                                </section>
+                            </section>
+                        </section>
+                        <section class="aimeibian" style="border: 0px none; padding: 0px;" data-ele="">
+                            <section style="margin:-20px 10px 0 10px; padding:18px 0px; background:rgb(252,239,215); color:rgb(51,120,155);border-radius:10px 10px 0 0;">
+                                <section class="aimeibian" style="border: 0px none; padding: 0px;" data-ele="">
+                                    <section style="margin-top:10px; padding:0 10px 0 20px; color:rgb(0,0,0); ">
+                                        <p style="color:inherit; line-height:1.5em;">
+                                            <span style="color: inherit; line-height: 1.5em; text-align: center; ">
+
+                        <%
+                    } else if ( hash_for_content.get("type").equals("section1_end")) {
+                        %>
+                                </span>
+                                </p>
+                            </section>
+                        </section>
+                    </section>
+                </section>
+                </section>
+                </section>
+                <br/>
+
+                <%
+                } else if ( hash_for_content.get("type").equals("title_snow")) {
+                %>
+
+                <section class="aimeibian" style="border: 0px none; padding: 0px;">
+                    <section style="margin:0; padding:0; width:100%; display:inline-block">
+                        <section style="border:none;margin:5px 0 0;padding:5px;background:none">
+                            <section style="margin-top:-1px;margin-bottom:0;min-height:50px;visibility:visible;height:50px;line-height:50px;border-radius:3px;text-align:center;color:rgb(0,0,0);box-shadow:0 2px 2px rgb(189,189,189);padding-left:10px;background-color:rgb(102,204,255)">
+                                <span style="color:inherit;">
+                                    <%=hash_for_content.get("detail")%>
+                                </span>
+                                <img style="float:right" width="57" height="50" src="https://mmbiz.qlogo.cn/mmbiz/PaCPwXIogdsTGIURmJBTGANaHXPhU52bjtvj4L3OsqxrppyBptEKCBnKUsYO5KqseOiatKqXB1MMBUx0tqZgIgA/0?wx_fmt=png"/>
+                            </section>
+                        </section>
+                    </section>
+                </section>
 
 
                 <%
@@ -435,9 +497,9 @@
   }
 %>
 
+
+
                 <!--
-
-
                 <section class="aimeibian" style="border: 0px none; padding: 0px;">
                     <section style="margin: 0px auto; padding: 0px;">
                         <section class="aimeibian" style="border: 0px none; padding: 0px;">
@@ -453,12 +515,7 @@
                             <section style="margin:-20px 10px 0 10px; padding:18px 0px; background:rgb(252,239,215); color:rgb(51,120,155);border-radius:10px 10px 0 0;">
                                 <section class="aimeibian" style="border: 0px none; padding: 0px;" data-ele="">
                                     <section style="margin-top:10px; padding:0 10px 0 20px; color:rgb(0,0,0); ">
-                                        <p style="color:inherit; line-height:1.5em; text-indent:2em;">
-                                            <span style="color: inherit; line-height: 1.5em; text-align: center; ">
-                                                不够可以复制，点击在后边插入空行再点击复制然后粘贴......
-                                            </span>
-                                        </p>
-                                        <p style="color:inherit; line-height:1.5em; text-indent:2em;">
+                                        <p style="color:inherit; line-height:1.5em;">
                                             <span style="color: inherit; line-height: 1.5em; text-align: center; ">
                                                 不够可以复制，点击在后边插入空行再点击复制然后粘贴......
                                             </span>
@@ -469,6 +526,20 @@
                         </section>
                     </section>
                 </section>
+                <section class="aimeibian" style="border: 0px none; padding: 0px;">
+                    <section style="margin:0; padding:0; width:100%; display:inline-block">
+                        <section style="border:none;margin:5px 0 0;padding:5px;background:none">
+                            <section style="margin-top:-1px;margin-bottom:0;min-height:50px;visibility:visible;height:50px;line-height:50px;border-radius:3px;text-align:left;color:rgb(0,0,0);box-shadow:0 2px 2px rgb(189,189,189);padding-left:10px;background-color:rgb(102,204,255)">
+                                <span style="font-size:16px; color:inherit;">
+                                    请输入标题
+                                </span> &nbsp; &nbsp; &nbsp; &nbsp;<img style="float:right" width="57" height="50" src="https://mmbiz.qlogo.cn/mmbiz/PaCPwXIogdsTGIURmJBTGANaHXPhU52bjtvj4L3OsqxrppyBptEKCBnKUsYO5KqseOiatKqXB1MMBUx0tqZgIgA/0?wx_fmt=png"/>
+                            </section>
+                        </section>
+                    </section>
+                </section>
+                <p>
+                    <br/>
+                </p>
                 -->
 
             </div>

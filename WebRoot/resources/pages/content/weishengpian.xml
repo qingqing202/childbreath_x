@@ -86,7 +86,7 @@
     </content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            一、<a name="1"></a>如何给孩子洗脸
@@ -119,63 +119,33 @@
         </detail>
     </content>
 
-    <content>
-        <type>html</type>
-        <detail>
-            <![CDATA[ <br /> ]]>
-        </detail>
-    </content>
-
-
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="2"></a>二、如何协助孩子口腔清洁
            ]]>
         </detail>
     </content>
+    <content><type>green_bar</type></content>
 
-    <content>
-        <type>dot_box</type>
-        <detail>
-            <![CDATA[
-            不同年龄段的孩子要选用不同的方法进行口腔清洁。
-            ]]>
-        </detail>
-    </content>
 
 
     <content>
-        <type>half_box_green</type>
-        <head>新生儿：</head>
+        <type>html</type>
         <detail>
             <![CDATA[
-            口腔清洁一般在喂奶后1小时进行，将清洁纱布蘸以温水，适当绞干，在手指上包以清洁纱布，清洁新生儿的口腔。
-            ]]>
-        </detail>
-    </content>
-
-    <content>
-        <type>half_box_green</type>
-        <head>1-2岁的儿童：</head>
-        <detail>
-            <![CDATA[
-            在餐后喂少量水，以清除口腔内的事物残渣。
-            ]]>
-        </detail>
-    </content>
-    <content>
-        <type>half_box_green</type>
-        <head>2岁以上的儿童：</head>
-        <detail>
-            <![CDATA[
-            <ol>
-<li>漱口：让孩子将温开水含在嘴中，然后鼓动双颊及唇部，用舌头在口腔内搅动，使漱口水高速反复地冲击口腔各个角落，将口腔内食物碎屑和部分软垢清除。家长最好先示范一遍漱口的方法，孩子的模仿力是很强的。
-</li>
-<li>刷牙：选用幼儿专用的软毛小头牙刷，儿童牙膏。采用水平式的横向刷法刷牙
-</li>
+            <p style="text-indent:2em;">不同年龄段的孩子要选用不同的方法进行口腔清洁。</p>
+        <h4>新生儿：</h4>
+            <p style="text-indent:2em;">口腔清洁一般在喂奶后1小时进行，将清洁纱布蘸以温水，适当绞干，在手指上包以清洁纱布，清洁新生儿的口腔。</p>
+        <h4>1-2岁的儿童：</h4>
+            <p style="text-indent:2em;">在餐后喂少量水，以清除口腔内的事物残渣。</p>
+        <h4>2岁以上的儿童：</h4>
+<p style="text-indent:2em;">漱口：让孩子将温开水含在嘴中，然后鼓动双颊及唇部，用舌头在口腔内搅动，使漱口水高速反复地冲击口腔各个角落，将口腔内食物碎屑和部分软垢清除。家长最好先示范一遍漱口的方法，孩子的模仿力是很强的。
+</p>
+<p style="text-indent:2em;">刷牙：选用幼儿专用的软毛小头牙刷，儿童牙膏。采用水平式的横向刷法刷牙
+</p>
 <ul>
 <li>将刷毛对准牙齿与牙龈交接的地方，刷上颚牙齿时刷毛朝上，刷下颚牙齿时刷毛朝下。
 </li>
@@ -193,10 +163,9 @@
 </li>
 </ul>
 
-<li>
+<p style="text-indent:2em;">
 避免让孩子常吃糖分高、粘性强的食物，尤其在睡觉前。
-</li>
-</ol>
+</p>
 
             ]]>
         </detail>
@@ -205,6 +174,7 @@
         <type>img</type>
         <src>resources/img/weishengpian/link.jpg</src>
     </content>
+    <content><type>end_bar</type></content>
 
     <content>
         <type>html</type>
@@ -213,7 +183,7 @@
         </detail>
     </content>
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="3"></a>三、如何给生病的孩子擦身
@@ -221,11 +191,12 @@
         </detail>
     </content>
 
+    <content><type>brown_bar</type></content>
     <content>
-        <type>half_box_brown</type>
-        <head>擦身前：</head>
+        <type>html</type>
         <detail>
             <![CDATA[
+        <h4>擦身前：</h4>
             <ul>
 <li>准备用物：温水（水温40℃～42℃，热而不烫为宜）、面盆、大小毛巾、清洁衣裤、沐浴露、润肤露（必要时）
 </li>
@@ -234,15 +205,7 @@
 <li>照护者注意洗手
 </li>
               </ul>
-            ]]>
-        </detail>
-    </content>
-
-    <content>
-        <type>half_box_brown</type>
-        <head>擦身中：</head>
-        <detail>
-            <![CDATA[
+        <h4>擦身中：</h4>
 <ul>
 <li>将湿毛巾包在手上，洗脸及颈部，再用拧干的毛巾依次擦洗一遍。（注意耳后及颈部皮肤皱褶部位）。
 </li>
@@ -257,15 +220,7 @@
 <li>擦浴时注意各种导管，避免不必要的移动，如有需要，向护士提出帮助。
 </li>
 </ul>
-            ]]>
-        </detail>
-    </content>
-
-    <content>
-        <type>half_box_brown</type>
-        <head>擦身后：</head>
-        <detail>
-            <![CDATA[
+        <h4>擦身后：</h4>
 <ul>
 <li>擦洗后为孩子换上清洁衣裤。皮肤干燥者可给予涂抹润肤露。如有外伤，应先穿患侧，后穿健侧。
 </li>
@@ -280,9 +235,10 @@
         </detail>
     </content>
 
+    <content><type>end_bar</type></content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="4"></a>四、如何帮生病的孩子更换衣服
@@ -294,16 +250,16 @@
         <type>half_box_red</type>
         <detail>
             <![CDATA[
-物品准备：
+<h4>物品准备：</h4>
 
 <ul>
 <li>一套清洁衣裤</li>
 </ul>
-环境准备：
+<h4>环境准备：</h4>
 <ul>
 <li>给孩子提供遮挡，注意保暖</li>
 </ul>
-步骤：
+<h4>步骤：</h4>
 <ul>
 	<li>协助孩子采取舒适的姿势：病情稳定可采取半坐卧位或坐位更换；手术、卧床或有导管则需要护士更换。
 	</li>
@@ -334,51 +290,38 @@
 
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="5"></a> 五、婴儿沐浴注意事项
            ]]>
         </detail>
     </content>
+    <content><type>green_bar</type></content>
 
     <content>
-        <type>img</type>
-        <src>resources/img/weishengpian/xizao.jpg</src>
-    </content>
-    <content>
-        <type>dot_box</type>
+        <type>html</type>
         <detail>
             <![CDATA[
-            沐浴是为了保持患儿皮肤清洁，促进全身血液循环，使患儿舒适。
-在给您的孩子进行沐浴时，下列事项请特别注意：
-
+            <p style="text-indent:2em;">沐浴是为了保持患儿皮肤清洁，促进全身血液循环，使患儿舒适。
+在给您的孩子进行沐浴时，下列事项请特别注意：</p>
             ]]>
         </detail>
     </content>
 
 
     <content>
-        <type>half_box_green</type>
-        <head>沐浴前：</head>
+        <type>html</type>
         <detail>
             <![CDATA[
+        <h4>沐浴前：</h4>
             <ul>
 <li>环境准备--关闭浴室门窗，先调节室温，26-28℃为佳。
 </li>
 <li>物品准备---给孩子准备清洁柔软的棉质内衣，洗澡的毛巾两条和大毛巾一条，若干婴儿沐浴产品。
 </li>
             </ul>
-            ]]>
-        </detail>
-    </content>
-
-    <content>
-        <type>half_box_green</type>
-        <head>沐浴时：</head>
-        <detail>
-            <![CDATA[
-
+        <h4>沐浴时：</h4>
             <ul>
 <li>盆浴时先放半盆热水，水温约38℃～40℃（手肘皮肤试温，以热而不烫为宜）。必要时，盆底垫毛巾，以防孩子滑倒。
 </li>
@@ -394,15 +337,7 @@
 </li>
 </ul>
 
-            ]]>
-    </detail>
-    </content>
-    <content>
-        <type>half_box_green</type>
-        <head>沐浴后：</head>
-        <detail>
-            <![CDATA[
-
+        <h4>沐浴后：</h4>
             <ul>
 <li>将孩子抱出，用大毛巾从头至足将皮肤擦干，注意擦干皮肤皱褶处，皱褶处可适量扑粉。
 </li>
@@ -413,36 +348,37 @@
             ]]>
         </detail>
     </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/weishengpian/xizao.jpg</src>
+    </content>
 
+    <content><type>end_bar</type></content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="6"></a> 六、更换尿布
            ]]>
         </detail>
     </content>
+    <content><type>brown_bar</type></content>
     <content>
-        <type>img</type>
-        <src>resources/img/weishengpian/niaobu.jpg</src>
-    </content>
-
-    <content>
-        <type>half_box_brown</type>
+        <type>html</type>
         <detail>
             <![CDATA[
-物品准备：
+<h4>物品准备：</h4>
             <ul>
 <li>尿布、毛巾或湿巾、尿布、中性肥皂、棉签、臀部保护霜
 </li>
 </ul>
-环境准备：
+<h4>环境准备：</h4>
 <ul>
 <li>平的表面，如婴儿床或桌子，给予适当遮挡
 </li>
 </ul>
-步骤：
+<h4>步骤：</h4>
 <ul>
 	<li>把孩子平放，保持一个手扶住孩子不让其转动。（始终有一个手扶住孩子，以保证安全）
 	</li>
@@ -468,10 +404,15 @@
             ]]>
         </detail>
     </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/weishengpian/niaobu.jpg</src>
+    </content>
+    <content><type>end_bar</type></content>
 
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="7"></a> 七、会阴清洁
@@ -483,17 +424,17 @@
         <type>half_box_red</type>
         <detail>
             <![CDATA[
-物品准备：
+<h4>物品准备：</h4>
             <ul>
 <li>大小毛巾洗澡盆、温水、一次性大号尿布或塑料布
 </li>
 </ul>
-环境准备：
+<h4>环境准备：</h4>
 <ul>
 <li>提供遮挡、注意保暖
 </li>
 </ul>
-步骤：
+<h4>步骤：</h4>
 <ul>
 <li>查看孩子会阴部有无伤口、失禁等情况，如有异常，及时报告护士。
 </li>
@@ -526,7 +467,7 @@
     </content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="8"></a> 八、肛周清洁
@@ -538,17 +479,18 @@
         <type>half_box_green</type>
         <detail>
             <![CDATA[
-物品准备：
+<h4>物品准备：</h4>
             <ul>
 <li>温水<strong class="text-danger">（水温控制在380C ～420C）</strong>、面盆、软纸巾或干毛巾、必要时备复方新霉素软膏、无菌棉签
 </li>
 </ul>
-环境准备：
+<h4>环境准备：</h4>
 <ul>
 <li>提供遮挡、注意保暖
 </li>
 </ul>
-步骤：
+<h4>步骤：</h4>
+
 <ul>
 <li>洗手，准备温水水温380C ～420C
 </li>
@@ -570,7 +512,7 @@
     </content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="9"></a> 九、足部清洁
@@ -582,17 +524,17 @@
         <type>half_box_brown</type>
         <detail>
             <![CDATA[
-物品准备：
+<h4>物品准备：</h4>
             <ul>
 <li>温水、洗澡盆、毛巾、肥皂、护肤乳液、指甲剪
 </li>
 </ul>
-环境准备：
+<h4>环境准备：</h4>
 <ul>
 <li>提供遮挡、注意保暖
 </li>
 </ul>
-步骤：
+<h4>步骤：</h4>
 <ul>
 <li>了解孩子足部卫生情况和病情，让孩子配合。
 </li>

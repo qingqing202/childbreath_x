@@ -64,19 +64,20 @@
     </content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            一、<a name="1"></a>如何协助孩子上下床
            ]]>
         </detail>
     </content>
+    <content><type>red_bar</type></content>
 
     <content>
-        <type>half_box_red</type>
-        <head>步骤：</head>
+        <type>html</type>
         <detail>
             <![CDATA[
+        <h4>步骤：</h4>
 <ul>
 <li>固定床及床旁椅，避免滑动。
 </li>
@@ -99,17 +100,7 @@
 <li>观察孩子的脸色是否苍白及呼吸速率，如有异常，及时报告护士
 </li>
 </ul>
-            ]]>
-        </detail>
-    </content>
-
-
-
-    <content>
-        <type>half_box_red</type>
-        <head>注意事项：</head>
-        <detail>
-            <![CDATA[
+        <h4>注意事项：</h4>
             <ul>
 <li>操作过程中需要始终观察孩子反应，是否有头晕、不适等情况，如有异常，及时报告护士。
 </li>
@@ -120,9 +111,10 @@
         </detail>
     </content>
 
+    <content><type>end_bar</type></content>
 
     <content>
-        <type>squre_box</type>
+        <type>title_snow</type>
         <detail>
             <![CDATA[
            <a name="2"></a>二、协助孩子坐轮椅
@@ -130,16 +122,13 @@
         </detail>
     </content>
 
-    <content>
-        <type>img</type>
-        <src>resources/img/huodongpian/lunyi1.png</src>
-    </content>
+    <content><type>green_bar</type></content>
 
     <content>
-        <type>half_box_green</type>
-        <head>步骤：</head>
+        <type>html</type>
         <detail>
             <![CDATA[
+        <h4>步骤：</h4>
             <ul>
 <li>准备大小合适的轮椅。检查轮椅功能是否完好。
 </li>
@@ -161,7 +150,12 @@
         </detail>
     </content>
 
+    <content>
+        <type>img</type>
+        <src>resources/img/huodongpian/lunyi1.png</src>
+    </content>
 
+    <content><type>end_bar</type></content>
 
 
     <content>

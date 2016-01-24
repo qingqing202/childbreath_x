@@ -23,19 +23,24 @@
         </date>
     </content>
     <content>
+        <type>dot_box</type>
+        <detail>储雾罐是一种辅助吸入设备，可以用来连接抛射剂及定量吸入器以便治疗呼吸道疾病。
+        储雾罐可以用于减少使用定量吸入器时手口不配合的错误；防止过量药物运送到口腔、咽产生副作用。
+            </detail>
+    </content>
+    <content>
         <type>img</type>
         <src>resources/img/wuhua/卡通储雾罐.jpg</src>
     </content>
-    <content>
-        <type>opacity_box</type>
-        <detail>储雾罐是一种辅助吸入设备，可以用来连接抛射剂及定量吸入器以便治疗呼吸道疾病。
-        储雾罐可以用于减少使用定量吸入器时手口不配合的错误;防止过量药物运送到口腔、咽产生副作用。
-            </detail>
-    </content>
 
     <content>
-        <type>h1</type>
-        <detail>储雾罐的用法</detail>
+        <type>title_snow</type>
+        <detail>
+            一、储雾罐的用法
+        </detail>
+    </content>
+    <content>
+        <type>red_bar</type>
     </content>
 
     <content>
@@ -112,11 +117,17 @@
         <type>img</type>
         <src>resources/img/wuhua/应用2.JPG</src>
     </content>
+    <content><type>end_bar</type></content>
+
 
     <content>
-        <type>h1</type>
-        <detail>消毒与储存</detail>
+        <type>title_snow</type>
+        <detail>二、消毒与储存</detail>
     </content>
+    <content>
+        <type>green_bar</type>
+    </content>
+
     <content>
         <type>html</type>
         <detail>
@@ -171,12 +182,8 @@
         <type>img</type>
         <src>resources/img/wuhua/晾干1.JPG</src>
     </content>
-    <content>
-        <type>html</type>
-        <detail>
-            <![CDATA[ <br /> ]]>
-        </detail>
-    </content>
+
+    <content><type>end_bar</type></content>
 
 
     <content>
