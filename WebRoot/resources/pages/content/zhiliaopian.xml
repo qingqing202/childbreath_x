@@ -236,10 +236,6 @@
         </detail>
     </content>
 
-    <content>
-        <type>img</type>
-        <src>resources/img/zhiliaopian/image074.jpg</src>
-    </content>
     <content><type>brown_bar</type></content>
 
     <content>
@@ -280,6 +276,10 @@
 
             ]]>
         </detail>
+    </content>
+    <content>
+        <type>img</type>
+        <src>resources/img/zhiliaopian/image074.jpg</src>
     </content>
     <content><type>end_bar</type></content>
 

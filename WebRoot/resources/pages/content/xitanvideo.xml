@@ -32,8 +32,11 @@
 
     <content>
         <type>video</type>
-        <detail>http://player.youku.com/embed/XMTI5NzEyNzE0OA==</detail>
-
+        <detail>
+            <![CDATA[
+            http://v.qq.com/iframe/player.html?vid=r0180maz1sk&tiny=0&auto=0</detail>
+            ]]>
+        </detail>
     </content>
     <content>
         <type>html</type>
