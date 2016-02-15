@@ -19,22 +19,28 @@ public class Downloadservlet extends HttpServlet {
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        String relativePath = getServletContext().getRealPath("") + "resources/pdf/";
+        System.out.println("relativePath = " + relativePath);
+
+
         String id = request.getParameter("id");
 
         String filepath;
         String customfilename;
         String fileType;
         if (id.equals("1")) {
-            filepath= "/Users/QQQ/哮喘日记（哮喘儿童长期随访表）.pdf";
+            filepath= relativePath + "哮喘日记（哮喘儿童长期随访表）.pdf";
             customfilename = "哮喘日记（哮喘儿童长期随访表）.pdf";
             fileType = "application/pdf";
         } else if (id.equals("2")) {
-            filepath= "/Users/QQQ/症状及峰流速值记录表.pdf";
+            filepath= relativePath + "症状及峰流速值记录表.pdf";
             customfilename = "症状及峰流速值记录表.pdf";
             fileType = "application/pdf";
         } else {
             return;
         }
+
+        System.out.println("filepath = " + filepath);
 
         //response.setContentType(fileType);
         response.setContentType( fileType + "; charset=GBK");
