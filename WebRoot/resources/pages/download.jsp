@@ -31,30 +31,20 @@
                 <section class="" style="border: 1px solid rgb(249, 110, 87); border-radius: 0px 0px 0.5em 0.5em; padding: 10px;">
                     <section class="Powered-by-XIUMI V5" style="position: static;">
                         <section class="" style="margin-top: 0.5em; margin-bottom: 0.5em; line-height: 1; position: static;">
-                            <section class="" style="display: inline-block; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(249, 110, 87); padding-right: 2px; padding-bottom: 3px; padding-left: 2px;">
-                                <section class="" style="display: inline-block; padding: 0.3em 0.4em; min-width: 1.8em; min-height: 1.6em; line-height: 1; text-align: center; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 240); background-color: rgb(249, 110, 87);">
+                                <span style="display: inline-block; margin-left: 0.4em; color: rgb(249, 110, 87); line-height: 1.4;" class="">
                                     <section>
-                                        1
-                                    </section>
-                                </section><span style="display: inline-block; margin-left: 0.4em; color: rgb(249, 110, 87); line-height: 1.4;" class=""><section>
-                                哮喘日记(哮喘儿童长期随访表)
-                            </section></span>
-                            </section>
+                                    1.哮喘日记(哮喘儿童长期随访表)
+                                    </section></span>
                             <div class="pull-right"><a href="<%=basePath%>download?id=1" class="btn btn-primary active" role="button">下载</a>
                             </div>
                         </section>
                     </section>
+                    <hr/>
                     <section class="Powered-by-XIUMI V5" style="position: static;">
                         <section class="" style="margin-top: 0.5em; margin-bottom: 0.5em; line-height: 1; position: static;">
-                            <section class="" style="display: inline-block; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(249, 110, 87); padding-right: 2px; padding-bottom: 3px; padding-left: 2px;">
-                                <section class="" style="display: inline-block; padding: 0.3em 0.4em; min-width: 1.8em; min-height: 1.6em; line-height: 1; text-align: center; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 240); background-color: rgb(249, 110, 87);">
-                                    <section>
-                                        2
-                                    </section>
-                                </section><span style="display: inline-block; margin-left: 0.4em; color: rgb(249, 110, 87); line-height: 1.4;" class=""><section>
-                                症状及峰流速值记录表
+                                <span style="display: inline-block; margin-left: 0.4em; color: rgb(249, 110, 87); line-height: 1.4;" class=""><section>
+                                2.症状及峰流速值记录表
                             </section></span>
-                            </section>
                             <div class="pull-right"><a href="<%=basePath%>download?id=2" class="btn btn-primary active" role="button">下载</a>
                             </div>
                         </section>
