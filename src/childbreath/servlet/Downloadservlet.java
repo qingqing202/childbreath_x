@@ -3,17 +3,11 @@ package childbreath.servlet;
 import javax.servlet.ServletException;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.io.PrintWriter;
-import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.io.IOException;
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
 import java.io.OutputStream;
-import javax.servlet.ServletContext;
 
 
 /**
@@ -21,64 +15,46 @@ import javax.servlet.ServletContext;
  */
 public class Downloadservlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        System.out.println("post!!");
-
+        System.out.println("post is not allowed");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        System.out.println("get!!");
-        // TODO Auto-generated method stub
+        String id = request.getParameter("id");
 
-        String id= request.getParameter("id");
-        System.out.println("id= " + id);
-
-
-        String path = request.getContextPath();
-        String basePath = request.getScheme() + "://" + request.getServerName() + ":" + request.getServerPort() + path + "/";
-
-        response.setContentType("text/html");
-        PrintWriter out = response.getWriter();
-
-        String filename;
-        if ( id.equals("1") ) {
-            filename = "症状及峰流速值记录表.pdf";
-
-        } else if ( id.equals("2")) {
-            filename = "哮喘日记（哮喘儿童长期随访表）.pdf";
-        } else {
-            return;
-        }
-        //String filename="test.txt";
-        String filepath = basePath+"resources/pdf/";
-        response.setContentType("APPLICATION/OCTET-STREAM");
-        response.setHeader("Content-Disposition", "attachment; filename=\""
-                + filename + "\"");
-
-
-        String filePath;
-        if ( id.equals("1")) {
-            filePath = "/Users/QQQ/症状及峰流速值记录表.pdf";
-        } else if ( id.equals("2")) {
-            filePath = "/Users/QQQ/哮喘日记（哮喘儿童长期随访表）.pdf";
+        String filepath;
+        String customfilename;
+        String fileType;
+        if (id.equals("1")) {
+            filepath= "/Users/QQQ/哮喘日记（哮喘儿童长期随访表）.pdf";
+            customfilename = "哮喘日记（哮喘儿童长期随访表）.pdf";
+            fileType = "application/pdf";
+        } else if (id.equals("2")) {
+            filepath= "/Users/QQQ/症状及峰流速值记录表.pdf";
+            customfilename = "症状及峰流速值记录表.pdf";
+            fileType = "application/pdf";
         } else {
             return;
         }
 
+        //response.setContentType(fileType);
+        response.setContentType( fileType + "; charset=GBK");
 
-         // use inline if you want to view the content in browser, helpful for
-        // pdf file
-        // response.setHeader("Content-Disposition","inline; filename=\"" +
-        // filename + "\"");
-        FileInputStream fileInputStream = new FileInputStream(filePath);
-        System.out.println("111");
+        // Make sure to show the download dialog
+        //response.setHeader("Content-disposition","attachment; filename=\"" + customfilename + "\"");
+        response.addHeader("Content-Disposition", "attachment; filename=" + new String(customfilename.getBytes("GB2312"),"ISO-8859-1"));
 
-        int i;
-        while ((i = fileInputStream.read()) != -1) {
-            out.write(i);
+        File my_file = new File(filepath);
+
+        // This should send the file to browser
+        OutputStream out = response.getOutputStream();
+        FileInputStream in = new FileInputStream(my_file);
+        byte[] buffer = new byte[4096];
+        int length;
+        while ((length = in.read(buffer)) > -1){
+            out.write(buffer, 0, length);
         }
-        System.out.println("211");
-        fileInputStream.close();
+        in.close();
+        out.flush();
         out.close();
-
     }
 }
