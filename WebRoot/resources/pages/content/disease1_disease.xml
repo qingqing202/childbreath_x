@@ -29,8 +29,13 @@
   </a>
 
   <a href="../../resources/pages/detail_content.jsp?name=xiaochuan_all" class="list-group-item opacity35">
-  哮喘
+  哮喘知识
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="http://mp.weixin.qq.com/mp/homepage?__biz=MzI5MDA4MzU1Nw==&hid=1&sn=3911aa11d5429518106536ef62135f59#wechat_redirect" class="list-group-item opacity35">
+  儿童哮喘宝典
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
 
   <a href="../../resources/pages/detail_content.jsp?name=wuhua_all" class="list-group-item opacity35">
   儿童家庭雾化
