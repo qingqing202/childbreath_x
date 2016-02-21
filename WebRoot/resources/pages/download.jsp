@@ -69,11 +69,8 @@
                                         <div class="weui_cell_bd weui_cell_primary">
                                             哮喘日记(哮喘儿童长期随访表)
                                         </div>
-                                        <!--
-                                        <input type="submit" name="btn_view1" class="weui_btn weui_btn_mini weui_btn_primary" value="预览" onclick="clicked='v1'">
-                                        -->
 
-                                        <div class="pull-right"><a href="<%=basePath%>download?id=1" class="btn btn-primary active" role="button">预览</a>
+                                        <div class="pull-right"><a href="<%=basePath%>download?id=1" class="weui_btn weui_btn_mini weui_btn_primary">预览</a>
                                         </div>
                                     </label>
                                     <label class="weui_cell weui_check_label" for="s12">
@@ -84,11 +81,9 @@
                                         <div class="weui_cell_bd weui_cell_primary">
                                             症状及峰流速值记录表
                                         </div>
-                                        <!--
-                                        <input type="submit" name="btn_view2" class="weui_btn weui_btn_mini weui_btn_primary" value="预览" onclick="clicked='v2'">
-                                        -->
-                                        <div class="pull-right"><a href="<%=basePath%>download?id=2" class="btn btn-primary active" role="button">预览</a>
+                                        <div class="pull-right"><a href="<%=basePath%>download?id=2" class="weui_btn weui_btn_mini weui_btn_primary">预览</a>
                                             </div>
+
 
                                     </label>
                                 </div>

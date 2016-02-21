@@ -43,20 +43,6 @@ public class DownloadController {
 			String p1 = request.getParameter("btn_sendmail");
 			System.out.println("p1 = " + p1 );
 
-            /*
-			String p2 = request.getParameter("btn_download");
-			System.out.println("p2 = " + p2 );
-
-			String p3 = request.getParameter("btn_view1");
-			System.out.println("p3 = " + p3 );
-
-			String p4 = request.getParameter("btn_view2");
-			System.out.println("p4 = " + p4 );
-
-			if ( p1 == null && p2 == null && p3 == null && p4 == null) {
-				return "download";
-			}
-			*/
             if ( p1 == null) {
                 return "download";
             }
@@ -65,31 +51,7 @@ public class DownloadController {
 			System.out.println("relativePath = " + relativePath);
 
 
-            /*
-            if ( p3 != null || p4 != null) {
-                //return proceed_download(model, request, response);
-                String fileType="application/pdf";
-                String filepath = relativePath + "/a.pdf";
-                response.setContentType(fileType + "; charset=GBK");
-                String customfilename = "a.pdf";
-                response.addHeader("Content-Disposition", "attachment; filename=" + new String(customfilename.getBytes("GB2312"), "ISO-8859-1"));
-                File my_file = new File(filepath);
-
-                // This should send the file to browser
-                OutputStream out = response.getOutputStream();
-                FileInputStream in = new FileInputStream(my_file);
-                byte[] buffer = new byte[4096];
-                int length;
-                while ((length = in.read(buffer)) > -1){
-                    out.write(buffer, 0, length);
-                }
-                in.close();
-                out.flush();
-                return null;
-            } else {
-            */
-                return proceed_sendmail(model, request, response);
-            //}
+            return proceed_sendmail(model, request, response);
 
 		} catch (Exception e) {
 			e.printStackTrace();
