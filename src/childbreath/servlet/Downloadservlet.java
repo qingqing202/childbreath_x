@@ -29,8 +29,8 @@ public class Downloadservlet extends HttpServlet {
         String customfilename;
         String fileType;
         if (id.equals("1")) {
-            filepath= relativePath + "哮喘日记（哮喘儿童长期随访表）.pdf";
-            customfilename = "哮喘日记（哮喘儿童长期随访表）.pdf";
+            filepath= relativePath + "哮喘日记(哮喘儿童长期随访表).pdf";
+            customfilename = "哮喘日记(哮喘儿童长期随访表).pdf";
             fileType = "application/pdf";
         } else if (id.equals("2")) {
             filepath= relativePath + "症状及峰流速值记录表.pdf";

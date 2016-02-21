@@ -41,7 +41,6 @@
 
 <form onsubmit="return is_valid();" action="<%=request.getContextPath()%>/mgn/download" method="POST">
 
-
 <section>
     <section class="Powered-by-XIUMI V5" style="position: static;">
         <section class="" style="margin-top: 10px; margin-bottom: 10px; position: static;">
@@ -60,6 +59,7 @@
                     <section class="" style="position: static;">
                         <section class="" style="padding-right: 8px; padding-left: 8px;">
                             <section>
+
                                 <div class="weui_cells weui_cells_checkbox">
                                     <label class="weui_cell weui_check_label" for="s11">
                                         <div class="weui_cell_hd">
@@ -68,6 +68,12 @@
                                         </div>
                                         <div class="weui_cell_bd weui_cell_primary">
                                             哮喘日记(哮喘儿童长期随访表)
+                                        </div>
+                                        <!--
+                                        <input type="submit" name="btn_view1" class="weui_btn weui_btn_mini weui_btn_primary" value="预览" onclick="clicked='v1'">
+                                        -->
+
+                                        <div class="pull-right"><a href="<%=basePath%>download?id=1" class="btn btn-primary active" role="button">预览</a>
                                         </div>
                                     </label>
                                     <label class="weui_cell weui_check_label" for="s12">
@@ -78,6 +84,12 @@
                                         <div class="weui_cell_bd weui_cell_primary">
                                             症状及峰流速值记录表
                                         </div>
+                                        <!--
+                                        <input type="submit" name="btn_view2" class="weui_btn weui_btn_mini weui_btn_primary" value="预览" onclick="clicked='v2'">
+                                        -->
+                                        <div class="pull-right"><a href="<%=basePath%>download?id=2" class="btn btn-primary active" role="button">预览</a>
+                                            </div>
+
                                     </label>
                                 </div>
                             </section>
@@ -89,25 +101,21 @@
     </section>
 </section>
 
-    <br/>
 
+        <hr/>
 
     <div class="form-group">
         <div>
-            <input type="email" class="form-control" name="inputEmail" id="inputEmail3" placeholder="邮箱地址">
+            <input type="email" class="form-control" name="inputEmail" id="inputEmail3" placeholder="请输入邮箱地址">
         </div>
     </div>
 
     <div class="weui_btn_area">
-        <input type="submit" name="btn_sendmail" value="发送致邮箱"
-               class="weui_btn weui_btn_primary" onclick="return test(this)">
+        <input type="submit" name="btn_sendmail" id="btn_sendmail" value="发送到邮箱"; onclick="clicked='send'";
+               class="weui_btn weui_btn_primary">
     </div>
-    <hr/>
-    <div class="weui_btn_area"> <input type="submit" name="btn_download" value="直接下载" class="weui_btn weui_btn_primary" onclick="return test(this)"></div>
 
     </form>
-
-<hr/>
 
 
 <!--BEGIN toast-->
@@ -115,7 +123,7 @@
     <div class="weui_mask_transparent"></div>
     <div class="weui_toast">
         <i class="weui_icon_toast"></i>
-        <p class="weui_toast_content">已发送</p>
+        <p class="weui_toast_content">发送成功</p>
     </div>
 </div>
 <!--end toast-->
@@ -144,8 +152,6 @@
 
 
 
-<br/>
-
 
 <div class="weui_dialog_alert" id="dialog2" style="display: none;">
     <div class="weui_mask"></div>
@@ -159,10 +165,11 @@
 </div>
 
 
+<hr/>
 
-    <img class="img-rounded center-block" width=100% src="<%=basePath%>/resources/img/qcode.jpg">
+<img class="img-rounded center-block" width=100% src="<%=basePath%>/resources/img/qcode.jpg">
 
 <script src="<%=request.getContextPath()%>/resources/js/download/download.js"></script>
-</body>
 
+</body>
 </html>

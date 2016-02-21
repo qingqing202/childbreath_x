@@ -3,30 +3,24 @@
 })();
 
 function is_valid(){
-	if($('#s11').is(':checked')) {
-		return true;
-	}
-	if($('#s12').is(':checked')) {
-		return true;
-	}
-	showDialog("请选择要下载的文件","");
-	return false;
-}
-
-function test(obj) {
-	if(obj.name=='btn_sendmail') {
-		if( $('#inputEmail3').val().length == 0 ){
-			showDialog("请输入邮箱地址","");
+	var s = clicked;
+	if (s == "send") {
+		if (($('#s11').is(':checked')) || ($('#s12').is(':checked'))) {
+		} else {
+			showDialog("请最少选择一个文件", "");
+			return false;
+		}
+		if ($('#inputEmail3').val().length == 0) {
 			$('#inputEmail3').focus();
 			return false;
 		}
 		showLoadingToast();
+		return true;
 	}
 }
 
 function showStatus() {
 	var s = document.getElementById("status").innerText;
-	showDialog(s,"!!!!");
 	if ( s == null ) {
 		return;
 	}
@@ -39,7 +33,7 @@ function showStatus() {
 		showDialog("邮件发送失败，请稍后重试","");
 		return;
 	} else if ( s == "2" ) {
-		showDialog("邮件发送完成","");
+		showToast("邮件发送完成","");
 		return;
 	} else {
 		return;
@@ -48,12 +42,10 @@ function showStatus() {
 
 
 function showToast() {
-
 		var $toast = $('#toast');
 		if ($toast.css('display') != 'none') {
 			return;
 		}
-
 		$toast.show();
 		setTimeout(function () {
 			$toast.hide();
