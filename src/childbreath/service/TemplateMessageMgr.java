@@ -25,16 +25,16 @@ public class TemplateMessageMgr {
 			JSONObject d6 = new JSONObject();
 			JSONObject data = new JSONObject();
 
-			d1.put("value","殷勇医师3月11日星期五呼吸哮喘特需门诊暂停1次，由张皓主任代替。\n");
+			d1.put("value","张皓主任暂停下列门诊：\n\n3月16日上午呼吸哮喘特需门诊\n3月17日下午呼吸哮喘副主任门诊\n3月23日上午呼吸哮喘特需门诊\n3月24日下午呼吸哮喘副主任门诊\n");
 			d1.put("color","#173177");
 
-			d2.put("value","殷勇主任");
+			d2.put("value","张皓主任");
 			d2.put("color","#173177");
 
-			d3.put("value","呼吸哮喘专科门诊");
+			d3.put("value","呼吸哮喘特需、副主任门诊");
 			d3.put("color","#173177");
 
-			d4.put("value","2016年3月11日");
+			d4.put("value","2016年3月16、17、23、24日");
 			d4.put("color","#173177");
 
 			d5.put("value", "08:00 -- 16:00");
