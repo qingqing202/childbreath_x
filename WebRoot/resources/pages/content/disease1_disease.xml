@@ -36,6 +36,13 @@
   儿童哮喘宝典
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
+  <a href="../../resources/pages/detail_content.jsp?name=guominbiyan_all" class="list-group-item opacity35">
+  过敏性鼻炎科普知识
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
+  <a href="../../resources/pages/detail_content.jsp?name=biqiang_all" class="list-group-item opacity35">
+  儿童鼻腔保健
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
   <a href="../../resources/pages/detail_content.jsp?name=wuhua_all" class="list-group-item opacity35">
   儿童家庭雾化

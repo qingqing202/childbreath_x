@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            过敏性鼻炎系列科普知识
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>过敏性鼻炎系列科普知识</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2016年03月05日
+        </date>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403286867&idx=1&sn=d1dac6638662145697dc74421db1ebf7&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/guominbiyan_all/1.jpg</img_src>
+        <title>过敏性鼻炎系列科普知识1：过敏性鼻炎和感冒的区别</title>
+        <body>
+            <![CDATA[
+            都知道流鼻涕，鼻塞，鼻痒，打喷嚏是感冒的症状，可爸爸妈妈们知道其实这也是宝贝患上过敏性鼻炎的症状吗？
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403286867&idx=2&sn=5c3e09c0b4ccc670b92111abf9bc9b84&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/guominbiyan_all/2.jpg</img_src>
+        <title>过敏性鼻炎系列科普知识2：过敏性鼻炎的诱因</title>
+        <body>
+            <![CDATA[
+            过敏性鼻炎，又称变应性鼻炎，是由过敏原（变应原）诱发的、由IgE介导的鼻黏膜炎症引起的症状性疾病，并可引起多种并发症。
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403286867&idx=3&sn=cf4dcd4ac419ed50ac13d766fca98621&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/guominbiyan_all/3.jpg</img_src>
+        <title>过敏性鼻炎系列科普知识3：过敏性鼻炎的种类和临床表现</title>
+        <body>过敏性鼻炎依据症状时间和严重程度可分为“间歇性/持续性”和“轻度/中重度”...</body>
+    </content>
+
+
+    <content>
+        <type>media</type>
+        <title>过敏性鼻炎系列科普知识4：过敏性鼻炎的药物治疗</title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403286867&idx=4&sn=e58070565129db8ca03d5977ce8214d8&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/guominbiyan_all/4.jpg</img_src>
+        <body>
+            过敏性鼻炎的药物治疗包括一线药物：鼻用类固醇激素和抗组胺类药物；二线药物：抗白三烯药物、减充血剂、肥大细胞稳定剂及抗胆碱能药物等...
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <title>过敏性鼻炎系列科普知识5：过敏性鼻炎日常生活护理</title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403286867&idx=5&sn=47b6d388e89d9aacddcf9cd051874768&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/guominbiyan_all/5.jpg</img_src>
+        <body>
+            过敏性鼻炎日常生活护理包括以下几个方面：避免接触过敏原；忌食寒凉生冷等刺激性食物；慎食鱼、虾、蟹类等海产食物；平时注意多吃补气益肺的食物...
+        </body>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

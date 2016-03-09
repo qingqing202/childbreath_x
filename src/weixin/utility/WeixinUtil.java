@@ -21,6 +21,8 @@ import childbreath.service.MyX509TrustManager;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
+import utility.XmlReader;
+import org.w3c.dom.*;
 
 
 public class WeixinUtil {
@@ -37,6 +39,7 @@ public class WeixinUtil {
 		JSONObject jsonObject = null;
 		StringBuffer buffer = new StringBuffer();
 		try{
+
 			//创建SSLContext对象
 			TrustManager[] tm = {new MyX509TrustManager()};
 			SSLContext sslContext = SSLContext.getInstance("SSL", "SunJSSE");
@@ -87,7 +90,8 @@ public class WeixinUtil {
 			return jsonObject;
 		}
 	}
-	
+
+
 	/**
 	 * 发起http请求并获取结果
 	 * @param requestUrl 请求地址
@@ -95,12 +99,67 @@ public class WeixinUtil {
 	 * @param param 提交的数据
 	 * @return 回复的结果的JSON对象
 	 */
-	public static JSONObject HttpRequest(String requestUrl, String requestMethod, 
+	public static String HttpRequestString(String requestUrl, String requestMethod,
+										 String param){
+		StringBuffer buffer = new StringBuffer();
+		try{
+
+			URL url = new URL(requestUrl);
+			HttpURLConnection httpUrlConn = (HttpURLConnection)url.openConnection();
+
+			httpUrlConn.setDoOutput(true);
+			httpUrlConn.setDoInput(true);
+			httpUrlConn.setUseCaches(false);
+			httpUrlConn.setRequestMethod("POST");
+
+			if("GET".equalsIgnoreCase(requestMethod))
+				httpUrlConn.connect();
+
+			//当有数据需要提交时
+			if( param != null ){
+				OutputStream outputStream = httpUrlConn.getOutputStream();
+				//设置编码
+				outputStream.write( param.getBytes("UTF-8"));
+				outputStream.close();
+			}
+
+			//将返回的输入流转换成字符串
+			InputStream inputStream = httpUrlConn.getInputStream();
+			InputStreamReader inputStreamReader = new InputStreamReader(inputStream, "utf-8");
+			BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
+
+			String str = null;
+			while( (str = bufferedReader.readLine()) != null ){
+				buffer.append( str );
+			}
+			bufferedReader.close();
+			inputStreamReader.close();
+			//释放资源
+			inputStream.close();
+			inputStream = null;
+
+			httpUrlConn.disconnect();
+			return buffer.toString();
+		}catch( Exception e ){
+			e.printStackTrace();
+			//return jsonObject;
+			return "";
+		}
+	}
+
+	/**
+	 * 发起http请求并获取结果
+	 * @param requestUrl 请求地址
+	 * @param requestMethod 请求方式（GET/POST）
+	 * @param param 提交的数据
+	 * @return 回复的结果的JSON对象
+	 */
+	public static JSONObject HttpRequest(String requestUrl, String requestMethod,
 			String param){
 		JSONObject jsonObject = null;
 		StringBuffer buffer = new StringBuffer();
 		try{
-			
+
 			URL url = new URL(requestUrl);
 			HttpURLConnection httpUrlConn = (HttpURLConnection)url.openConnection();
 			
@@ -119,7 +178,7 @@ public class WeixinUtil {
 				outputStream.write( param.getBytes("UTF-8"));
 				outputStream.close();
 			}
-			
+
 			//将返回的输入流转换成字符串
 			InputStream inputStream = httpUrlConn.getInputStream();
 			InputStreamReader inputStreamReader = new InputStreamReader(inputStream, "utf-8");

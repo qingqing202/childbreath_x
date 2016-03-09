@@ -42,6 +42,15 @@
     <p>以下列表包含了本公众号所有宣传网页及功能介绍</p>
   </div>
 
+  <form target="_blank" action='http://222.66.83.21:808/ScreenDisplay/HealthWeather2/webservice/Publish.asmx/GetCrows' method="POST">
+
+    <!--
+    <input class="frmInput" type="text" size="50" name="authCode">
+    -->
+
+    <input type="submit" value="Invoke" class="button" onclick="authCode='shjkqxxc'">
+
+  <!--
   <div class="row">
 
 
@@ -60,6 +69,9 @@
       for(int i=0;i<letters.length;i++){
         Object[] letter=letters[i];
     %>
+
+
+
     <div class="col-sm-6 col-md-4 col-lg-3 ">
       <div class="thumbnail">
         <a href="<%=letter[3]%>" title="<%=letter[0]%>" target="_blank"
@@ -128,5 +140,6 @@
   </div>
 </footer>
 <%@ include file="include/footer.jsp" %>
+-->
 </body>
 </html>

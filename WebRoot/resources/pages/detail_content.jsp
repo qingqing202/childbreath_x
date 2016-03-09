@@ -24,7 +24,7 @@
 
   HashMap<String, Object> hash_for_all= new HashMap<>();
   XmlReader xmlReader = new XmlReader();
-  xmlReader.main(CONTENT_FILE, hash_for_all);
+  xmlReader.parseFile(CONTENT_FILE, hash_for_all);
   HashMap<String, String> hash_for_title = (HashMap)hash_for_all.get("title");
   HashMap<String, Object> hash_for_content_all= (HashMap)hash_for_all.get("content");
 %>

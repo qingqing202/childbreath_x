@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            儿童鼻腔保健
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>儿童鼻腔保健</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2016年03月05日
+        </date>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403446071&idx=1&sn=23626ea8fc15e085231b37452bad331a&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/biqiang_all/1.jpg</img_src>
+        <title>雾霾天气的鼻腔清洗</title>
+        <body>
+            <![CDATA[
+            秋冬季节，大城市雾霾天气持续，根据我们和气象局联合研究的结果表明，儿童变应性鼻炎的发作较空气污染指数会有3-5天的延迟...
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403446071&idx=2&sn=af84ad6f77030ee3a26864e3d9c392e0&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/biqiang_all/2.jpg</img_src>
+        <title>如何对鼻炎/鼻窦炎患儿进行鼻腔冲洗？</title>
+        <body>
+            <![CDATA[
+            鼻腔冲洗是治疗鼻腔、鼻窦疾病的一种常用方法，由于疗效好，患儿的耐受性高，且在正确使用的前提下无任何副作用...
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+           http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403446071&idx=3&sn=ea21cba1c3c62a4d280e6682dc907858&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/biqiang_all/3.jpg</img_src>
+        <title>鼻窦炎应坚持三个月以上的药物治疗</title>
+        <body>儿童鼻窦炎以药物治疗为主，一般不考虑功能性鼻内窥镜手术，药物治疗至少坚持3个月，如果3个月药物治疗无效，考虑行腺样体切除手术。</body>
+    </content>
+
+
+    <content>
+        <type>media</type>
+        <title>小儿鼻出血的常见原因和治疗</title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403446071&idx=4&sn=fe30b4df8f9696331cb55a40df99aeab&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/biqiang_all/4.jpg</img_src>
+        <body>
+            小儿鼻出血是小儿耳鼻喉科的常见疾病，特别是在春天和秋冬季节发病率特别高。有的孩子偶尔出几次，有的孩子反复多次出血，而且量很多，往往引起孩子的恐慌和家长的担心。
+        </body>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>
