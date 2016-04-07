@@ -113,6 +113,39 @@
         }
     </script>
     <%
+    } else if (hash_for_content.get("type").equals("opacity_box_begin")) {
+    %>
+    <section><section><section><section><section><section>
+        <br  />
+    </section></section></section></section></section></section>
+    <section class="aimeibian" style="border: 0px none;" data-ele="imb"><section style="margin-top: 10px; margin-bottom: 10px; border: 0px; box-sizing: border-box; font-family: 微软雅黑;">
+        <section style="max-width: 100%; height: 1em; box-sizing: border-box; word-wrap: break-word !important;">
+            <section style="max-width:100%; border-top:0.4em solid rgb(234,101,23); border-left:0.4em solid rgb(234,101,23); height:20px; width:20px; float:left">
+            </section>
+            <section style="max-width:100%; border-top:0.4em solid rgb(234,101,23); border-right:0.4em solid rgb(234,101,23); height:20px; width:20px; float:right">
+            </section></section><section style="border: 1px solid rgb(234, 101, 23); max-width: 100%; box-sizing: border-box; margin-top: -0.8em; margin-right: 0.1em; margin-left: 0.2em; padding: 20px; word-wrap: break-word !important;">
+        <section style="word-wrap: break-word; border: none; line-height: 1.5; word-break: break-all; font-size: 14px; background-image: none;">
+            <p style="text-indent: 2em";>
+                            <span style="color:inherit;">
+                                <%=hash_for_content.get("detail")%>
+                                <%
+    } else if (hash_for_content.get("type").equals("opacity_box_end")) {
+    %>
+
+                            </span>
+            </p>
+        </section>
+    </section>
+        <section style="max-width: 100%; margin-top: -18px; height: 1em; box-sizing: border-box; word-wrap: break-word !important;">
+            <section style="max-width:100%; border-bottom:0.4em solid rgb(234,101,23); border-left:0.4em solid rgb(234,101,23); height:20px; width:20px; float:left">
+            </section>
+            <section style="max-width:100%; border-bottom:0.4em solid rgb(234,101,23); border-right:0.4em solid rgb(234,101,23); height:20px; width:20px; float:right">
+            </section>
+        </section>
+    </section>
+    </section>
+
+    <%
     } else if (hash_for_content.get("type").equals("opacity_box")) {
     %>
 
@@ -212,7 +245,7 @@
                 <%}if ( hash_for_content.containsKey("img_body")) {%>
                     <div class="thumbnail">
                     <img class="media-object" src="<%=basePath%><%=hash_for_content.get("img_body")%>">
-                        </div>
+                    </div>
                 <%}%>
             </div>
         </div>
@@ -221,6 +254,18 @@
          %>
                 <p><%=hash_for_content.get("detail")%></p>
                 <img width=90% src="<%=basePath%><%=hash_for_content.get("src")%>" class="img-rounded img-thumbnail center-block">
+        <%
+         } else if ( hash_for_content.get("type").equals("img_with_intro_70")) {
+        %>
+            <img width=70% src="<%=basePath%><%=hash_for_content.get("src")%>" class="img-rounded img-thumbnail center-block">
+            <p class="text-center"><%=hash_for_content.get("detail")%></p>
+
+                <%
+         } else if ( hash_for_content.get("type").equals("img_with_intro_90")) {
+        %>
+            <img width=90% src="<%=basePath%><%=hash_for_content.get("src")%>" class="img-rounded img-thumbnail center-block">
+            <p class="text-center"><%=hash_for_content.get("detail")%></p>
+
         <%
         } else if ( hash_for_content.get("type").equals("dot_box")) {
         %>

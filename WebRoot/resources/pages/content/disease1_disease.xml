@@ -44,6 +44,10 @@
   儿童鼻腔保健
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
+  <a href="../../resources/pages/detail_content.jsp?name=shuimian_all" class="list-group-item opacity35">
+  儿童睡眠专题
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
   <a href="../../resources/pages/detail_content.jsp?name=wuhua_all" class="list-group-item opacity35">
   儿童家庭雾化
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
