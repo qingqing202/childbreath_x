@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            微店
+        </name>
+    </title>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://bairui.flzhan.com/index.html
+            ]]>
+        </outlink>
+        <img_src>resources/img/weidian/bairui.jpg</img_src>
+        <title>百瑞医疗(雾化机+储雾罐+峰流速仪)</title>
+        <body>
+            <![CDATA[
+            百瑞有限公司是生产高品质医用压缩雾化吸入机的专业厂家，自1906年创立至今已有近百年的发展历史。凭借着强大的科研实力以及领导行业潮流的产品开发，其产品畅销全球100多个国家和地区。
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://kdt.im/aAWdPr
+            ]]>
+        </outlink>
+        <img_src>resources/img/weidian/omron.jpg</img_src>
+        <title>欧姆龙(雾化机)</title>
+        <body>
+            <![CDATA[
+            欧姆龙集团从1933年5月10日创业至今的82年中，通过不断创造新的社会需求，已经发展成为全球知名的自动化控制及电子设备制造厂商，掌握着领先的传感与控制核心技术。
+            ]]>
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://acapella.flzhan.com/index.html
+            ]]>
+        </outlink>
+        <img_src>resources/img/weidian/smith.jpg</img_src>
+        <title>史密斯医疗(PEP振动治疗系统)</title>
+        <body>
+            <![CDATA[
+            史密斯医疗是一家全球领先的医疗设备和器材生产商，总部设立在英国伦敦。史密斯医疗市场领先的产品线由12个值得信赖的品牌带领，享誉全球超过60年。史密斯医疗的丰富产品线为患者提供了全面和持续的治疗手段，产品广泛应用于医院，急救及家庭护理。
+            ]]>
+        </body>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

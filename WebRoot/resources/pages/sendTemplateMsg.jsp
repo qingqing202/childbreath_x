@@ -14,9 +14,30 @@
 <head>
     <%@ include file="include/html_head.jsp" %>
     <%@page import="java.util.*"%>
+    <%@ page import="childbreath.service.TemplateMessageMgr" %>
+    <%@ page import="childbreath.service.OpenIdMgr" %>
+    <%@ page import="com.alibaba.fastjson.JSONArray" %>
+    <%@ page import="com.alibaba.fastjson.JSONObject" %>
     <link rel="stylesheet" href="<%=basePath%>/resources/css/weui/weui.css"/>
 </head>
 <body class="container">
+
+<%
+    TemplateMessageMgr tmgr = new TemplateMessageMgr();
+    OpenIdMgr idmgr = new OpenIdMgr();
+    String openid = "";
+    openid = idmgr.get_all_openid("");
+
+    //张QQ o5bAaxGhIV0ZksDNy8y26pk_XUI8
+    //tmgr.send_template_message("o5bAaxGhIV0ZksDNy8y26pk_XUI8");
+
+    String[] ids = openid.split( "\\[|\"|\\]|\\,");
+    for (int i = 0; i <ids.length;  i++ )
+    {
+        if (ids[i].length() == 0) { continue; };
+        //tmgr.send_template_message(ids[i]);
+    }
+%>
 
 <h2 class="text-center">
     停诊消息发送

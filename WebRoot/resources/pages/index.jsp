@@ -55,12 +55,13 @@
       for(int i=0;i<letters.length;i++){
         Object[] letter=letters[i];
     %>
-    <div class="col-sm-6 col-md-4 col-lg-3 ">
+    <div class="col-sm-6 col-md-6 col-lg-6 col-xs-6" >
+    <!--  <div class="column 2">-->
       <div class="thumbnail">
         <a href="<%=letter[3]%>" title="<%=letter[0]%>" target="_blank"
            onclick="_hmt.push(['_trackEvent', 'tile', 'click', '<%=letter[0]%>'])">
           <img class="lazy" src="<%=letter[1]%>"
-               width="300" height="150"
+               width="150" height="150"
                alt="<%=letter[0]%>">
         </a>
         <div class="caption">

@@ -86,7 +86,7 @@
     } else if (hash_for_content.get("type").equals("paragraph")) {
 %>
   <div>
-    <p><%=hash_for_content.get("detail")%></p>
+    <p style="text-indent:2em;"><%=hash_for_content.get("detail")%></p>
   </div>
 <%
     } else if (hash_for_content.get("type").equals("h1")) {
@@ -249,6 +249,22 @@
                 <%}%>
             </div>
         </div>
+
+        <%
+         } else if ( hash_for_content.get("type").equals("red_p_begin")) {
+        %>
+            <div class="panel panel-danger opacity75">
+                <div class="panel-heading">
+                    <h3 class="panel-title">
+                        <span class="glyphicon glyphicon-check" aria-hidden="true"></span>
+                        <strong><%=hash_for_content.get("title")%></strong></h3>
+                </div>
+                <div class="panel-body">
+        <%
+         } else if ( hash_for_content.get("type").equals("p_end")) {
+        %>
+                    </div>
+                </div>
          <%
          } else if ( hash_for_content.get("type").equals("img_with_intro")) {
          %>
@@ -265,7 +281,41 @@
         %>
             <img width=90% src="<%=basePath%><%=hash_for_content.get("src")%>" class="img-rounded img-thumbnail center-block">
             <p class="text-center"><%=hash_for_content.get("detail")%></p>
+        <%
+         } else if ( hash_for_content.get("type").equals("img_with_black_intro")) {
+        %>
+            <section>
+                <section class="Powered-by-XIUMI V5" style="position: static;">
+                    <section class="" style="margin-top: 10px; margin-bottom: 10px; transform: translate3d(0px, 0px, 0px); text-align: center; position: static;">
+                        <section class="" style="display: inline-block; width: 90%; border: 1px solid rgb(192, 200, 209); padding: 10px; box-shadow: rgb(170, 170, 170) 0px 0px 5px; border-radius: 0.6em; background-color: rgb(255, 255, 255);">
+                            <section class="Powered-by-XIUMI V5">
+                                <section class="" style="position: static;">
+                                    <section class="" style="color: rgb(51, 51, 51);">
+                                        <section>
+                                            <img width=100% src="<%=basePath%><%=hash_for_content.get("src")%>" class="center-block">
+                                        </section>
+                                    </section>
+                                </section>
+                            </section>
 
+
+                            <% if ( hash_for_content.containsKey("detail") ) {
+                                %>
+                            <section class="Powered-by-XIUMI V5">
+                                <section class="" style="position: static;">
+                                    <section class="">
+                                        <section>
+                                            <%=hash_for_content.get("detail")%>
+                                        </section>
+                                    </section>
+                                </section>
+                            </section>
+                            <% } %>
+
+                        </section>
+                    </section>
+                </section>
+            </section>
         <%
         } else if ( hash_for_content.get("type").equals("dot_box")) {
         %>
@@ -455,19 +505,43 @@
                 } else if ( hash_for_content.get("type").equals("title_snow")) {
                 %>
 
-                <section class="aimeibian" style="border: 0px none; padding: 0px;">
-                    <section style="margin:0; padding:0; width:100%; display:inline-block">
-                        <section style="border:none;margin:5px 0 0;padding:5px;background:none">
-                            <section style="margin-top:-1px;margin-bottom:0;min-height:50px;visibility:visible;height:50px;line-height:50px;border-radius:3px;text-align:center;color:rgb(0,0,0);box-shadow:0 2px 2px rgb(189,189,189);padding-left:10px;background-color:rgb(102,204,255)">
-                                <span style="color:inherit;">
+
+                    <section class="aimeibian" style="border: 0px none; padding: 0px;" data-ele="imb">
+                        <section style="margin:0; padding:0; width:100%; display:inline-block">
+                            <section style="border:none;margin:5px 0 0;padding:5px;background:none">
+                                <section style="margin-top:-1px;margin-bottom:0;min-height:50px;visibility:visible;height:50px;line-height:50px;border-radius:3px;text-align:left;color:rgb(0,0,0);box-shadow:0 2px 2px rgb(189,189,189);padding-left:10px;background-color:rgb(102,204,255)">
+                                    <span style="font-size:16px; color:inherit;">
                                     <%=hash_for_content.get("detail")%>
-                                </span>
-                                <img style="float:right" width="57" height="50" src="https://mmbiz.qlogo.cn/mmbiz/PaCPwXIogdsTGIURmJBTGANaHXPhU52bjtvj4L3OsqxrppyBptEKCBnKUsYO5KqseOiatKqXB1MMBUx0tqZgIgA/0?wx_fmt=png"/>
+                                    </span> &nbsp; &nbsp; &nbsp; &nbsp;
+                                    <img style="float:right" width="57" height="50" src="http://pic.imeibian.com/store/style/145923943025865.png" data_src="https://mmbiz.qlogo.cn/mmbiz/PaCPwXIogdsTGIURmJBTGANaHXPhU52bjtvj4L3OsqxrppyBptEKCBnKUsYO5KqseOiatKqXB1MMBUx0tqZgIgA/0?wx_fmt=png" _src="http://pic.imeibian.com/store/style/145923943025865.png">
+                                </section>
                             </section>
                         </section>
                     </section>
-                </section>
+                    <%
+                    } else if ( hash_for_content.get("type").equals("title_question")) {
+                    %>
 
+
+                    <section class="aimeibian imbselect" style="border: 0px none; padding: 0px;" data-ele="">
+                        <section style="margin: 10px 0px; padding: 0px; display: inline-block; width: 100%;">
+                            <section style="margin:10px 0; padding:0; display:inline-table">
+                                <section style="margin:0em; padding:0em; border:1px solid rgb(255, 255, 255); height:5em; width:5em; border-radius:50%; box-sizing:border-box; vertical-align:middle; display:table-cell">
+                                    <!--
+                                    <img src="http://img0.imgtn.bdimg.com/it/u=444103474,1038973172&fm=21&gp=0.jpg" style="width:100%; display:block;" data_src="http://img0.imgtn.bdimg.com/it/u=444103474,1038973172&fm=21&gp=0.jpg"/>
+                                    -->
+                                    <img src="http://img3.imgtn.bdimg.com/it/u=3612866932,3033504147&fm=21&gp=0.jpg" style="width:100%; display:block;" data_src="http://img3.imgtn.bdimg.com/it/u=3612866932,3033504147&fm=21&gp=0.jpg"/>
+                                </section>
+                                <section style="margin-left:1em; padding:0px; border-top:1px solid rgb(255,255,255); border-right:1px solid rgb(255,255,255); border-bottom:1px solid rgb(255,255,255); border-left:1px solid rgb(255, 23, 18); ">
+                                    <section style="margin:10px 0em; padding:10px; text-align:left">
+                                        <span style="color:rgb(0, 0, 0); font-size:20px;">
+                                            <%=hash_for_content.get("detail")%>
+                                        </span>
+                                    </section>
+                                </section>
+                            </section>
+                        </section>
+                    </section>
 
                 <%
         } else if ( hash_for_content.get("type").equals("collapse")) {

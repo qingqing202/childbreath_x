@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            呼吸道感染的中医治疗
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>呼吸道感染的中医治疗</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2015年09月05日
+        </date>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403800469&idx=1&sn=32c0149830c43be47ccb1a115d59959a&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/zhongyi_all/1.jpg</img_src>
+        <title>哮喘的中医评估与治疗</title>
+        <body>
+            <![CDATA[
+            哮喘发作期表现出病势急骤、气急、痰涎壅盛等“邪气实”的病症特点；缓解期则以气短、乏力、纳呆、动辄汗出等“正气虚”的病症特点。
+            ]]>
+        </body>
+    </content>
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403800469&idx=2&sn=59df0d3503688a3959ae53453b51d686&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/zhongyi_all/futie.jpeg</img_src>
+        <title>哮喘与敷贴</title>
+        <body>
+            <![CDATA[
+            根据中医“急则治其标，缓则治其本”的原则，哮喘敷贴在发作期以止咳化痰平喘为主；缓解期则以健脾、养肺、补肾固本培元为主。
+            ]]>
+        </body>
+    </content>
+
+
+    <content>
+        <type>media</type>
+        <title>小儿肺炎的中医辨证治疗
+        </title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403800469&idx=3&sn=f20593ccb7a538b0d4b21dd024a08801&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/zhongyi_all/5.jpeg</img_src>
+        <body>
+            小儿肺炎是小儿最常见的一种呼吸道疾病，中医学虽然没有肺炎病名，但古代文献中所记载的“肺闭”、 “马脾风”等病名。
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <title>儿童肺炎常用中药 - 清热泻火、清热解毒类</title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403800469&idx=4&sn=091eaea588f3bf06a9ccb23bf640fe7f&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/zhongyi_all/3.jpeg</img_src>
+        <body>
+            黄芩是唇形科植物黄芩的块根。
+            黄芩对多种革兰阳性菌、革兰阴性菌、致病性皮肤真菌有抑制作用。
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <title>儿童肺炎常用中药 - 止咳化痰类
+        </title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403800469&idx=5&sn=826fe2a623bd50c470147c3321b013ff&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/zhongyi_all/4.jpeg</img_src>
+        <body>
+            桔梗（铃当花）
+            【性味】苦辛,平。
+            【功能主治】宣肺，利咽，祛痰，排脓。用于咳嗽痰多，胸闷不畅，咽痛，音哑，肺痈吐脓。
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <title>呼吸道感染常用中成药 - 止咳化痰类
+        </title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403800469&idx=6&sn=62173ff1bc68c380c02d660f1772fda1&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/zhongyi_all/6.jpeg</img_src>
+        <body>
+            儿童呼吸道感染患儿咳嗽、痰鸣、喘息等症状多属实证，治疗以止咳平喘为主，病位浅的以宣肺为主，病位深的以降肺为主。
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <title>呼吸道感染常用中成药 - 清热解毒类</title>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403800469&idx=7&sn=fb5714e6b34341f7601103f840503c76&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/zhongyi_all/9.jpeg</img_src>
+        <body>
+            清热解毒类中成药组成药物多味苦性寒，应用时需参照单味清热解毒类中药的使用注意事项：宜顾护胃气，可用米粥（尤以小米粥为佳）送服。
+        </body>
+    </content>
+
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://mp.weixin.qq.com/s?__biz=MzI5MDA4MzU1Nw==&mid=403800469&idx=8&sn=f31dd4f58f0481a4aed6a0b98561691b&scene=19#wechat_redirect
+            ]]>
+        </outlink>
+        <img_src>resources/img/zhongyi_all/8.jpg</img_src>
+        <title>感冒保健与食疗方法</title>
+        <body>1.大蒜按摩
+            取紫皮大蒜切成片状，在太阳、风池、迎香诸穴位按摩5分钟。</body>
+    </content>
+
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

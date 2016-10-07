@@ -12,7 +12,8 @@ public class TemplateMessageMgr {
 	
 	public final static String get_id_url = "https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=ACCESS_TOKEN";
 	//public final static String templateid = "aZcHhXAEdXJof018RsOLD9vSdgSjtGDPZBBORyWEjMw"; //testing templateid
-	public final static String templateid = "_CbbipPVr845g_zsIKvhV4C1TCwSWdIkdc0jfjFE2y0";
+	//public final static String templateid = "_CbbipPVr845g_zsIKvhV4C1TCwSWdIkdc0jfjFE2y0";
+	public final static String templateid = "FF333UAM4Bo5E8dNlD_7PoWJX-GvvuyQb2prKkhMbRM"; //医生门诊信息变动通知	正式号
 
 	public String send_template_message(String openid){
 		try{
@@ -25,19 +26,19 @@ public class TemplateMessageMgr {
 			JSONObject d6 = new JSONObject();
 			JSONObject data = new JSONObject();
 
-			d1.put("value","张皓主任暂停下列门诊：\n\n3月16日上午呼吸哮喘特需门诊\n3月17日下午呼吸哮喘副主任门诊\n3月23日上午呼吸哮喘特需门诊\n3月24日下午呼吸哮喘副主任门诊\n");
+			d1.put("value","上海儿童医学中心呼吸科自2016年5月起，增加星期一、星期六呼吸哮喘专科特需门诊。每日限号60人。\n\n就诊时间： 8:00~16:00\n就诊地点： 一楼二诊区\n");
 			d1.put("color","#173177");
 
-			d2.put("value","张皓主任");
+			d2.put("value","上海儿童医学中心");
 			d2.put("color","#173177");
 
-			d3.put("value","呼吸哮喘特需、副主任门诊");
+			d3.put("value","呼吸科");
 			d3.put("color","#173177");
 
-			d4.put("value","2016年3月16、17、23、24日");
+			d4.put("value","主治及以上医生轮流");
 			d4.put("color","#173177");
 
-			d5.put("value", "08:00 -- 16:00");
+			d5.put("value", "2016年5月");
 			d5.put("color","#173177");
 
 			d6.put("value", "\n上海儿童医学中心");

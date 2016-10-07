@@ -7,11 +7,52 @@
 <head>
 
     <%@ include file="include/html_head.jsp" %>
-    <title>Bootstrap 实例 - 折叠面板</title>
+    <title>微店</title>
     <script src="<%=basePath%>/resources/js/bootstrap.min-3.3.0.js"></script>
     <script src="<%=basePath%>/resources/js/jquery.min-2.0.0.js"></script>
 </head>
 <body>
+<section>
+    <section class="Powered-by-XIUMI V5" style="position: static;" powered-by="xiumi.us">
+        <section class="" style="position: static;">
+            <section class="" style="display: inline-block; width: 100%; vertical-align: top;">
+                <section class="Powered-by-XIUMI V5" style="position: static;" powered-by="xiumi.us">
+                    <section class="" style="position: static;">
+                        <section class="" style="font-size: 18px; text-align: center;">
+                            <section>
+                                <strong>百瑞医疗</strong>
+                            </section>
+                        </section>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" style="position: static;" powered-by="xiumi.us">
+        <section class="" style="margin-top: 10px; margin-bottom: 10px; padding-right: 3px; padding-left: 3px; position: static;">
+            <section class="" style="display: inline-block; width: 100%; vertical-align: top; margin-bottom: -0.65em; margin-top: 0.95em;">
+                <section style="width: 100%;">
+                    <section style="border-top: 1px solid rgb(249, 110, 87); width: 99.9%; float: left;"></section>
+                    <section style="width: 6px; height: 6px; margin-top: -3px; border-radius: 100%; float: right; background-color: rgb(249, 110, 87);"></section>
+                </section>
+                <section class="" style="display: inline-block; margin-top: -1em; vertical-align: top; padding: 3px 10px; color: rgb(249, 110, 87); background-color: rgb(254, 255, 255);">
+                    <section>
+                        <strong>雾化器</strong>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" style="position: static;" powered-by="xiumi.us">
+        <section class="" style="margin-top: 10px; margin-bottom: 10px; padding-right: 3px; padding-left: 3px; position: static;">
+            <section class="" style="display: inline-block; width: 100%; vertical-align: top; margin-bottom: -0.65em; margin-top: 0.95em;"></section>
+        </section>
+    </section>
+</section>
+<p>
+    <br/>
+</p>
+<!--
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
@@ -81,24 +122,8 @@
 </div>
 
 <div>
+-->
 
-    <!-- Nav tabs -->
-    <ul class="nav nav-tabs" role="tablist">
-        <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Home</a></li>
-        <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Profile</a></li>
-        <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Messages</a></li>
-        <li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Settings</a></li>
-    </ul>
-
-    <!-- Tab panes -->
-    <div class="tab-content">
-        <div role="tabpanel" class="tab-pane active" id="home">...</div>
-        <div role="tabpanel" class="tab-pane" id="profile">...</div>
-        <div role="tabpanel" class="tab-pane" id="messages">...</div>
-        <div role="tabpanel" class="tab-pane" id="settings">...</div>
-    </div>
-
-</div>
 
 </body>
 </html>

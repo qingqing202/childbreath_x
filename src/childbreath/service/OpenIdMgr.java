@@ -19,6 +19,7 @@ public class OpenIdMgr {
 
 			String requestUrl = get_id_url.replace("ACCESS_TOKEN", token).replace("NEXT_OPENID", next_openid);
 			JSONObject jsonObject = WeixinUtil.HttpsRequest(requestUrl, "GET", null);
+			System.out.println("testqqq =" +jsonObject.toString());
 			if (jsonObject != null) {
 				JSONObject data = jsonObject.getJSONObject("data");
 				JSONArray idlist = data.getJSONArray("openid");

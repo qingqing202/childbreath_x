@@ -28,6 +28,9 @@
   <a href="#" class="list-group-item active disabled list-group-item-danger">
   <strong>病房护理知识</strong>
   </a>
+  <a href="../../resources/pages/detail_content.jsp?name=zhuyuanbuqiuren" class="list-group-item opacity35">
+  呼吸科住院不求人问题汇总
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
   <a href="../../resources/pages/detail_content.jsp?name=zhuyuanxuanjiao" class="list-group-item opacity35">
   呼吸科入科宣教
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>

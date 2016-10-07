@@ -66,19 +66,35 @@
       <tbody>
         <tr>
           <th scope="row">呼吸<br/>哮喘</th>
+          <td>周一<br/>上午</td>
+          <td>专科</td>
+          <td>张欣</td>
+          <td>主治</td>
+          <td>一楼二诊<br/>区</td>
+        </tr>
+        <tr>
+          <th scope="row">呼吸<br/>哮喘</th>
           <td>周一<br/>下午</td>
           <td>特需</td>
           <td>岳孟源</td>
           <td>副主任</td>
           <td>二楼十二<br/>诊区</td>
         </tr>
-        <tr bgcolor=#FFB5B5>
-          <th scope="row">慢性<br/>咳嗽<br/>专病</th>
-          <td>周一<br/>下午</td>
-          <td>专科</td>
-          <td>张磊</td>
-          <td>主治</td>
-          <td>二楼八诊<br/>区</td>
+        <tr>
+          <th scope="row">呼吸<br/>哮喘</th>
+          <td>周一<br/>全天</td>
+          <td>特需</td>
+          <td>轮流</td>
+          <td>主治及</br>以上</td>
+          <td>一楼二诊<br/>区</td>
+        </tr>
+        <tr>
+          <th scope="row">肺炎<br/>延时</th>
+          <td>周一<br/>晚上</td>
+          <td>特需</td>
+          <td>轮流</td>
+          <td>专科<br/>医生</td>
+          <td>二楼十二<br/>诊区</td>
         </tr>
         <tr>
           <th scope="row">呼吸<br/>哮喘</th>
@@ -114,19 +130,35 @@
         </tr>
         <tr>
           <th scope="row">呼吸<br/>哮喘</th>
+          <td>周三<br/>上午</td>
+          <td>专科</td>
+          <td>唐铭钰</td>
+          <td>主治</td>
+          <td>一楼二诊<br/>区</td>
+        </tr>
+        <tr>
+          <th scope="row">呼吸<br/>哮喘</th>
           <td>周三<br/>下午</td>
           <td>专科</td>
           <td>唐铭钰</td>
           <td>主治</td>
-          <td>二楼八诊<br/>区</td>
+          <td>一楼二诊<br/>区</td>
         </tr>
         <tr>
-          <th scope="row">呼吸<br/>哮喘</th>
+          <th scope="row">肺炎<br/>延时</th>
+          <td>周三<br/>晚上</td>
+          <td>特需</td>
+          <td>轮流</td>
+          <td>专科<br/>医生</td>
+          <td>二楼十二<br/>诊区</td>
+        </tr>
+        <tr bgcolor=#FFB5B5	class="active">
+          <th scope="row">慢性<br/>咳嗽</th>
           <td>周四<br/>上午</td>
           <td>专科</td>
-          <td>张欣</td>
+          <td>张磊</td>
           <td>主治</td>
-          <td>二楼八诊<br/>区</td>
+          <td>一楼二诊<br/>区</td>
         </tr>
         <tr>
           <th scope="row">呼吸<br/>哮喘</th>
@@ -134,13 +166,29 @@
           <td>专科</td>
           <td>袁姝华</td>
           <td>主治</td>
-          <td>二楼八诊<br/>区</td>
+          <td>一楼二诊<br/>区</td>
         </tr>
         <tr bgcolor=#FFB5B5	class="active">
           <th scope="row">呼吸<br/>哮喘</th>
           <td>周四<br/>下午</td>
           <td>副主<br/>任</td>
           <td>张皓</td>
+          <td>副主任</td>
+          <td>二楼九诊<br/>区</td>
+        </tr>
+        <tr>
+          <th scope="row">肺炎<br/>延时</th>
+          <td>周四<br/>晚上</td>
+          <td>延时</td>
+          <td>张皓</td>
+          <td>副主任</td>
+          <td>二楼十二<br/>诊区</td>
+        </tr>
+        <tr>
+          <th scope="row">呼吸<br/>哮喘</th>
+          <td>周五<br/>上午</td>
+          <td>副主<br/>任</td>
+          <td>钟文伟</td>
           <td>副主任</td>
           <td>二楼九诊<br/>区</td>
         </tr>
@@ -158,23 +206,15 @@
           <td>专科</td>
           <td>张静</td>
           <td>主治</td>
-          <td>二楼八诊<br/>区</td>
+          <td>一楼二诊<br/>区</td>
         </tr>
         <tr>
           <th scope="row">呼吸<br/>哮喘</th>
-          <td>周六<br/>上午</td>
+          <td>周六<br/>全天</td>
           <td>特需</td>
-          <td>张皓</td>
-          <td>副主任</td>
-          <td>二楼十二<br/>诊区</td>
-        </tr>
-        <tr>
-          <th scope="row">哮喘</th>
-          <td>周六<br/>上午</td>
-          <td>照顾<br/>特需</td>
           <td>轮流</td>
-          <td>副主任<br/>/主治</td>
-          <td>二楼八诊<br/>区</td>
+          <td>主治及</br>以上</td>
+          <td>一楼二诊<br/>区</td>
         </tr>
       </tbody>
     </table>
