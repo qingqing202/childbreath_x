@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content_home>
+    <title>
+        <name>
+            振动PEP治疗仪使用说明（视频）
+        </name>
+    </title>
+    <content>
+        <type>h1</type>
+        <detail>振动PEP治疗仪使用说明（视频）</detail>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+    <content> <type>signature</type>
+        <author> <![CDATA[<a href = "index.jsp">上海儿童医学中心呼吸科</a>]]>
+        </author>
+        <date>
+            2016年12月24日
+        </date>
+    </content>
+
+    <content>
+        <type>dot_box</type>
+        <detail>
+            PEP治疗装置（Portex Acapella振动PEP治疗仪）多应用于5岁以上能够配合治疗的患儿。通过装置匀速呼吸时会遇到阻力，呼吸受阻会使肺内产生正压而撑开气道，配合振动，这种振动的气流将气道内粘稠分泌物离开深部肺泡以及支气管管壁，推动粘痰上升至上段支气管或中心气道，通过呼吸以及咳嗽动作将分泌物排出体内。
+        </detail>
+    </content>
+
+
+    <content>
+        <type>video</type>
+        <detail>
+            <![CDATA[
+            https://v.qq.com/iframe/player.html?vid=d0314fuf5xe&tiny=0&auto=0
+            ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <hr /> ]]>
+        </detail>
+    </content>
+
+    <content>
+        <type>img</type>
+        <src>resources/img/qcode.jpg</src>
+    </content>
+    <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[ <br /> ]]>
+        </detail>
+    </content>
+</content_home>

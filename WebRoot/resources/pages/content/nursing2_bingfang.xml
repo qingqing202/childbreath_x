@@ -39,9 +39,14 @@
   呼吸科专科宣教
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
 
+  <a href="http://mp.weixin.qq.com/s/vaFRxPrGP7_ziaKQHCcc2w" class="list-group-item opacity35">
+  预防住院患儿跌落宣教
+  <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
   <a href="../../resources/pages/detail_content.jsp?name=gaozhishu" class="list-group-item opacity35">
   病房陪护探视告知书
   <div class="pull-right"><span class="glyphicon glyphicon-chevron-right"></span></div></a>
+
 
   <a href="../../resources/pages/detail_content.jsp?name=zhuyuanjijin" class="list-group-item opacity35">
   如何办理少儿住院基金
