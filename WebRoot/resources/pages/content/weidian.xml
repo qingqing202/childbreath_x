@@ -59,6 +59,22 @@
         </body>
     </content>
 
+    <content>
+        <type>media</type>
+        <outlink>
+            <![CDATA[
+            http://shuomao.flzhan.com/index.html
+            ]]>
+        </outlink>
+        <img_src>resources/img/weidian/shuomao.png</img_src>
+        <title>哮喘管家(智能雾化泵)</title>
+        <body>
+            <![CDATA[
+            哮喘管家自2014年始致力于通过智能呼吸监控设备与健康云构建一套完整的呼吸慢病院外服务体系，在家庭场景中帮助患者得到专业医学指导，降低哮喘发作频次。
+            ]]>
+        </body>
+    </content>
+
 
     <content>
         <type>html</type>
