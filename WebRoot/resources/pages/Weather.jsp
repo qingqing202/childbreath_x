@@ -30,7 +30,7 @@
 
 <%
     HealthWeather2 hw = new HealthWeather2();
-    String s = hw.getWarningLevelDay1();
+    hw.getWeatherInfo();
 %>
 
 <div id="shareImage" style="display: none;">
