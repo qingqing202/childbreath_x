@@ -23,11 +23,11 @@ public class HealthWeather2 {
 	}
 
 	public void getWeatherInfo(){
-		int current = Calendar.getInstance().DAY_OF_MONTH;
-		/*
-		System.out.println("current =  " + current);
-		System.out.println("info_day=  " + info_day);
-		*/
+
+		Calendar now = Calendar.getInstance();
+		int current = now.get(Calendar.DAY_OF_MONTH);
+		//System.out.println("current =  " + current);
+		//System.out.println("info_day=  " + info_day);
 		synchronized(this) {
 			if (current != info_day) {
 				info_day = current;
