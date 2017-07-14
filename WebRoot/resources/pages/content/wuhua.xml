@@ -23,6 +23,16 @@
         </date>
     </content>
     <content>
+        <type>html</type>
+        <detail>
+            <![CDATA[
+            <font color = "gray">
+            (本文作者为上海儿童医学中心呼吸科康燕护师，发表于上海儿童医学中心呼吸科“呼吸天使”公众号，转载请注明作者和出处。)
+            </font>
+            ]]>
+        </detail>
+    </content>
+    <content>
         <type>dot_box</type>
         <detail>储雾罐是一种辅助吸入设备，可以用来连接抛射剂及定量吸入器以便治疗呼吸道疾病。
         储雾罐可以用于减少使用定量吸入器时手口不配合的错误；防止过量药物运送到口腔、咽产生副作用。
