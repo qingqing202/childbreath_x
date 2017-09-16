@@ -65,10 +65,14 @@
         <span style="font-size:27px; line-height: 43.2px; color: rgb(253, 103, 102); box-sizing: border-box;">预</span>
         <span style="font-size:27px; line-height: 43.2px; color: rgb(4, 147, 200); box-sizing: border-box;">警</span></strong></span></p></section></section></section>
                             <section class="Powered-by-XIUMI V5" style="position: static; box-sizing: border-box;" powered-by="xiumi.us">
+                                <!--
                                 <section class="" style="text-align: center; margin: 0px 0%; position: static; box-sizing: border-box;">
                                     <img style="max-width: 100%; vertical-align: middle; width: 26%; box-sizing: border-box;" class="" src="./weather_files/2016-5-29-5.png" data-ratio="0.228125" data-w="320" _width="26%">
                                 </section></section>
+                                -->
+                                <hr/>
                             <section class="Powered-by-XIUMI V5" style="position: static; box-sizing: border-box;" powered-by="xiumi.us">
+                                <section style="text-align: right">上海儿童医学中心呼吸科</section>
                                 <section class="" style="margin-top: 10px; margin-bottom: 10px; position: static; box-sizing: border-box;">
                                     <section class="" style="padding-left: 1em; padding-right: 1em; display: inline-block; text-align: center; box-sizing: border-box;">
 	<span style="display: inline-block; padding: 0.3em 0.5em; border-radius: 0.5em; background-color: rgb(249, 110, 87); font-size: 18px; color: rgb(255, 255, 255); box-sizing: border-box;" class="">
