@@ -12,6 +12,12 @@ public class OpenIdMgr {
 	public final static String get_id_url = "https://api.weixin.qq.com/cgi-bin/user/get?access_token=ACCESS_TOKEN&next_openid=NEXT_OPENID";
 	public final static String get_user_info_url= "https://api.weixin.qq.com/cgi-bin/user/info?access_token=ACCESS_TOKEN&openid=OPENID&lang=zh_CN";
 
+	private static OpenIdMgr m_instance = new OpenIdMgr();
+
+	public static synchronized OpenIdMgr getInstance(){
+		return m_instance;
+	}
+
 	public String get_all_openid(String next_openid){
 		try{
 			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
@@ -33,7 +39,7 @@ public class OpenIdMgr {
 		return "";
 	}
 
-	public String get_nickname_from_openid(String openid) {
+	public String getNickNameFromOpenID(String openid) {
 		try {
 			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
 			String token = mgr.getAccessToken();
