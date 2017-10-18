@@ -60,7 +60,7 @@ public class TemplateMessageMgr {
 
 			System.out.println("post f ="+f1.toString());
 
-			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
+			AccessTokenMgr mgr = AccessTokenMgrSCMC.getInstance();
 			String token = mgr.getAccessToken();
 
 			String requestUrl = get_id_url.replace("ACCESS_TOKEN", token);

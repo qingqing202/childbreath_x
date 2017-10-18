@@ -58,8 +58,9 @@ public class weixinServlet extends HttpServlet {
 	 */
 	@Override
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		System.out.println("test123");
 		String respMessage = WeixinMessageProcess.ProcessRequest(request);
-		
+
 		PrintWriter out = response.getWriter();
 		out.print( respMessage );
 		out.close();

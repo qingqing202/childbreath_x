@@ -19,14 +19,17 @@ public class UserGroupMgr {
 	public final static String delete_group_user_url = "https://api.weixin.qq.com/cgi-bin/tags/members/batchuntagging?access_token=ACCESS_TOKEN";
 	public final static String get_user_group_url    = "https://api.weixin.qq.com/cgi-bin/tags/getidlist?access_token=ACCESS_TOKEN";
 
-	public UserGroupMgr(){
+	public AccessTokenMgr mgr_;
+
+	public UserGroupMgr(AccessTokenMgr mgr) {
+		mgr_ = mgr;
 	}
 
 	public JSONArray getUserGroups(String openid) {
 		JSONArray tagids = new JSONArray();
 		try {
-			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
-			String token = mgr.getAccessToken();
+			//AccessTokenMgr mgr = AccessTokenMgr.getInstance();
+			String token = mgr_.getAccessToken();
 
 			JSONObject js_in = new JSONObject();
 			js_in.put("openid", openid);
@@ -54,8 +57,8 @@ public class UserGroupMgr {
 
 	public boolean deleteUserGroup(int tagid, String[] openids) {
 		try {
-			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
-			String token = mgr.getAccessToken();
+			//AccessTokenMgr mgr = AccessTokenMgr.getInstance();
+			String token = mgr_.getAccessToken();
 
 			JSONObject js_in = new JSONObject();
 			js_in.put("openid_list", openids);
@@ -84,8 +87,8 @@ public class UserGroupMgr {
 
 	public boolean setUserGroup (int tagid, String[] openids) {
 		try {
-			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
-			String token = mgr.getAccessToken();
+			//AccessTokenMgr mgr = AccessTokenMgr.getInstance();
+			String token = mgr_.getAccessToken();
 
 			JSONObject js_in = new JSONObject();
 			js_in.put("openid_list", openids);
@@ -114,8 +117,8 @@ public class UserGroupMgr {
 	public JSONObject getGroupUsers(int id, String next_openid) {
 		JSONObject js_object = new JSONObject();
 		try {
-			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
-			String token = mgr.getAccessToken();
+			//AccessTokenMgr mgr = AccessTokenMgr.getInstance();
+			String token = mgr_.getAccessToken();
 
 			JSONObject js_in = new JSONObject();
 			js_in.put("tagid", id);
@@ -136,8 +139,8 @@ public class UserGroupMgr {
 
 	public boolean deleteGroup(int id) {
 		try {
-			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
-			String token = mgr.getAccessToken();
+			//AccessTokenMgr mgr = AccessTokenMgr.getInstance();
+			String token = mgr_.getAccessToken();
 
 			JSONObject js_in = new JSONObject();
 			js_in.put("id", String.valueOf(id));
@@ -167,8 +170,8 @@ public class UserGroupMgr {
 
 	public boolean updateGroup(int id, String name) {
 		try {
-			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
-			String token = mgr.getAccessToken();
+			//AccessTokenMgr mgr = AccessTokenMgr.getInstance();
+			String token = mgr_.getAccessToken();
 
 			JSONObject js_in = new JSONObject();
 			js_in.put("id", String.valueOf(id));
@@ -199,8 +202,8 @@ public class UserGroupMgr {
 
 	public JSONObject getGroups() {
 		try {
-			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
-			String token = mgr.getAccessToken();
+			//AccessTokenMgr mgr = AccessTokenMgr.getInstance();
+			String token = mgr_.getAccessToken();
 
 			String requestUrl = get_group_url.replace("ACCESS_TOKEN", token);
 			JSONObject jsonObject = WeixinUtil.HttpsRequest(requestUrl, "GET", null);
@@ -222,8 +225,8 @@ public class UserGroupMgr {
 		JSONObject js_object = new JSONObject();
 		try {
 
-			AccessTokenMgr mgr = AccessTokenMgr.getInstance();
-			String token = mgr.getAccessToken();
+			//AccessTokenMgr mgr = AccessTokenMgr.getInstance();
+			String token = mgr_.getAccessToken();
 			JSONObject js_in = new JSONObject();
 			js_in.put("name", name);
 

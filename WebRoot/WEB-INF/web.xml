@@ -23,6 +23,39 @@
         <url-pattern>/download</url-pattern>
     </servlet-mapping>
 
+
+    <servlet>
+        <servlet-name>ServletTest</servlet-name>
+        <servlet-class>childbreath.servlet.ServletTest</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>ServletTest</servlet-name>
+        <url-pattern>/test</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>setUsrGroup</servlet-name>
+        <servlet-class>childbreath.servlet.setUsrGroup</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>setUsrGroup</servlet-name>
+        <url-pattern>/setUsrGroup</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>wechatWebAuth</servlet-name>
+        <servlet-class>childbreath.servlet.wechatWebAuth</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>wechatWebAuth</servlet-name>
+        <url-pattern>/wechatWebAuth</url-pattern>
+    </servlet-mapping>
+
   <servlet>
       <servlet-name>weixinEnter</servlet-name>
       <servlet-class>childbreath.servlet.weixinServlet</servlet-class>
@@ -32,6 +65,7 @@
       <url-pattern>/weixinEnter/*</url-pattern>
   </servlet-mapping>
 
+    <!--
   <servlet>
     <servlet-name>app</servlet-name>
     <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>    
@@ -41,6 +75,8 @@
     <servlet-name>app</servlet-name>
     <url-pattern>/</url-pattern>
   </servlet-mapping>
+  -->
+
 
 
 
