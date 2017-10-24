@@ -85,6 +85,7 @@ public class setUsrGroup extends HttpServlet {
                     System.out.println("1group " + i + " name " + groups.getJSONObject(i).getString("name"));
                     if (groups.getJSONObject(i).getString("name").equals("医护人员")) {
                         tag_id = groups.getJSONObject(i).getInteger("id");
+                        System.out.println("tag_id = " + tag_id);
                     }
                 }
             } else {
