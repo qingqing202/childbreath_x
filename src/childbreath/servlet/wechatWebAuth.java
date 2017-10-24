@@ -1,5 +1,6 @@
 package childbreath.servlet;
 
+import childbreath.service.AccessTokenMgrSCMC;
 import childbreath.service.AccessTokenMgr;
 import com.alibaba.fastjson.JSONObject;
 import weixin.utility.WeixinUtil;
@@ -23,7 +24,7 @@ public class wechatWebAuth extends HttpServlet {
         System.out.println("code = " + request.getParameter("code"));
         System.out.println("state= " + request.getParameter("state"));
 
-        AccessTokenMgr mgr = AccessTokenMgr.getInstance();
+        AccessTokenMgr mgr = AccessTokenMgrSCMC.getInstance();
 
         String requestURL = access_token_url.replace("APPID", mgr.getAppId()).replace("SECRET", mgr.getAppSecret()).replace("CODE", "011ra1Mk1uDMjj0fxbLk1LYdMk1ra1MC");
         //String requestURL = access_token_url.replace("APPID", mgr.getAppId()).replace("SECRET", mgr.getAppSecret()).replace("CODE", request.getParameter("code"));
